@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from "react";
-import { fetchWeather } from "./weather";
+import { fetchWeatherByCityAndDate } from "./weather";
 import {
   Plane,
   Car,
@@ -27,53 +27,70 @@ export default function App() {
 
   const travelers = ["Lucas", "Amanda", "Matheus", "Rafa"];
 
-  const currentWeatherCity =
-    activeDay >= 15 && activeDay <= 17
-      ? "Miami"
-      : activeDay >= 18 && activeDay <= 21
-      ? "Orlando"
-      : activeDay >= 22 && activeDay <= 24
-      ? "Washington"
-      : activeDay >= 25 && activeDay <= 27
-      ? "New York City"
-      : activeDay >= 28
-      ? "Miami"
-      : "Campinas";
+const weatherByDay = {
+  14: { city: "Campinas", date: "2026-04-14" },
+  15: { city: "Miami", date: "2026-04-15" },
+  16: { city: "Miami", date: "2026-04-16" },
+  17: { city: "Miami", date: "2026-04-17" },
+  18: { city: "Orlando", date: "2026-04-18" },
+  19: { city: "Orlando", date: "2026-04-19" },
+  20: { city: "Orlando", date: "2026-04-20" },
+  21: { city: "Orlando", date: "2026-04-21" },
+  22: { city: "Washington, DC", date: "2026-04-22" },
+  23: { city: "Washington, DC", date: "2026-04-23" },
+  24: { city: "Washington, DC", date: "2026-04-24" },
+  25: { city: "New York City", date: "2026-04-25" },
+  26: { city: "New York City", date: "2026-04-26" },
+  27: { city: "New York City", date: "2026-04-27" },
+  28: { city: "Miami", date: "2026-04-28" },
+  29: { city: "Anápolis", date: "2026-04-29" },
+};
 
-  useEffect(() => {
-    let isMounted = true;
+const currentWeather = weatherByDay[activeDay] || {
+  city: "Campinas",
+  date: "2026-04-14",
+};
 
-    async function loadWeather() {
-      try {
-        setWeatherLoading(true);
-        setWeatherError("");
-        const data = await fetchWeather(currentWeatherCity);
+const currentWeatherCity = currentWeather.city;
+const currentWeatherDate = currentWeather.date;
 
-        if (isMounted) {
-          setWeather(data);
-        }
-      } catch (error) {
-        if (isMounted) {
-          setWeatherError("Não foi possível atualizar o clima.");
-        }
-      } finally {
-        if (isMounted) {
-          setWeatherLoading(false);
-        }
+ useEffect(() => {
+  let isMounted = true;
+
+  async function loadWeather() {
+    try {
+      setWeatherLoading(true);
+      setWeatherError("");
+      const data = await fetchWeatherByCityAndDate(
+        currentWeatherCity,
+        currentWeatherDate
+      );
+
+      if (isMounted) {
+        setWeather(data);
+      }
+    } catch (error) {
+      if (isMounted) {
+        setWeatherError("Não foi possível atualizar o clima.");
+      }
+    } finally {
+      if (isMounted) {
+        setWeatherLoading(false);
       }
     }
+  }
 
+  loadWeather();
+
+  const interval = setInterval(() => {
     loadWeather();
+  }, 15 * 60 * 1000);
 
-    const interval = setInterval(() => {
-      loadWeather();
-    }, 15 * 60 * 1000);
-
-    return () => {
-      isMounted = false;
-      clearInterval(interval);
-    };
-  }, [currentWeatherCity]);
+  return () => {
+    isMounted = false;
+    clearInterval(interval);
+  };
+}, [currentWeatherCity, currentWeatherDate]);
 
   const heroTabs = [
     {
