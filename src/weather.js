@@ -1,10 +1,11 @@
 const CITY_COORDS = {
-  "Campinas": { latitude: -22.9099, longitude: -47.0626 },
-  "Miami": { latitude: 25.7617, longitude: -80.1918 },
-  "Orlando": { latitude: 28.5383, longitude: -81.3792 },
+  Campinas: { latitude: -22.9099, longitude: -47.0626 },
+  Miami: { latitude: 25.7617, longitude: -80.1918 },
+  Orlando: { latitude: 28.5383, longitude: -81.3792 },
+  Lakeland: { latitude: 28.0395, longitude: -81.9498 },
   "Washington, DC": { latitude: 38.9072, longitude: -77.0369 },
   "New York City": { latitude: 40.7128, longitude: -74.006 },
-  "Anápolis": { latitude: -16.3281, longitude: -48.9534 },
+  Anápolis: { latitude: -16.3281, longitude: -48.9534 },
 };
 
 const WEATHER_CODE_MAP = {
@@ -73,10 +74,13 @@ export async function fetchWeatherByCityAndDate(city, date) {
     return {
       city,
       temperature: "--°C",
+      maxTemperature: "--°C",
+      minTemperature: "--°C",
       condition: "Previsão indisponível para esta data",
       rainChance: "--%",
       icon: "cloud",
       weatherCode: null,
+      date,
     };
   }
 
@@ -90,19 +94,19 @@ export async function fetchWeatherByCityAndDate(city, date) {
       ? Math.round((max + min) / 2)
       : null;
 
-  return {
-    city,
-    temperature: avgTemp !== null ? `${avgTemp}°C` : "--°C",
-    condition:
-      weatherCode !== null
-        ? WEATHER_CODE_MAP[weatherCode] || "Clima indisponível"
-        : "Previsão indisponível para esta data",
-    rainChance:
-      typeof rainChance === "number" ? `${Math.round(rainChance)}%` : "--%",
-    icon: getWeatherIcon(weatherCode),
-    weatherCode,
-    tempMax: typeof max === "number" ? Math.round(max) : null,
-    tempMin: typeof min === "number" ? Math.round(min) : null,
-    date,
-  };
+return {
+  city,
+  temperature: avgTemp !== null ? `${avgTemp}°C` : "--°C",
+  condition:
+    weatherCode !== null
+      ? WEATHER_CODE_MAP[weatherCode] || "Clima indisponível"
+      : "Previsão indisponível para esta data",
+  rainChance:
+    typeof rainChance === "number" ? `${Math.round(rainChance)}%` : "--%",
+  icon: getWeatherIcon(weatherCode),
+  weatherCode,
+  maxTemperature: typeof max === "number" ? `${Math.round(max)}°C` : "--°C",
+  minTemperature: typeof min === "number" ? `${Math.round(min)}°C` : "--°C",
+  date,
+};
 }
