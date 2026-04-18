@@ -1185,517 +1185,779 @@ export const itinerary = {
   },
 ],
 
-   18: [
+   18: [ 
   {
-    time: "06:10",
-    title: "Acordar 🌅",
+    time: "05:50",
+    title: "Acordar — operação Magic Kingdom 🌅",
     description:
-      "Início do dia mais simbólico da fase Disney, com foco total em aproveitar o Magic Kingdom de verdade.",
+      "Início do dia mais simbólico da fase Disney, agora com plano ajustado para entrada às 8h e fura-filas já cravados.",
     strategy:
-      "Hoje não é dia de moleza. A missão é entrar cedo, andar certo e preservar energia para o clímax da noite.",
+      "Hoje não é dia de improviso. A primeira missão é sair do hotel com tudo pronto, porque entrar cedo no Magic Kingdom muda o dia inteiro.",
     transport: "",
     location: "",
     photoSpot: "",
     practicalPlan:
-      "Levantar com mochila, ingressos, power bank, protetor, água e itens básicos já praticamente resolvidos da noite anterior.",
+      "Levantar, banho rápido, roupa confortável, mochila leve, power bank, protetor, água, remédios básicos, cartão, documento e celular carregado.",
     pitfalls:
-      "Começar o dia bagunçado e gastar a primeira energia do parque ainda dentro do quarto.",
+      "Começar procurando coisa dentro do quarto é a forma mais besta de perder o melhor horário do parque.",
     tips: [
-      "Parque bom começa no hotel, não no portão.",
-      "Hoje a manhã compra o dia inteiro.",
-      "O segredo é sair pronto, não sair correndo.",
+      "Parque bom começa no hotel, não na catraca.",
+      "Hoje a mochila precisa sair pronta: cabo, bateria, água e documento.",
+      "Tênis confortável vale mais que look bonito demais.",
+      "Se alguém atrasar, o grupo inteiro paga a conta em fila.",
     ],
     hack:
-      "Primeira vitória do Magic Kingdom acontece antes mesmo de ligar a BMW.",
+      "A primeira vitória do Magic Kingdom é sair do quarto sem parecer mudança residencial.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "06:45",
-    title: "Café da manhã no hotel 🍳",
+    time: "06:20",
+    title: "Sair do hotel — sem café demorado 🚘",
     description:
-      "Café estratégico antes do primeiro parque forte da viagem.",
+      "Saída direta para café rápido fora do hotel, porque a entrada às 8h virou prioridade absoluta.",
     strategy:
-      "Comer bem e sair forte. Hoje vocês vão andar muito e não vale começar o dia no improviso.",
-    transport: "",
-    location: "Travelodge by Wyndham Orlando Lake Buena Vista South",
+      "Não usar o café do hotel hoje. O café incluso é bom, mas a primeira hora do Magic Kingdom vale mais.",
+    transport: "BMW X7",
+    location: "Travelodge by Wyndham Orlando Lake Buena Vista South → McDonald’s próximo",
     photoSpot: "",
     practicalPlan:
-      "Fazer um café objetivo, sem transformar o bloco em pausa longa, e sair já com tudo resolvido para o estacionamento.",
+      "Entrar no carro já com rota aberta para um McDonald’s no caminho do Magic Kingdom. Café no modo pit stop: comprar, comer rápido e seguir.",
     pitfalls:
-      "Demorar demais no café ou comer pesado a ponto de já começar o parque mais lento.",
+      "Sentar para café com calma às 7h e descobrir depois que a Disney não perdoa quem larga atrasado.",
     tips: [
-      "Hoje café incluso é trunfo operacional.",
-      "Comer cedo reduz a ansiedade de chegada.",
-      "Água logo cedo ajuda mais do que parece.",
+      "Café hoje é combustível, não evento social.",
+      "Pedido simples: Egg McMuffin ou biscuit, hash brown, café ou água.",
+      "Se o McDonald’s estiver cheio, pega para viagem ou aborta sem dó.",
+      "Melhor chegar cedo comendo simples do que chegar tarde alimentado e arrependido.",
     ],
     hack:
-      "Café certo no hotel vale mais do que procurar comida bonita fora de hora.",
-    restaurant: "Café do hotel",
+      "Café bom hoje é o que não rouba parque. O Mickey não espera ninguém, nem empresário brasileiro.",
+    restaurant: "McDonald’s rápido no caminho",
+    lounge: "",
+  },
+  {
+    time: "06:25",
+    title: "McDonald’s rápido — café de guerra 🍟",
+    description:
+      "Parada curta para comer algo prático antes da maratona do Magic Kingdom.",
+    strategy:
+      "Resolver alimentação sem perder o foco da entrada às 8h. O objetivo é sair em poucos minutos, não fazer degustação de café americano.",
+    transport: "BMW X7",
+    location: "McDonald’s no caminho para Walt Disney World",
+    photoSpot: "",
+    practicalPlan:
+      "Um entra e compra enquanto o outro organiza água, GPS, ingressos e mochila. Se possível, comer parte no carro e seguir.",
+    pitfalls:
+      "Fila grande, pedido complicado ou ficar escolhendo cardápio como se fosse restaurante premium.",
+    tips: [
+      "Nada de pedido cheio de alteração.",
+      "Compra água extra se estiver fácil.",
+      "Hash brown ajuda, mas não deixa isso virar banquete.",
+      "Se der qualquer sinal de atraso, corta o café e compra algo dentro do parque.",
+    ],
+    hack:
+      "Pit stop bom é igual Fórmula 1: entrou, abasteceu, saiu. Sem romantizar batata.",
+    restaurant: "McDonald’s",
+    lounge: "",
+  },
+  {
+    time: "06:40",
+    title: "Saída para o Magic Kingdom 🏰",
+    description:
+      "Deslocamento oficial para o parque, com foco total em chegar ao TTC antes do gargalo pesado.",
+    strategy:
+      "Agora acabou conversa. GPS ligado, grupo fechado e rota direta para o Ticket and Transportation Center.",
+    transport: "BMW X7",
+    location: "McDonald’s → Ticket and Transportation Center, Magic Kingdom",
+    photoSpot: "",
+    practicalPlan:
+      "Seguir direto para o estacionamento do Magic Kingdom. Sem desvio, sem mercado, sem posto, sem parada de última hora.",
+    pitfalls:
+      "Achar que “é pertinho” e subestimar trânsito, estacionamento, segurança, ferry/monorail e caminhada.",
+    tips: [
+      "Magic Kingdom não começa no portão; começa no TTC.",
+      "O estacionamento ainda exige transporte até a entrada.",
+      "A margem boa é chegar ao TTC por volta de 07:15.",
+      "Se o GPS der duas rotas, escolha a mais previsível, não a mais bonita.",
+    ],
+    hack:
+      "Quem chega cedo no TTC chega cedo no parque. Quem chega cedo só no estacionamento ainda está no aquecimento.",
+    restaurant: "",
     lounge: "",
   },
   {
     time: "07:15",
-    title: "Saída para o Magic Kingdom 🚘",
+    title: "TTC + Preferred Parking 🅿️",
     description:
-      "Deslocamento rumo ao parque com foco total em chegada limpa e forte.",
+      "Entrada no ecossistema Disney com a X7 posicionada do jeito mais inteligente para a volta da noite.",
     strategy:
-      "Hoje o relógio importa. Preferred Parking e entrada bem executada devolvem tempo e conforto o dia inteiro.",
+      "Preferred Parking hoje é investimento, não luxo. A volta depois das 23h vai cobrar cada passo economizado.",
     transport: "BMW X7",
-    location: "Hotel em Kissimmee → Magic Kingdom, Walt Disney World",
+    location: "Ticket and Transportation Center — Magic Kingdom",
     photoSpot: "",
     practicalPlan:
-      "Sair direto para o estacionamento, sem desvio, sem parada boba e sem reabrir decisão já tomada.",
+      "Usar Preferred Parking, fotografar a localização da vaga e seguir com o grupo unido para segurança e transporte ao parque.",
     pitfalls:
-      "Tratar a saída como passeio comum e perder justamente a margem mais valiosa do dia.",
+      "Economizar no lugar errado e depois pagar com perna, cansaço e mau humor no fim da noite.",
     tips: [
-      "Preferred Parking aqui faz sentido de verdade.",
-      "Tempo poupado cedo volta em dobro mais tarde.",
-      "Hoje a ida precisa ser limpa.",
+      "Tire foto da vaga/setor.",
+      "Já deixe claro se vão de monorail ou ferry conforme a fila.",
+      "Não disperse no estacionamento.",
+      "Banheiro só se for necessário; a prioridade é entrada.",
     ],
     hack:
-      "Em dia de Disney, sair bonito não importa; sair no horário importa.",
+      "Preferred Parking é aquela despesa que parece frescura às 7h e vira bênção às 23h.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "07:30",
+    title: "Monorail ou Ferry — o mais rápido vence 🚝",
+    description:
+      "Travessia do TTC para a entrada do Magic Kingdom usando a opção com menor fila no momento.",
+    strategy:
+      "Hoje não tem religião de transporte. Se o monorail estiver rápido, vai nele. Se o ferry estiver fluindo melhor, ferry sem drama.",
+    transport: "Monorail ou Ferryboat",
+    location: "TTC → Magic Kingdom Park",
+    photoSpot:
+      "Se for de ferry, foto do castelo se aproximando pela água; se for de monorail, registro rápido da chegada clássica.",
+    practicalPlan:
+      "Olhar a fila real, escolher rápido e entrar. O objetivo é estar no portão do parque perto das 8h.",
+    pitfalls:
+      "Ficar discutindo qual é mais bonito e perder a fila que estava andando.",
+    tips: [
+      "Monorail é clássico e rápido quando está fluindo.",
+      "Ferry é mais bonito e pode andar melhor em alguns momentos.",
+      "A decisão certa é a que coloca vocês antes no portão.",
+      "Já deixem ingressos/app prontos antes de chegar na catraca.",
+    ],
+    hack:
+      "A melhor travessia não é a mais charmosa; é a que entrega vocês cedo na Main Street.",
     restaurant: "",
     lounge: "",
   },
   {
     time: "08:00",
-    title: "Chegada ao TTC + Preferred Parking 🅿️",
+    title: "Entrada no Magic Kingdom + foto clássica 🏰",
     description:
-      "Entrada no ecossistema Disney com a X7 posicionada do jeito mais inteligente.",
+      "Entrada oficial no parque, com foto rápida na Main Street e início real da operação.",
     strategy:
-      "A lógica aqui é simples: pagar para andar menos no pior momento do dia, que é a volta cansada.",
-    transport: "BMW X7",
-    location: "Ticket and Transportation Center — Magic Kingdom",
-    photoSpot: "",
-    practicalPlan:
-      "Usar Preferred Parking, estacionar bem e seguir para o Monorail com o grupo unido e sem perder tempo no estacionamento.",
-    pitfalls:
-      "Economizar no lugar errado e pagar com perna e cansaço na volta.",
-    tips: [
-      "Preferred Parking não é frescura aqui.",
-      "Hoje conforto na volta vale muito.",
-      "Menos caminhada na largada também ajuda o ritmo do parque.",
-    ],
-    hack:
-      "A melhor vaga do dia é a que ninguém valoriza cedo e todo mundo agradece à noite.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "08:15",
-    title: "Monorail na ida 🚝",
-    description:
-      "Travessia clássica para chegar no parque com a visão mais emblemática do castelo.",
-    strategy:
-      "A ida merece impacto. Monorail entrega sensação de chegada grande sem atrapalhar a operação.",
-    transport: "Monorail",
-    location: "TTC → Magic Kingdom",
-    photoSpot:
-      "Visão do castelo se aproximando pela janela do Monorail.",
-    practicalPlan:
-      "Entrar no Monorail sem dispersar, curtir a aproximação e já sair com a rota da abertura clara na cabeça.",
-    pitfalls:
-      "Usar esse momento como passeio contemplativo demais e chegar no portão sem foco.",
-    tips: [
-      "Hoje a ida é parte da experiência.",
-      "O impacto visual do castelo já começa aqui.",
-      "Chegar emocionado é bom; chegar confuso, não.",
-    ],
-    hack:
-      "Monorail na ida dá a entrada clássica, barco na volta fecha o dia com paz.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "08:30",
-    title: "Entrada no parque + foto clássica 🏰",
-    description:
-      "Primeiro contato oficial com a Main Street e o castelo ainda em clima de manhã.",
-    strategy:
-      "Foto rápida e limpa, sem deixar a estética roubar o começo mais valioso do parque.",
+      "Fazer o registro clássico sem deixar a estética roubar a hora mais valiosa da manhã.",
     transport: "Caminhada",
     location: "Main Street U.S.A. — Magic Kingdom",
     photoSpot:
-      "Main Street com o castelo ao fundo, antes do fluxo ficar mais pesado.",
+      "Main Street com o castelo ao fundo, ainda com luz de manhã e fluxo mais limpo.",
     practicalPlan:
-      "Fazer a foto clássica sem transformar isso em ensaio e seguir logo para Tomorrowland.",
+      "Entrar, fazer foto objetiva e seguir para Tomorrowland. Castelo vai continuar lá; fila baixa não.",
     pitfalls:
-      "Perder tempo demais na entrada e começar o parque já atrás do próprio plano.",
+      "Transformar a primeira foto em ensaio e começar o parque 40 minutos atrasado por vaidade turística.",
     tips: [
-      "Foto boa cedo sai mais limpa.",
-      "Hoje a prioridade é parque rodando forte.",
-      "A melhor lembrança da entrada é a que não custou meia hora.",
+      "Foto cedo sai mais limpa.",
+      "Nada de parar em loja na entrada.",
+      "Main Street é linda, mas hoje ela não manda na manhã.",
+      "A primeira hora precisa ser de atração, não de contemplação eterna.",
     ],
     hack:
-      "Faz a foto, garante o registro e parte para o que realmente dita o ritmo do dia.",
+      "Faz a foto que prova que chegou e segue. A Disney recompensa quem anda cedo.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "09:00",
-    title: "Missão 1 — TRON: first run 🏍️",
+    time: "08:05",
+    title: "TRON / Tomorrowland — primeira grande tentativa 🏍️",
     description:
-      "Abertura do parque com a atração mais tecnológica e mais impactante do dia.",
+      "Primeira missão forte do dia: avaliar TRON logo cedo e proteger Tomorrowland antes do parque encher.",
     strategy:
-      "Começar pela TRON dita o tom do parque. Adrenalina cedo, fila evitada e sensação de começo grande.",
+      "TRON cedo é o plano A. Se a fila estiver aceitável, entra. Se estiver absurda, não quebra o roteiro: troca para Space/Buzz/PeopleMover e tenta TRON mais tarde.",
     transport: "Caminhada",
     location: "Tomorrowland — TRON Lightcycle / Run",
     photoSpot:
-      "Cobertura futurista da atração e saída da área, sem travar o fluxo do grupo.",
+      "Cobertura futurista da TRON ainda de manhã, sem parar tempo demais na saída.",
     practicalPlan:
-      "Usar a melhor janela disponível do app e entrar cedo na TRON como primeira grande missão do dia.",
+      "Chegar em Tomorrowland, olhar fila real da TRON. Até 45–60 minutos pode valer. Muito acima disso, não sacrificar Pirates e o resto do dia.",
     pitfalls:
-      "Tratar a estratégia da TRON como garantida absoluta e se desorganizar se o app mudar a disponibilidade.",
+      "Casar emocionalmente com a TRON logo cedo e perder metade da manhã por teimosia.",
     tips: [
-      "A lógica ideal depende da janela real do app.",
-      "TRON cedo continua sendo prioridade máxima.",
-      "Hoje o roteiro é forte, mas a Disney ainda manda no relógio do app.",
+      "TRON é prioridade, mas não é dona do dia.",
+      "Se a fila explodir, Space Mountain vira substituto natural.",
+      "PeopleMover é ótimo para respirar e ver Tomorrowland sem gastar energia.",
+      "Buzz Lightyear encaixa bem se a fila estiver leve.",
     ],
     hack:
-      "Guarda a emoção da primeira TRON porque a comparação com a versão noturna vai ser boa demais.",
+      "O roteiro bom não é o que força a TRON; é o que deixa a TRON entrar sem destruir o resto.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "10:00",
-    title: "Space Mountain 🌌",
+    time: "09:10",
+    title: "Space Mountain + bloco Tomorrowland 🌌",
     description:
-      "Clássico absoluto no escuro, encaixado na mesma região da abertura.",
+      "Bloco clássico no escuro para manter a manhã forte e organizada por região.",
     strategy:
-      "A ideia aqui é aproveitar o fluxo de Tomorrowland sem gastar perna à toa.",
+      "Depois da TRON ou da tentativa dela, resolver Space Mountain e atrações próximas sem cruzar o parque à toa.",
     transport: "Caminhada",
     location: "Tomorrowland — Space Mountain",
     photoSpot: "",
     practicalPlan:
-      "Encaixar Space Mountain logo após TRON, se a janela do app e o fluxo do parque confirmarem essa ordem ideal.",
+      "Fazer Space Mountain se a fila estiver viável. Se estiver pesada, encaixar Buzz Lightyear, PeopleMover ou Carousel of Progress e seguir monitorando o app.",
     pitfalls:
-      "Começar a cruzar o parque cedo demais e quebrar a lógica das áreas.",
+      "Sair correndo para Fantasyland cedo demais e deixar Tomorrowland mal resolvida.",
     tips: [
-      "Tomorrowland precisa ser bem resolvida logo cedo.",
-      "Esse bloco ajuda a manter a operação redonda.",
-      "Hoje ida e volta inúteis são inimigas.",
+      "Space é clássico obrigatório para quem quer sentir Magic Kingdom de verdade.",
+      "PeopleMover é descanso disfarçado de atração.",
+      "Carousel of Progress é ar-condicionado e pausa mental, se precisar.",
+      "Não gaste energia em zigue-zague cedo.",
     ],
     hack:
-      "Parque grande se vence por blocos de área, não por impulso de atração.",
+      "Parque grande se vence por área. Quem atravessa sem plano vira bolinha de pinball com orelha do Mickey.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "11:00",
-    title: "Seven Dwarfs Mine Train ⛏️",
+    time: "09:45",
+    title: "Fantasyland leve — Peter Pan se der ✨",
     description:
-      "Uma das atrações mais desejadas do parque e também uma das que mais castigam quem vacila na fila.",
+      "Janela para tentar Peter Pan ou encaixar clássicos leves antes do primeiro fura-fila pago.",
     strategy:
-      "Entrar aqui com Lightning Lane ou no melhor encaixe do app protege muito o resto do dia.",
+      "Peter Pan é lindo, mas não pode virar penitência. Se a fila estiver aceitável, faz. Se estiver absurda, troca por clássicos leves.",
     transport: "Caminhada",
-    location: "Fantasyland — Seven Dwarfs Mine Train",
-    photoSpot: "",
+    location: "Fantasyland — Peter Pan’s Flight / Mickey’s PhilharMagic / It’s a Small World",
+    photoSpot:
+      "Castelo pelo lado de Fantasyland e detalhes da área, se o fluxo estiver leve.",
     practicalPlan:
-      "Migrar de Tomorrowland para Fantasyland mantendo a ordem ideal do parque e usar Seven Dwarfs como prioridade alta do bloco.",
+      "Olhar Peter Pan. Se estiver muito cheio, fazer Mickey’s PhilharMagic ou It’s a Small World e caminhar para Adventureland antes das 11h.",
     pitfalls:
-      "Deixar Seven Dwarfs solta demais no dia e acabar preso em fila ruim.",
+      "Pagar fila gigante no Peter Pan e depois correr para Pirates. Atração clássica é boa; atraso burro não.",
     tips: [
-      "Essa atração é charmosa e muito concorrida.",
-      "Melhor resolver cedo dentro da lógica do app.",
-      "Ela vale mais quando entra organizada.",
+      "Peter Pan é encanto, não adrenalina.",
+      "PhilharMagic é excelente para ar-condicionado e descanso rápido.",
+      "Small World é clássico raiz e rende uma pausa mais leve.",
+      "Esse bloco é flexível: ele serve ao Pirates das 11:05.",
     ],
     hack:
-      "Atração famosa boa é a que entra cedo e sai sem drama.",
+      "Peter Pan vale quando entra redondo. Se virar fila de castigo, troca sem remorso.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "12:00",
+    time: "10:40",
+    title: "Caminhada para Adventureland 🧭",
+    description:
+      "Transição controlada para chegar com calma ao primeiro fura-fila confirmado.",
+    strategy:
+      "O primeiro compromisso real do dia é Pirates 11:05. Chegar com margem evita correria e mantém o grupo inteiro.",
+    transport: "Caminhada",
+    location: "Fantasyland/Tomorrowland → Adventureland",
+    photoSpot:
+      "Passagem pelo hub do castelo, se estiver livre, sem parar para ensaio.",
+    practicalPlan:
+      "Banheiro rápido se precisar, água e deslocamento para Adventureland. Nada de entrar em atração nova faltando pouco para a janela.",
+    pitfalls:
+      "Achar que 10 minutos bastam e depois atravessar o parque igual barata tonta.",
+    tips: [
+      "Janela de Lightning Lane é para usar com calma, não no limite.",
+      "Adventureland costuma ter fluxo mais apertado perto de Pirates.",
+      "Todo mundo junto aqui evita desencontro.",
+      "Chegar 10 minutos antes é paz.",
+    ],
+    hack:
+      "A melhor forma de não perder fura-fila é tratar o deslocamento como parte da atração.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "11:05",
+    title: "Fura-fila 1 — Pirates of the Caribbean 🏴‍☠️",
+    description:
+      "Primeira Lightning Lane confirmada do dia: Pirates das 11:05 às 12:05.",
+    strategy:
+      "Usar o Multi Pass no começo da janela para liberar a mente e permitir novo ajuste no app depois.",
+    transport: "Caminhada",
+    location: "Adventureland — Pirates of the Caribbean",
+    photoSpot:
+      "Entrada da fortaleza de Pirates, se não atrapalhar o fluxo da fila.",
+    practicalPlan:
+      "Entrar em Pirates dentro da janela 11:05–12:05. Assim que escanear, abrir o app e verificar possibilidade de novo agendamento ou melhoria de horários.",
+    pitfalls:
+      "Deixar para o fim da janela e depois contaminar almoço e Haunted Mansion.",
+    tips: [
+      "Pirates é clássico obrigatório.",
+      "É uma atração fresca, imersiva e ótima no meio da manhã.",
+      "Entrar cedo na janela protege o almoço.",
+      "Depois do scan, olho no app: Disney é xadrez, não dama.",
+    ],
+    hack:
+      "Fura-fila bom é usado cedo na janela. Quem usa no limite vive no susto.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "12:10",
     title: "Almoço tático — Columbia Harbour House 🍽️",
     description:
-      "Pausa estratégica no meio do parque, com comida mais limpa e ambiente melhor para respirar.",
+      "Pausa estratégica para comer, sentar e recuperar energia antes da Haunted Mansion.",
     strategy:
-      "Almoço aqui é reabastecimento. Comer bem, sentar um pouco e sair sem matar a tarde.",
+      "Almoço hoje é reabastecimento. Comer bem, usar ar-condicionado e sair leve para o segundo fura-fila.",
     transport: "Caminhada",
     location: "Liberty Square — Columbia Harbour House",
     photoSpot: "",
     practicalPlan:
-      "Subir se possível para o segundo andar, comer sem exagero e voltar ao parque ainda com ritmo.",
+      "Seguir para Columbia Harbour House, tentar sentar no segundo andar se estiver disponível e manter almoço objetivo.",
     pitfalls:
-      "Transformar o almoço em pausa longa e sair pesado para a segunda metade do dia.",
+      "Transformar almoço em pausa longa, pesada e lenta, exatamente no meio do parque.",
     tips: [
-      "Columbia é a melhor leitura-base desse dia.",
-      "Comida mais limpa ajuda no calor.",
-      "Hoje o almoço precisa servir a guerra, não roubar a guerra.",
+      "Columbia é uma das melhores leituras de almoço para esse roteiro.",
+      "Segundo andar costuma ser mais agradável quando disponível.",
+      "Comida mais limpa ajuda a sobreviver ao calor.",
+      "Não precisa comer como se fosse a última ceia; ainda tem tarde inteira.",
     ],
     hack:
-      "Pausa boa no Magic Kingdom é a que acalma os pés sem esfriar o plano.",
+      "Pausa boa no Magic Kingdom é a que salva o pé sem matar o ritmo.",
     restaurant:
       "Barato: Casey’s Corner • Médio: Columbia Harbour House • Premium: Be Our Guest",
     lounge: "",
   },
   {
-    time: "13:30",
-    title: "Peter Pan’s Flight ✨",
+    time: "13:05",
+    title: "Fura-fila 2 — Haunted Mansion 👻",
     description:
-      "Bloco clássico da Disney raiz, mais emocional do que radical.",
+      "Segunda Lightning Lane confirmada: Haunted Mansion das 13:05 às 14:05.",
     strategy:
-      "Peter Pan entra aqui como experiência mágica que faz sentido numa primeira vez no parque.",
-    transport: "Caminhada",
-    location: "Fantasyland — Peter Pan’s Flight",
-    photoSpot: "",
-    practicalPlan:
-      "Encaixar Peter Pan no meio da lógica de Fantasyland, sem tratar a atração como peso igual às grandes montanhas-russas.",
-    pitfalls:
-      "Esperar adrenalina aqui e julgar errado uma atração que é sobre encanto clássico.",
-    tips: [
-      "Essa é experiência Disney pura.",
-      "Aqui o valor está no charme, não no impacto.",
-      "Faz sentido numa viagem única.",
-    ],
-    hack:
-      "Nem toda atração precisa ser intensa; algumas existem para te lembrar onde você está.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "14:30",
-    title: "Tiana’s Bayou Adventure 💦",
-    description:
-      "Atração nova e muito concorrida, que pode mexer no conforto mais do que parece.",
-    strategy:
-      "Tiana precisa entrar com janela boa. É bloco importante, mas sem bagunçar o resto do parque.",
-    transport: "Caminhada",
-    location: "Frontierland — Tiana’s Bayou Adventure",
-    photoSpot: "",
-    practicalPlan:
-      "Entrar na melhor janela possível do app, aceitando que o bloco pode molhar um pouco e ajustar isso com leveza.",
-    pitfalls:
-      "Ignorar que a atração pode molhar e depois deixar isso contaminar humor ou conforto do grupo.",
-    tips: [
-      "Tiana é prioridade alta de disponibilidade.",
-      "Melhor fazer no meio do dia do que perto da noite.",
-      "Molhar um pouco aqui é parte do pacote.",
-    ],
-    hack:
-      "Se for para molhar, melhor molhar cedo o suficiente para o sol resolver o resto.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "15:30",
-    title: "Big Thunder Mountain 🚂",
-    description:
-      "Montanha-russa clássica e divertida que encaixa perfeitamente na reta de Frontierland.",
-    strategy:
-      "Continuar o fluxo sem sair da lógica da terra e manter o parque rodando bonito.",
-    transport: "Caminhada",
-    location: "Frontierland — Big Thunder Mountain Railroad",
-    photoSpot: "",
-    practicalPlan:
-      "Resolver Big Thunder em sequência com a área, sem voltar para blocos já fechados.",
-    pitfalls:
-      "Quebrar a ordem do parque e começar a rodar em círculo no calor da tarde.",
-    tips: [
-      "Big Thunder é divertida e muito redonda no fluxo.",
-      "Esse bloco ajuda a manter o parque vivo sem pesar.",
-      "A tarde precisa continuar inteligente.",
-    ],
-    hack:
-      "Parque bom no meio da tarde é o que ainda parece sob controle.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "16:30",
-    title: "Pirates of the Caribbean 🏴‍☠️",
-    description:
-      "Imersão clássica em Adventureland, com atmosfera forte e ótimo respiro do calor.",
-    strategy:
-      "Pirates entra bem aqui como bloco de experiência e ambientação sem quebrar a fluidez.",
-    transport: "Caminhada",
-    location: "Adventureland — Pirates of the Caribbean",
-    photoSpot: "",
-    practicalPlan:
-      "Seguir para Adventureland e usar Pirates como uma parada clássica, fresca e muito bem encaixada.",
-    pitfalls:
-      "Subestimar essa atração por não ser radical e perder um dos clássicos mais redondos do parque.",
-    tips: [
-      "A atmosfera aqui vale muito.",
-      "É uma atração mais forte do que parece no papel.",
-      "Ela funciona bem no cansaço da tarde.",
-    ],
-    hack:
-      "No calor da Disney, atração boa também é a que te devolve ar e sombra sem perder qualidade.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "17:30",
-    title: "Haunted Mansion 👻",
-    description:
-      "Clássico detalhista, fresco e excelente para desacelerar sem perder o encanto.",
-    strategy:
-      "Haunted fecha muito bem essa fase do parque, entregando clima, detalhe e um respiro estratégico.",
+      "Encaixe perfeito depois do almoço: clássico, fresco, bem localizado e sem quebrar a lógica da região.",
     transport: "Caminhada",
     location: "Liberty Square — Haunted Mansion",
-    photoSpot: "",
+    photoSpot:
+      "Fachada da mansão e detalhes da área externa, se a fila estiver fluindo.",
     practicalPlan:
-      "Encaixar Haunted no fim da tarde como bloco de ar-condicionado e ambientação antes da noite crescer.",
+      "Entrar na Haunted dentro da janela 13:05–14:05, preferencialmente sem deixar para o limite. Depois, usar o app para monitorar Jungle Cruise, Peter Pan ou atrações leves.",
     pitfalls:
-      "Chegar aqui já quebrado demais por falta de pausa e não curtir os detalhes.",
+      "Atrasar o almoço e chegar correndo na Haunted, perdendo o prazer dos detalhes.",
     tips: [
-      "Essa atração pede olhar, não pressa.",
-      "Haunted funciona muito bem como ponte para a noite.",
-      "No fim da tarde, ela entra redonda.",
+      "Haunted Mansion é clássico de atmosfera, não de pressa.",
+      "Olhe os detalhes da fila e da mansão.",
+      "É uma das melhores pausas de ar-condicionado do dia.",
+      "Depois dela, o parque entra numa fase mais flexível.",
     ],
     hack:
-      "Quando o parque começa a pesar, os clássicos detalhistas viram aliados preciosos.",
+      "A Haunted é descanso premium fantasiado de atração clássica. Gênio antigo da Disney, sem firula.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "19:00",
-    title: "Jantar rápido — Casey’s Corner 🌭",
+    time: "14:10",
+    title: "Bloco leve pós-Haunted — clássicos e respiro 🧊",
     description:
-      "Pausa curta e clássica antes do bloco final do castelo, fogos e TRON noturna.",
+      "Janela para atrações leves, fotos rápidas e recuperação antes da parada ou do bloco da tarde.",
     strategy:
-      "Hoje jantar precisa ser rápido, gostoso e perfeitamente compatível com a noite.",
+      "Esse bloco existe para manter o grupo inteiro. Não é hora de provar resistência física para ninguém.",
     transport: "Caminhada",
-    location: "Main Street U.S.A. — Casey’s Corner",
-    photoSpot: "",
+    location: "Liberty Square / Fantasyland",
+    photoSpot:
+      "Liberty Square, lateral do castelo ou Fantasyland, conforme o fluxo estiver mais bonito.",
     practicalPlan:
-      "Comer de forma objetiva, sem inventar refeição longa, e seguir já pensando no posicionamento para os fogos.",
+      "Fazer Mickey’s PhilharMagic, It’s a Small World, Hall of Presidents ou fotos curtas. O app dita o melhor encaixe.",
     pitfalls:
-      "Sentar demais, esfriar o grupo e perder o melhor lugar para o show.",
+      "Enfiar atração pesada sem necessidade e chegar quebrado na Tiana.",
     tips: [
-      "Casey’s é clássico e rápido.",
-      "Corn Dog Nuggets entram bem aqui.",
-      "Hoje o jantar serve o clímax do parque.",
+      "PhilharMagic é uma excelente pausa no ar-condicionado.",
+      "Hall of Presidents é opção para sentar e respirar.",
+      "Small World é clássico leve e resolve bem tempo médio.",
+      "Esse bloco é para controlar energia, não para caçar sofrimento.",
     ],
     hack:
-      "Antes dos fogos, rapidez vale mais do que sofisticação.",
+      "Quem descansa antes de precisar descansa pouco. Quem espera quebrar descansa mal.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "15:00",
+    title: "Festival of Fantasy Parade — opcional inteligente 🎭",
+    description:
+      "Parada clássica da tarde, boa se o grupo quiser ver personagens e clima Disney tradicional.",
+    strategy:
+      "Assistir só se encaixar sem sacrificar fila boa. Se for ver, melhor em Liberty Square/Frontierland do que travar no miolo da Main Street.",
+    transport: "Caminhada",
+    location: "Liberty Square / Frontierland — Magic Kingdom",
+    photoSpot:
+      "Trecho da parada em Liberty Square ou Frontierland, com menos aperto que Main Street.",
+    practicalPlan:
+      "Decidir na hora: se o grupo quiser ver, pega ponto com 10–15 minutos de margem. Se não fizer questão, usar esse horário para atração com fila menor.",
+    pitfalls:
+      "Ficar preso no fluxo da parada e depois atravessar o parque com caminho bloqueado.",
+    tips: [
+      "A parada é bonita, mas não é mais importante que as janelas pagas.",
+      "Liberty Square costuma ser melhor que Main Street para assistir sem sofrer tanto.",
+      "Se estiver muito cheio, não force.",
+      "Use esse bloco como ferramenta, não como obrigação.",
+    ],
+    hack:
+      "Parada boa é aquela que você vê sem virar refém dela.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "15:25",
+    title: "Jungle Cruise / bloco flexível Adventureland 🌿",
+    description:
+      "Janela para tentar Jungle Cruise ou encaixar uma atração leve antes da Tiana.",
+    strategy:
+      "Jungle Cruise entra se a fila ou o app ajudarem. Se estiver pesado, não vale contaminar Tiana.",
+    transport: "Caminhada",
+    location: "Adventureland / Frontierland",
+    photoSpot:
+      "Entrada da Jungle Cruise ou áreas temáticas de Adventureland, se sobrar tempo.",
+    practicalPlan:
+      "Verificar Jungle Cruise no app. Se estiver viável, fazer. Se estiver ruim, trocar por Enchanted Tiki Room, Country Bear, descanso, água ou loja rápida.",
+    pitfalls:
+      "Entrar em fila longa demais e chegar atrasado/irritado na Tiana.",
+    tips: [
+      "Jungle Cruise é ótima, mas depende muito da fila.",
+      "Tiki Room é descanso com ar e sombra.",
+      "Country Bear pode funcionar como pausa tática.",
+      "A prioridade absoluta da tarde é Tiana 16:55.",
+    ],
+    hack:
+      "Flexibilidade boa é saber desistir cedo da fila errada.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "16:35",
+    title: "Deslocamento para Tiana — sem deixar para o limite 💦",
+    description:
+      "Movimento antecipado para Frontierland antes da terceira Lightning Lane confirmada.",
+    strategy:
+      "Chegar cedo na região da Tiana evita correria, bloqueio de fluxo e aquela tensão besta de janela paga.",
+    transport: "Caminhada",
+    location: "Frontierland — Tiana’s Bayou Adventure",
+    photoSpot:
+      "Área externa de Frontierland, se a movimentação estiver tranquila.",
+    practicalPlan:
+      "Ir para perto da Tiana, fazer banheiro se necessário, guardar itens sensíveis à água e preparar o grupo para possível molhada.",
+    pitfalls:
+      "Chegar no último minuto, molhar item eletrônico ou deixar mochila desorganizada.",
+    tips: [
+      "Tiana pode molhar.",
+      "Celular e carteira precisam estar protegidos.",
+      "Esse horário é melhor do que molhar perto dos fogos.",
+      "Não deixe para atravessar o parque em cima da hora.",
+    ],
+    hack:
+      "Molhar às 17h é aventura. Molhar às 22h é processo trabalhista emocional.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "16:55",
+    title: "Fura-fila 3 — Tiana’s Bayou Adventure 💦",
+    description:
+      "Terceira Lightning Lane confirmada: Tiana’s Bayou Adventure das 16:55 às 17:55.",
+    strategy:
+      "Usar a janela com calma e sem atrasar. Tiana é prioridade alta e esse horário ficou excelente para não comprometer a noite.",
+    transport: "Caminhada",
+    location: "Frontierland — Tiana’s Bayou Adventure",
+    photoSpot:
+      "Entrada da atração e área externa depois, se não estiverem molhados demais.",
+    practicalPlan:
+      "Entrar dentro da janela 16:55–17:55, proteger eletrônicos e aceitar a molhada como parte da experiência.",
+    pitfalls:
+      "Reclamar da água como se a atração não tivesse avisado no próprio conceito.",
+    tips: [
+      "Esse é um dos grandes acertos do dia.",
+      "Se molhar, ainda dá tempo de secar antes da noite.",
+      "Não use capa se isso for tirar tempo demais; só proteja o que importa.",
+      "Depois dela, a noite começa a virar prioridade.",
+    ],
+    hack:
+      "Tiana nesse horário é o ponto ideal: tarde suficiente para encaixar, cedo suficiente para não estragar a noite.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "18:00",
+    title: "Respiro pós-Tiana + fotos rápidas 📸",
+    description:
+      "Tempo tampão para reorganizar grupo, secar, beber água e preparar a noite.",
+    strategy:
+      "Esse bloco evita que o roteiro vire uma sequência sem oxigênio. Agora é recuperar controle antes da Main Street.",
+    transport: "Caminhada",
+    location: "Frontierland / Liberty Square",
+    photoSpot:
+      "Fotos leves na área de Frontierland ou no caminho para Liberty Square, sem travar o jantar.",
+    practicalPlan:
+      "Água, banheiro, ajuste de mochila e pequena pausa. Se estiverem bem, encaixar atração leve próxima.",
+    pitfalls:
+      "Sair da Tiana no impulso e começar a correr para tudo ao mesmo tempo.",
+    tips: [
+      "Esse tempo tampão é proposital.",
+      "Grupo cansado toma decisão ruim.",
+      "A noite do Magic é nobre; chegue nela inteiro.",
+      "Se alguém estiver molhado, resolva agora.",
+    ],
+    hack:
+      "Roteiro premium não é só colocar atração; é colocar respiro no ponto certo.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "18:30",
+    title: "Jantar rápido — Casey’s Corner 🌭",
+    description:
+      "Jantar clássico e objetivo na Main Street antes da fase mais importante da noite.",
+    strategy:
+      "Jantar cedo e perto do eixo dos shows. Agora a prioridade é comer sem perder posição para Starlight e fogos.",
+    transport: "Caminhada",
+    location: "Main Street U.S.A. — Casey’s Corner",
+    photoSpot:
+      "Main Street no começo da noite, se a luz estiver bonita e sem perder a fila do jantar.",
+    practicalPlan:
+      "Comer de forma objetiva. Casey’s é rápido, clássico e bem localizado para a estratégia da noite.",
+    pitfalls:
+      "Deixar o jantar para depois das 19:30 e disputar comida com a multidão que também quer ver show.",
+    tips: [
+      "Casey’s Corner é simples, mas funciona muito bem nesse roteiro.",
+      "Corn Dog Nuggets são práticos.",
+      "Comer cedo protege o posicionamento.",
+      "Não invente refeição demorada antes dos fogos.",
+    ],
+    hack:
+      "Antes de show grande, a melhor comida é a que não te prende.",
     restaurant:
       "Barato: Casey’s Corner • Médio: Columbia Harbour House • Premium: Be Our Guest",
     lounge: "",
   },
   {
-    time: "20:00",
-    title: "Posicionamento para os fogos 🎆",
+    time: "19:15",
+    title: "Main Street — loja, banheiro e organização final 🛍️",
     description:
-      "Hora de travar um ponto forte para o Happily Ever After.",
+      "Bloco curto para ajustar o grupo antes de travar posição para a noite.",
     strategy:
-      "Esse bloco não pode ser improvisado. Lugar bom muda o show inteiro.",
+      "Essa é a última janela de liberdade antes da Main Street virar massa humana. Resolver tudo agora.",
     transport: "Caminhada",
-    location: "Main Street U.S.A. / eixo central do castelo",
+    location: "Main Street U.S.A. — Magic Kingdom",
     photoSpot:
-      "Castelo de frente, com boa profundidade e sem estar esmagado no fluxo.",
+      "Main Street iluminando no começo da noite e castelo ao fundo.",
     practicalPlan:
-      "Chegar cedo no ponto escolhido, garantir espaço e usar esse tempo para descansar um pouco sem dispersar o grupo.",
+      "Banheiro, água, loja rápida se fizer sentido e combinação clara do ponto onde o grupo vai ficar para Starlight e Happily Ever After.",
     pitfalls:
-      "Chegar em cima e aceitar ângulo ruim, aperto ruim e experiência abaixo do potencial.",
+      "Entrar em loja sem limite e sair quando a Main Street já estiver tomada.",
     tips: [
-      "Posição boa é parte do espetáculo.",
-      "Hoje os fogos são um dos grandes momentos da viagem.",
-      "Main Street central segue sendo a melhor leitura.",
+      "Loja agora só com limite.",
+      "Banheiro antes de pegar posição.",
+      "Água na mão antes da parada.",
+      "Depois das 19:45, parar de circular sem necessidade.",
     ],
     hack:
-      "Em show grande, lugar certo vale mais do que câmera boa.",
+      "A Main Street é linda, mas à noite ela vira xadrez humano. Quem se organiza antes ganha.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "21:00",
-    title: "Happily Ever After 🎇",
+    time: "19:45",
+    title: "Posição premium para Starlight + fogos 🎆",
     description:
-      "O momento mais emocionante da noite e um dos ápices do Magic Kingdom.",
+      "Hora de travar o ponto estratégico para a parada noturna e o Happily Ever After.",
     strategy:
-      "Aqui é viver o show de verdade e sair já com a próxima missão mentalmente pronta: TRON noturna.",
-    transport: "",
-    location: "Área do castelo — Magic Kingdom",
+      "Ficar no meio para o fundo da Main Street, olhando para o castelo. Não ficar colado no castelo, porque depois vocês precisam sair para Fantasyland.",
+    transport: "Caminhada",
+    location: "Main Street U.S.A. — meio/fundo da rua, eixo do castelo",
     photoSpot:
-      "Castelo iluminado e clima do show, sem tentar transformar tudo em tela de celular.",
+      "Castelo de frente, com profundidade da Main Street e visão boa das projeções e fogos.",
     practicalPlan:
-      "Assistir ao show e terminar já preparado para se deslocar rápido rumo à Tomorrowland.",
+      "Chegar por volta de 19:45, escolher ponto com boa visão do castelo e rota de saída para a lateral/Fantasyland depois dos fogos.",
     pitfalls:
-      "Tratar os fogos como fim do dia e perder o detalhe mais premium do plano: repetir a TRON à noite.",
+      "Ficar muito perto do castelo, ver bem uma parte e depois travar na multidão para sair rumo à Seven Dwarfs.",
     tips: [
-      "Hoje os fogos não encerram o parque.",
-      "Viver o show vale mais do que filmar tudo mal.",
-      "O próximo ato já começa no fim da última explosão.",
+      "O melhor ponto hoje não é colado no castelo.",
+      "Meio/fundo da Main Street equilibra visão e saída.",
+      "Depois da Starlight, não abandone o ponto.",
+      "Evite ficar atrás de árvore, poste ou câmera alta de influencer empolgado.",
+      "Já pense na rota para Fantasyland antes do show acabar.",
     ],
     hack:
-      "Fogos hoje são penúltimo ato, não o último.",
+      "Lugar bom nos fogos vale mais que câmera boa. Quem escolhe mal assiste metade do show e sofre o dobro para sair.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "20:30",
+    title: "Disney Starlight — parada noturna ✨",
+    description:
+      "Parada noturna do Magic Kingdom, assistida já do ponto estratégico da Main Street.",
+    strategy:
+      "Assistir sem sair da posição dos fogos. A Starlight é importante, mas também serve para segurar o lugar do Happily Ever After.",
+    transport: "",
+    location: "Main Street U.S.A. — ponto já escolhido",
+    photoSpot:
+      "Carros iluminados da parada com o clima noturno da Main Street.",
+    practicalPlan:
+      "Ficar no ponto, curtir a parada e não dispersar depois. O próximo ato é o show principal das 21:30.",
+    pitfalls:
+      "Sair andando depois da parada e perder o ponto nobre para os fogos.",
+    tips: [
+      "A parada das 20:30 é o aquecimento da noite.",
+      "Não troque lugar bom por loja nesse intervalo.",
+      "Se alguém precisar sair, combina retorno exato.",
+      "Celular com bateria agora é obrigatório.",
+    ],
+    hack:
+      "Quem segura o ponto depois da Starlight assiste os fogos como gente grande.",
     restaurant: "",
     lounge: "",
   },
   {
     time: "21:30",
-    title: "TRON reprise — night run 🌌",
+    title: "Happily Ever After — momento principal 🎇",
     description:
-      "A segunda leitura da TRON, agora com a estrutura acesa e clima muito mais futurista.",
+      "O show mais emocionante da noite e um dos ápices simbólicos da viagem.",
     strategy:
-      "Esse é o fechamento perfeito do parque. A versão noturna da TRON é parte da grandeza do dia.",
-    transport: "Caminhada",
-    location: "Tomorrowland — TRON Lightcycle / Run",
+      "Viver o show de verdade, sem filmar tudo. Depois da última explosão, a missão é sair com direção para Fantasyland e Seven Dwarfs.",
+    transport: "",
+    location: "Main Street U.S.A. — visão frontal do castelo",
     photoSpot:
-      "Cobertura iluminada e clima futurista da saída da atração.",
+      "Castelo iluminado, projeções e fogos. Faça poucos registros bons e viva o resto.",
     practicalPlan:
-      "Sair dos fogos e ir direto para a TRON usando a melhor janela e a melhor chance disponível no app ou no fluxo da noite.",
+      "Assistir ao show inteiro, manter o grupo junto e sair por volta de 21:55 rumo à Fantasyland.",
     pitfalls:
-      "Parar no caminho, dispersar o grupo ou tratar a segunda TRON como detalhe opcional.",
+      "Ficar parado emocionado por 20 minutos depois do show e perder a janela perfeita da Seven Dwarfs.",
     tips: [
-      "A TRON noturna é uma experiência diferente da primeira.",
-      "Pouca coisa muda tanto de dia para noite quanto essa atração.",
-      "Esse é um dos grandes refinamentos do teu roteiro.",
+      "Esse é o ápice emocional do Magic Kingdom.",
+      "Não assista tudo pela tela do celular.",
+      "Assim que terminar, o grupo precisa andar com direção.",
+      "A janela da Seven Dwarfs começa 22:20, então vocês têm margem, mas não para enrolar.",
     ],
     hack:
-      "A segunda TRON é o detalhe que faz o dia deixar de ser bom e virar memorável.",
+      "Fogos hoje não encerram o dia; eles abrem o último ato.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "22:15",
-    title: "Saída de barco 🚤",
+    time: "21:55",
+    title: "Saída controlada para Fantasyland 🚶",
     description:
-      "Travessia relaxante de volta ao TTC com o parque iluminado ficando para trás.",
+      "Deslocamento pós-fogos para chegar com calma ao Seven Dwarfs Mine Train.",
     strategy:
-      "Depois de um dia desses, o barco fecha melhor do que pressa. É o momento de baixar a rotação sem perder a magia.",
-    transport: "Ferryboat",
-    location: "Magic Kingdom → TTC",
+      "Andar com propósito, sem parar em loja, sem dispersar e sem tentar atravessar pela área mais travada.",
+    transport: "Caminhada",
+    location: "Main Street U.S.A. → Fantasyland",
     photoSpot:
-      "Castelo iluminado se afastando no horizonte durante a travessia.",
+      "Foto rápida do castelo iluminado só se o fluxo permitir; prioridade é chegar na Seven.",
     practicalPlan:
-      "Seguir para o barco sem desvio desnecessário e usar a volta como encerramento bonito do parque.",
+      "Quando o show acabar, sair junto, seguir para Fantasyland e chegar na área da Seven Dwarfs antes do início real da janela.",
     pitfalls:
-      "Tentar sair correndo como se o dia ainda pedisse pressa.",
+      "Cada parada pós-fogos parece pequena, mas vira atraso somado no pior fluxo do parque.",
     tips: [
-      "A volta de barco conversa melhor com a exaustão do fim do dia.",
-      "É um fechamento mais bonito e mais calmo.",
-      "Aqui o parque termina do jeito certo.",
+      "Multidão pós-fogos é normal.",
+      "Não brigue com o fluxo; contorne com paciência e direção.",
+      "Mantenha o grupo junto.",
+      "Loja só depois da Seven, se ainda fizer sentido.",
     ],
     hack:
-      "Monorail na ida e barco na volta é a dupla mais elegante desse dia.",
+      "Pós-fogos é procissão. Quem sabe para onde vai sofre menos.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "22:20",
+    title: "Single Pass — Seven Dwarfs Mine Train ⛏️",
+    description:
+      "Fura-fila individual confirmado para fechar o dia com uma das atrações mais disputadas do parque.",
+    strategy:
+      "Seven Dwarfs à noite virou fechamento premium. A atração fica mais bonita, a fila comum costuma ser cruel e o Single Pass protege a experiência.",
+    transport: "Caminhada",
+    location: "Fantasyland — Seven Dwarfs Mine Train",
+    photoSpot:
+      "Área da mina iluminada e castelo à noite no caminho de saída.",
+    practicalPlan:
+      "Usar o Single Pass dentro da janela 22:20–23:00. Chegar com margem e não deixar para os minutos finais.",
+    pitfalls:
+      "Achar que por ser fim do dia dá para relaxar demais. Essa janela é paga e precisa ser respeitada.",
+    tips: [
+      "Seven Dwarfs é leve, bonita e muito Disney.",
+      "À noite ela fecha melhor do que de manhã.",
+      "Depois dos fogos, esse é o gran finale do roteiro.",
+      "Não tente encaixar loja antes dela.",
+    ],
+    hack:
+      "Esse é o tipo de fechamento que faz o dia parecer desenhado. Não é sorte; é roteiro bem montado.",
     restaurant: "",
     lounge: "",
   },
   {
     time: "23:00",
-    title: "Retorno ao hotel 🌙",
+    title: "Decisão final — TRON noturna ou saída bonita 🌌",
     description:
-      "Fechamento oficial do Magic Kingdom com volta organizada para a base.",
+      "Última checagem de energia e fila antes de encerrar o Magic Kingdom.",
     strategy:
-      "Agora é voltar, carregar tudo e dormir. O dia foi grande demais para terminar bagunçado.",
-    transport: "BMW X7",
-    location: "TTC → hotel em Kissimmee",
-    photoSpot: "",
+      "Se o grupo ainda estiver inteiro e a TRON estiver viável, tentar a versão noturna. Se estiverem destruídos, encerrar com foto do castelo e sair sem culpa.",
+    transport: "Caminhada",
+    location: "Fantasyland / Tomorrowland / Main Street",
+    photoSpot:
+      "Castelo iluminado no encerramento ou cobertura da TRON à noite, se a tentativa final fizer sentido.",
     practicalPlan:
-      "Seguir direto para o hotel, colocar eletrônicos na carga e deixar o mínimo do dia seguinte encaminhado.",
+      "Abrir o app, olhar status da TRON e decidir sem romantizar. Amanhã tem Epic Universe, então energia também é patrimônio.",
     pitfalls:
-      "Inventar extensão da noite ou mexer em detalhe desnecessário já exausto.",
+      "Querer vencer a Disney no braço e perder o dia seguinte por cansaço acumulado.",
     tips: [
-      "Hoje o parque já entregou tudo que tinha para entregar.",
-      "Dormir bem vale muito para o próximo dia.",
-      "Fim bom também sabe encerrar.",
+      "TRON à noite é linda, mas só vale se a fila e a energia ajudarem.",
+      "Se o parque estiver expulsando o corpo, vá embora bonito.",
+      "Foto final do castelo já fecha o dia com dignidade.",
+      "Amanhã tem Epic Universe, então não queime o motor hoje.",
     ],
     hack:
+      "Às vezes o luxo é saber encerrar no auge, não arrastar até virar sobrevivência.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "23:20",
+    title: "Saída de barco ou monorail para o TTC 🚤",
+    description:
+      "Retorno ao estacionamento depois de um dia completo de Magic Kingdom.",
+    strategy:
+      "Escolher o transporte que estiver fluindo melhor. Se o ferry estiver andando bem, ele fecha o dia de forma mais bonita e calma.",
+    transport: "Ferryboat ou Monorail",
+    location: "Magic Kingdom → Ticket and Transportation Center",
+    photoSpot:
+      "Castelo se afastando iluminado, especialmente se a volta for de ferry.",
+    practicalPlan:
+      "Seguir para a saída sem parada desnecessária, manter grupo junto e lembrar da foto da vaga no estacionamento.",
+    pitfalls:
+      "Parar em loja na saída, perder fluxo e pegar transporte mais cheio ainda.",
+    tips: [
+      "Monorail pode ser mais rápido se estiver fluindo.",
+      "Ferry pode ser mais agradável e bonito no fim do dia.",
+      "Não discuta muito: olhou a fila, decidiu.",
+      "Preferred Parking vai brilhar agora.",
+    ],
+    hack:
+      "Monorail na ida e ferry na volta é a dupla elegante. Mas no fim do dia, quem estiver andando melhor vence.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "23:50",
+    title: "Retorno ao hotel + preparação do Epic Universe 🌙",
+    description:
+      "Fechamento oficial do Magic Kingdom com volta organizada para a base em Kissimmee.",
+    strategy:
+      "Agora é recuperar o corpo. Carregar celular, separar roupa e deixar o mínimo do Epic Universe encaminhado antes de dormir.",
+    transport: "BMW X7",
+    location: "TTC → Travelodge by Wyndham Orlando Lake Buena Vista South",
+    photoSpot: "",
+    practicalPlan:
+      "Voltar direto ao hotel, colocar celulares e power banks para carregar, separar roupa do dia seguinte e dormir o mais rápido possível.",
+    pitfalls:
+      "Inventar extensão da noite, mexer em mala sem necessidade ou ficar revendo foto até de madrugada.",
+    tips: [
       "Dia gigante merece final simples.",
+      "Power bank carregando é obrigação.",
+      "Amanhã o Epic exige corpo minimamente funcional.",
+      "Dormir bem agora é continuar ganhando a viagem.",
+    ],
+    hack:
+      "O Magic entrega a magia. O sono entrega o próximo dia. Sem sono, até Mario vira boleto.",
     restaurant: "",
     lounge: "",
   },

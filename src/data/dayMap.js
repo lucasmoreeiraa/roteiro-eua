@@ -70,18 +70,18 @@ export const dayMap = {
 
   18: {
     title: "Magic Kingdom",
-    subtitle: "TRON cedo + rota inteligente + fogos + TRON à noite",
+    subtitle: "Entrada às 8h + fura-filas cravados + Starlight + fogos + Seven Dwarfs à noite",
     highlights: [
-      "Magic Kingdom 🏰",
-      "TRON na abertura 🏍️",
-      "Lightning Lane master ⚡",
-      "TRON night run 🌌",
+      "Entrada 8h 🏰",
+      "TRON / Space cedo 🏍️",
+      "Lightning Lane cravado ⚡",
+      "Fogos + Seven à noite 🎆",
     ],
     attention: {
-      risk: "Falhar na compra das Lightning Lanes no dia 15 e perder horas preciosas em filas comuns.",
-      priority: "Preferred Parking para a X7 e TRON como primeiro e último grande ato do dia.",
-      critical: "Café às 06:45 e saída às 07:15 para chegar no parque com margem.",
-      flexible: "Fotos secundárias e ordem fina das atrações entre as janelas do app.",
+      risk: "Chegar tarde no TTC, perder a primeira hora útil do parque e transformar a manhã em correção de atraso.",
+      priority: "Entrar no Magic Kingdom às 8h, proteger TRON/Space/Peter Pan cedo e respeitar as janelas dos fura-filas sem inventar moda.",
+      critical: "Pirates 11:05, Haunted 13:05, Tiana 16:55, Starlight 20:30, Happily Ever After 21:30 e Seven Dwarfs 22:20.",
+      flexible: "Peter Pan, Jungle Cruise, desfile das 15h, lojas, fotos extras e TRON final dependem da fila real e da energia do grupo.",
     },
   },
 
