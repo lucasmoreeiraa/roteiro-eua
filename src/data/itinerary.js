@@ -1963,310 +1963,428 @@ export const itinerary = {
   },
 ],
 
-        19: [
+        19:[
   {
-    time: "05:45",
-    title: "Acordar 🌅",
+    time: "07:45",
+    title: "Acordar com modo missão ativado 🌅",
     description:
-      "Início do dia mais tático de Orlando, com parque novo, sem Express e fechamento dividido entre parque forte e outlet de domingo.",
+      "Início de um dos dias mais estratégicos de Orlando: Epic Universe sem Express, 4 atrações prioritárias, outlet com fechamento cedo e jantar já planejado em Celebration.",
     strategy:
-      "Hoje é dia de precisão. O Epic precisa render forte, mas com cabeça de operação tática: vocês não vão fechar o parque inteiro e também não podem deixar o outlet morrer.",
-    transport: "",
-    location: "",
-    photoSpot: "",
-    practicalPlan:
-      "Levantar com mochila, ingressos, celular, power bank e estratégia do app já na cabeça, sem reabrir debate cedo demais.",
-    pitfalls:
-      "Começar o dia mole ou bagunçado e perder justamente a vantagem que vocês ainda têm: chegar antes da massa.",
-    tips: [
-      "Hoje cada minuto cedo vale mais do que em qualquer outro parque.",
-      "Sem Express, disciplina vira moeda.",
-      "O outlet só existe se o parque terminar no ponto certo.",
-    ],
-    hack:
-      "No Dia 19, o segredo não é fechar tudo. É acertar o recorte certo do parque e sair no ponto exato.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "06:15",
-    title: "Café da manhã no hotel 🍳",
-    description:
-      "Café funcional antes do parque mais novo e mais incerto da viagem.",
-    strategy:
-      "Comer bem, mas sem enrolar. Hoje o corpo precisa estar abastecido cedo porque o parque vai cobrar perna e cabeça.",
+      "Hoje não é dia de passear sem rumo. O parque é novo, as filas podem castigar e vocês têm 4 alvos principais: Mine-Cart Madness, Mario Kart, Harry Potter and the Battle at the Ministry e Stardust Racers.",
     transport: "",
     location: "Travelodge by Wyndham Orlando Lake Buena Vista South",
     photoSpot: "",
     practicalPlan:
-      "Fazer um café objetivo e sair já com tudo pronto para estacionamento, app e entrada.",
+      "Levantar, carregar celulares, conferir ingressos, app da Universal, power bank, água, boné, protetor e deixar a mochila pronta antes do café.",
     pitfalls:
-      "Demorar no café ou começar o dia com fome achando que resolve depois no parque.",
+      "Começar o dia mole, sair atrasado do hotel e chegar na portaria depois das 09:30. Sem Express, atraso vira boleto com juros.",
     tips: [
-      "Parque novo tende a cansar mais do que parece.",
-      "Hoje café incluso ajuda de verdade.",
-      "O dia começa no hotel, não no portal.",
+      "Hoje a vantagem está na ordem certa, não na correria aleatória.",
+      "As 4 prioridades precisam mandar no roteiro.",
+      "Donkey Kong é o primeiro alvo do dia.",
+      "Outlet fecha às 19:00, então sair do Epic às 16:00 é regra, não sugestão.",
     ],
     hack:
-      "Café rápido e forte vale mais do que qualquer ideia de comprar comida bonita mais tarde.",
-    restaurant: "Café do hotel",
-    lounge: "",
-  },
-  {
-    time: "07:00",
-    title: "Saída para o Epic Universe 🚘",
-    description:
-      "Deslocamento rumo ao parque com foco total em chegar antes do grosso do fluxo.",
-    strategy:
-      "Sem Early Entry, a única vantagem real é ser um dos primeiros no estacionamento e no portal.",
-    transport: "BMW X7",
-    location: "Hotel em Kissimmee → Universal Epic Universe",
-    photoSpot: "",
-    practicalPlan:
-      "Sair direto, sem desvio e sem parada. Hoje o deslocamento é parte do plano de guerra.",
-    pitfalls:
-      "Sair relaxado e descobrir no estacionamento que o parque já começou a engolir a margem do dia.",
-    tips: [
-      "Hoje a ida precisa ser seca e disciplinada.",
-      "Preferred Parking continua fazendo sentido.",
-      "Chegada forte no portal vale mais do que café bonito fora do hotel.",
-    ],
-    hack:
-      "No Dia 19, sair no horário é praticamente uma atração.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "07:30",
-    title: "Chegada + Preferred Parking 🅿️",
-    description:
-      "Posicionamento da X7 para entrar no parque já com vantagem logística.",
-    strategy:
-      "O estacionamento aqui precisa servir a operação inteira: chegada forte e volta rápida para o outlet.",
-    transport: "BMW X7",
-    location: "Universal Epic Universe — estacionamento",
-    photoSpot: "",
-    practicalPlan:
-      "Usar Preferred Parking, estacionar bem e seguir logo para o portal Chronos sem dispersar o grupo.",
-    pitfalls:
-      "Economizar na vaga errada e pagar com cansaço e atraso justamente na hora de ir ao outlet.",
-    tips: [
-      "Hoje a volta também importa muito.",
-      "Preferred Parking faz mais sentido aqui porque o dia não acaba no parque.",
-      "A BMW precisa sair rápido mais tarde.",
-    ],
-    hack:
-      "A vaga certa hoje não serve só o parque — serve também o outlet.",
+      "No Epic sem Express, disciplina vale mais do que sorte. Quem entra decidido brinca; quem entra disperso assiste fila crescer.",
     restaurant: "",
     lounge: "",
   },
   {
     time: "08:15",
-    title: "Portal Chronos + fila de abertura ⏳",
+    title: "Café da manhã no hotel 🍳",
     description:
-      "Posicionamento físico para o rope drop do parque.",
+      "Café funcional para sustentar uma manhã de parque pesado sem depender de comida cara logo cedo.",
     strategy:
-      "Como vocês não têm Early Entry, a vantagem está em estar bem colocados antes da abertura oficial.",
-    transport: "Caminhada",
-    location: "Entrada do Epic Universe — Portal Chronos",
-    photoSpot:
-      "Portal gigante de entrada com profundidade e escala épica.",
+      "Comer bem, mas sem transformar o café em evento. Hoje o café precisa servir ao roteiro, não atrasar a missão.",
+    transport: "",
+    location: "Travelodge by Wyndham Orlando Lake Buena Vista South",
+    photoSpot: "",
     practicalPlan:
-      "Ficar bem posicionado, com o app já conferido, e entrar com foco absoluto no primeiro mundo-alvo.",
+      "Fazer um café objetivo, ir ao banheiro, encher garrafa de água se possível e sair com tudo já na mão.",
     pitfalls:
-      "Tratar esse bloco como foto e passeio quando ele, na verdade, decide metade da manhã.",
+      "Enrolar no café, esquecer item no quarto ou sair com fome achando que resolve dentro do parque sem perder tempo.",
     tips: [
-      "A ordem ideal do dia depende da abertura real e do comportamento do app.",
-      "Hoje fila ganha antes de começar.",
-      "O portal é bonito, mas a missão vem primeiro.",
+      "Café incluso hoje é ferramenta de guerra.",
+      "Evite comida pesada demais antes das filas.",
+      "Power bank carregado é obrigatório.",
+      "Tênis confortável hoje manda mais que qualquer look.",
     ],
     hack:
-      "No Epic sem Express, a melhor foto da entrada é a que não te custa a primeira atração.",
+      "Café simples bem feito compra tempo dentro do parque. Café bonito demais compra atraso.",
+    restaurant: "Café do hotel",
+    lounge: "",
+  },
+  {
+    time: "08:50",
+    title: "Saída para o Epic Universe 🚘",
+    description:
+      "Deslocamento direto do hotel para o Epic com meta clara: estar na portaria às 09:30.",
+    strategy:
+      "A saída precisa ser seca. Nada de farmácia, mercado, paradinha ou abre aspas rapidinho fecha aspas. Esse rapidinho é o ladrão oficial de parque.",
+    transport: "BMW X7",
+    location: "Hotel em Kissimmee → Universal Epic Universe",
+    photoSpot: "",
+    practicalPlan:
+      "Entrar no carro, colocar o destino no GPS e seguir direto para o estacionamento do Epic Universe, mirando chegada por volta de 09:15.",
+    pitfalls:
+      "Subestimar tempo de estacionamento, segurança, caminhada e entrada. Parque novo não perdoa atraso bobo.",
+    tips: [
+      "A meta não é chegar no estacionamento às 09:30; é estar na portaria às 09:30.",
+      "Ingressos e app precisam estar prontos antes de sair do carro.",
+      "Evite carregar coisa demais para acelerar segurança e caminhada.",
+      "Hoje cada minuto antes das 10:00 vale ouro.",
+    ],
+    hack:
+      "Chegar cedo no parque é a versão adulta de furar fila sem pagar: chama disciplina.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "08:30",
-    title: "Missão crítica — Super Nintendo World 🍄",
+    time: "09:15",
+    title: "Estacionamento + caminhada para a entrada 🅿️",
     description:
-      "Primeiro ataque do dia, focado em evitar a fila monstro da área mais visada do parque.",
+      "Chegada ao complexo do Epic Universe para estacionar e caminhar direto até o portal de entrada.",
     strategy:
-      "Nintendo entra primeiro porque é a parte que mais tem cara de travar cedo e estragar a manhã de quem vacila.",
-    transport: "Caminhada",
-    location: "Super Nintendo World — Epic Universe",
-    photoSpot:
-      "Castelo da Peach, visão aberta da área e escala colorida do mundo.",
+      "O estacionamento precisa servir dois objetivos: entrada rápida agora e saída rápida às 16:00 para o outlet.",
+    transport: "BMW X7 / caminhada",
+    location: "Universal Epic Universe — estacionamento",
+    photoSpot: "",
     practicalPlan:
-      "Ir direto para Mario Kart como alvo principal, checar no app se há necessidade de Virtual Line para a área ou para algo interno e não deixar eventual Power-Up Band para ser configurada no miolo do rope drop.",
+      "Estacionar, fotografar a localização da vaga, conferir mochila e seguir direto para a entrada sem parar em loja, foto secundária ou banheiro desnecessário.",
     pitfalls:
-      "Perder tempo na lojinha ou comprando item interativo antes de resolver a atração principal.",
+      "Esquecer onde estacionou ou caminhar disperso como se o parque não tivesse hora de abertura.",
     tips: [
-      "Virtual Line precisa ser tratada como checagem obrigatória, não como certeza absoluta.",
-      "Mario Kart é o primeiro grande teste do dia.",
-      "Se a Power-Up Band entrar, ela entra só sem sacrificar fila.",
+      "Foto da vaga evita sofrimento na volta.",
+      "Não deixe ninguém se perder do grupo já na chegada.",
+      "Se banheiro for inevitável, que seja rápido.",
+      "A saída das 16:00 começa a ser protegida agora.",
     ],
     hack:
-      "Nintendo cedo salva a manhã; configurar item interativo ou brincar de loja antes da primeira fila faz o parque te devolver a conta na hora.",
+      "Estacionamento bem resolvido de manhã vira economia de nervo no fim da tarde.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "09:30",
+    title: "Portaria do Epic Universe — posição de abertura ⏳",
+    description:
+      "Chegada na entrada do parque 30 minutos antes da abertura oficial das 10:00.",
+    strategy:
+      "Esse bloco decide a manhã. A foto do portal é bonita, mas hoje a missão é entrar bem posicionado e ir direto para Super Nintendo World.",
+    transport: "Caminhada",
+    location: "Entrada do Epic Universe — Portal Chronos",
+    photoSpot:
+      "Portal Chronos de frente, mas só foto rápida. Nada de ensaio fotográfico antes da largada.",
+    practicalPlan:
+      "Ficar posicionado, app aberto, ingresso fácil, grupo combinado e rota mental definida: abriu, Super Nintendo World direto.",
+    pitfalls:
+      "Gastar a melhor janela do dia com foto, loja, banheiro ou dúvida sobre para onde ir primeiro.",
+    tips: [
+      "A abertura oficial é 10:00.",
+      "Chegar 09:30 dá margem real.",
+      "A primeira decisão do dia é Nintendo.",
+      "Donkey Kong vem antes de Mario Kart.",
+    ],
+    hack:
+      "A melhor lembrança da portaria é entrar rápido. Foto bonita com atraso é recibo de vacilo.",
     restaurant: "",
     lounge: "",
   },
   {
     time: "10:00",
-    title: "Dark Universe 👹",
+    title: "Entrada no Epic — direto para Super Nintendo World 🍄",
     description:
-      "Segundo grande bloco do parque, com atmosfera pesada e uma das experiências mais fortes do dia.",
+      "Abertura oficial do parque e deslocamento imediato para a área mais crítica do roteiro.",
     strategy:
-      "Depois da Nintendo, Dark Universe entra bem como segundo ataque porque continua alto em demanda e mantém o fluxo redondo.",
+      "Nintendo entra primeiro porque concentra curiosidade, novidade, fila, loja, foto e distração. Aqui o inimigo é a cor bonita te chamando para perder tempo.",
     transport: "Caminhada",
-    location: "Dark Universe — Epic Universe",
+    location: "Portal Chronos → Super Nintendo World",
     photoSpot:
-      "Moinho e atmosfera gótica com cara cinematográfica.",
+      "Guardar as fotos principais para depois de Donkey Kong e Mario Kart. Antes disso, só registro rápido se não travar o fluxo.",
     practicalPlan:
-      "Resolver Monsters Unchained primeiro e só depois gastar alguns minutos com atmosfera e fotos da área.",
+      "Entrar e caminhar direto para Donkey Kong Country. Não parar em loja, não comprar item interativo agora e não fazer foto longa antes da primeira fila.",
     pitfalls:
-      "Chegar na área e se perder em ambientação antes de fazer o que realmente trava.",
+      "Achar que dá para brincar um pouco antes da primeira atração. Em parque novo, brincadeira cedo vira fila grande depois.",
     tips: [
-      "Aqui o parque começa a ganhar identidade forte.",
-      "Esse bloco é mais pesado visualmente e combina com foto urbana/escura.",
-      "Primeiro a atração, depois o cenário.",
+      "Super Nintendo World é o primeiro mundo do dia.",
+      "O alvo número 1 é Mine-Cart Madness.",
+      "Power-Up Band e loja só entram depois das prioridades.",
+      "A manhã precisa começar com execução, não contemplação.",
     ],
     hack:
-      "Área temática bonita só rende de verdade quando a fila principal já ficou para trás.",
+      "Super Nintendo World é armadilha de adulto com alma de criança. Primeiro vence a fila, depois brinca.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "11:30",
-    title: "Wizarding World — Ministry of Magic 🪄",
+    time: "10:05",
+    title: "Prioridade 1 — Mine-Cart Madness / Donkey Kong 🛤️",
     description:
-      "Terceiro bloco principal do parque, com o peso da marca Harry Potter e tendência forte de demanda.",
+      "Atração imperdível e primeira grande decisão do dia. Essa não pode ficar para depois.",
     strategy:
-      "Harry Potter entra ainda na metade boa do dia para evitar deixar uma das áreas mais quentes para o pior horário possível.",
+      "Donkey Kong precisa abrir o roteiro porque combina novidade, apelo altíssimo e risco de fila pesada. Se deixar para mais tarde, pode virar penitência.",
+    transport: "Caminhada",
+    location: "Super Nintendo World — Donkey Kong Country",
+    photoSpot:
+      "Entrada de Donkey Kong Country e ambientação da selva, mas só se a fila permitir sem atraso.",
+    practicalPlan:
+      "Entrar direto na fila da Mine-Cart Madness. Se a fila estiver até 90 minutos, entra sem pensar. Se estiver acima disso, ainda é forte candidata a ser feita porque é prioridade total.",
+    pitfalls:
+      "Deixar Donkey Kong para mais tarde achando que a fila vai melhorar. Pode até melhorar, mas apostar nisso é roleta russa com banana.",
+    tips: [
+      "Essa é a atração imperdível do Dia 19.",
+      "Ela vem antes de Mario Kart.",
+      "Não troque essa fila por foto ou lojinha.",
+      "Depois dela, o dia fica psicologicamente muito mais leve.",
+    ],
+    hack:
+      "Quando existe uma atração que define o dia, ela não entra no meio do roteiro. Ela abre o jogo.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "11:15",
+    title: "Prioridade 2 — Mario Kart: Bowser’s Challenge 🏎️",
+    description:
+      "Segunda prioridade do bloco Nintendo, feita logo após Donkey Kong para evitar caminhada burra e retorno desnecessário.",
+    strategy:
+      "Depois de Donkey Kong, o certo é continuar em Nintendo e fechar Mario Kart. Sair da área agora para voltar depois seria jogar tempo fora.",
+    transport: "Caminhada",
+    location: "Super Nintendo World — Mario Kart: Bowser’s Challenge",
+    photoSpot:
+      "Castelo do Bowser, entrada da atração e detalhes da área, se o fluxo permitir.",
+    practicalPlan:
+      "Seguir direto para Mario Kart. Se a fila estiver aceitável, fazer sem hesitar. Se estiver muito alta, avaliar o app, mas a tendência ainda é manter porque é prioridade total.",
+    pitfalls:
+      "Sair de Donkey Kong e se perder em loja, snack, Power-Up Band ou foto antes de resolver Mario Kart.",
+    tips: [
+      "Mario Kart fecha a espinha dorsal de Nintendo.",
+      "Depois dele, a área fica liberada para fotos rápidas.",
+      "Evite loja antes de concluir as duas atrações.",
+      "Se a fila passar muito de 90 minutos, o roteiro fica apertado, mas ainda é prioridade.",
+    ],
+    hack:
+      "Nintendo só fica gostosa de passear depois que Donkey Kong e Mario Kart estão no bolso.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "12:20",
+    title: "Fotos rápidas em Super Nintendo World 📸",
+    description:
+      "Janela curta para registrar a área depois das duas atrações principais.",
+    strategy:
+      "Agora sim dá para respirar um pouco. Mas respirar não é morar dentro da área. O próximo alvo é Harry Potter.",
+    transport: "Caminhada",
+    location: "Super Nintendo World",
+    photoSpot:
+      "Castelo da Peach, visão geral da área, entrada de Donkey Kong Country e pontos coloridos com profundidade.",
+    practicalPlan:
+      "Fazer fotos rápidas, banheiro se necessário e sair para o próximo mundo antes que Nintendo engula a tarde.",
+    pitfalls:
+      "Achar que 10 minutos de foto são 10 minutos. Em área temática, 10 minutos viram 35 sorrindo igual turista em loja de imã.",
+    tips: [
+      "Fotos rápidas agora fazem sentido.",
+      "Loja só se for objetiva e curta.",
+      "Não compre item grande para carregar o dia inteiro.",
+      "Próximo alvo: Harry Potter and the Battle at the Ministry.",
+    ],
+    hack:
+      "Foto boa é a que registra o momento sem sequestrar o roteiro.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "12:40",
+    title: "Deslocamento para Harry Potter — Ministry of Magic 🪄",
+    description:
+      "Saída de Nintendo rumo à terceira prioridade total do dia.",
+    strategy:
+      "Harry Potter precisa entrar antes do almoço porque é uma das filas mais perigosas do parque. Almoçar antes pode custar caro em espera.",
+    transport: "Caminhada",
+    location:
+      "Super Nintendo World → The Wizarding World of Harry Potter — Ministry of Magic",
+    photoSpot:
+      "Fachadas e ambientação da área de Harry Potter, mas só depois de garantir a atração.",
+    practicalPlan:
+      "Caminhar direto para a atração principal. A regra continua a mesma: atração primeiro, contemplação depois.",
+    pitfalls:
+      "Chegar no mundo do Harry Potter e esquecer que ainda existe fila, almoço, Stardust e saída às 16:00.",
+    tips: [
+      "Não parar para explorar antes da atração.",
+      "A marca Harry Potter puxa muita gente e muito tempo.",
+      "Esse bloco pode definir se Stardust entra com folga ou apertado.",
+      "Se a fila estiver pesada, ainda assim tende a ser prioridade inegociável.",
+    ],
+    hack:
+      "No mundo do Harry Potter, a mágica mais valiosa é sair da fila com a atração feita.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "12:50",
+    title: "Prioridade 3 — Harry Potter and the Battle at the Ministry ⚡",
+    description:
+      "Uma das atrações mais importantes do Epic e ponto central da área de Harry Potter.",
+    strategy:
+      "Essa atração não pode ser deixada para o fim da tarde, porque vocês precisam sair às 16:00. O melhor é encarar agora, mesmo que a fila esteja salgada.",
     transport: "Caminhada",
     location: "The Wizarding World of Harry Potter — Ministry of Magic",
     photoSpot:
-      "Eixos mais limpos da área e fachadas com leitura mais cinematográfica.",
+      "Elementos da fila, fachadas e ambiente do Ministério, sem travar a operação.",
     practicalPlan:
-      "Fazer primeiro a atração principal e depois circular um pouco na área, sem transformar esse bloco em passeio disperso.",
+      "Entrar na fila e tratar essa atração como prioridade total. Se ela bater fila muito alta, aceitar que o almoço será curto e que atração extra provavelmente cai.",
     pitfalls:
-      "Se encantar demais com o mundo e perder a mão do relógio.",
+      "Deixar Battle at the Ministry para depois do almoço e descobrir que o depois virou tarde demais.",
     tips: [
-      "Aqui a atmosfera puxa muito a atenção.",
-      "Atração principal antes de exploração continua sendo a regra.",
-      "Esse é um dos blocos mais fáceis de crescer demais.",
+      "Essa é uma das 4 prioridades totais do dia.",
+      "Se a fila estiver até 120 minutos, entra sem drama.",
+      "Se passar de 150 minutos, ainda pode valer, mas Stardust fica ameaçado.",
+      "Não transformar a área em passeio antes da atração.",
     ],
     hack:
-      "No mundo do Harry Potter, a melhor mágica continua sendo fugir da fila certa.",
+      "Atração prioritária não se negocia no balcão da fome. Primeiro faz, depois come.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "13:00",
-    title: "Almoço tático no Epic 🍕",
+    time: "14:20",
+    title: "Almoço rápido e tático 🍕",
     description:
-      "Pausa curta para sustentar a segunda metade do parque sem matar o ritmo.",
+      "Pausa curta para comer depois das três primeiras prioridades do parque.",
     strategy:
-      "Hoje o almoço não pode virar descanso longo, porque ainda existe Berk, Celestial e o relógio do outlet.",
+      "O almoço hoje é combustível, não evento. Comer rápido, hidratar e voltar ao plano porque Stardust Racers ainda precisa entrar.",
     transport: "Caminhada",
-    location: "Epic Universe — área de refeição coerente com a rota",
+    location: "Epic Universe — opção mais eficiente na rota real do momento",
     photoSpot: "",
     practicalPlan:
-      "Escolher a opção que melhor encaixar no mundo em que vocês estiverem e voltar ao parque sem esfriar.",
+      "Escolher a opção mais próxima e prática conforme a posição real no parque. Se Pizza Moon estiver bem localizada, é leitura forte. Evitar restaurante demorado.",
     pitfalls:
-      "Sentar demais, demorar escolhendo ou comer pesado a ponto de sabotar a reta final.",
+      "Sentar demais, ficar escolhendo menu por 20 minutos ou cair em restaurante concorrido só porque parece mais bonito.",
     tips: [
-      "Toadstool Cafe só vale se o acesso estiver muito favorável.",
-      "Pizza Moon é a leitura mais prática.",
-      "Hoje almoço serve o restante do parque e o outlet depois.",
+      "Pizza Moon é boa opção prática se estiver na rota.",
+      "Toadstool Cafe só vale se estiver extremamente fácil; caso contrário, rouba tempo.",
+      "Comida pesada demais pode cobrar na reta final.",
+      "O almoço não pode passar de apoio.",
     ],
     hack:
-      "No Dia 19, almoço bom é o que te devolve rápido para a guerra.",
+      "Almoço premium em dia tático é o que resolve rápido. Prato lindo que rouba 1 hora é golpe baixo.",
     restaurant:
       "Barato: Pizza Moon — US$ 45–55/casal • Médio: Toadstool Cafe — US$ 80–100/casal • Premium: The Burning Blade Tavern — US$ 120–150/casal",
     lounge: "",
   },
   {
-    time: "14:30",
-    title: "Isle of Berk 🐉",
+    time: "14:50",
+    title: "Prioridade 4 — Stardust Racers ✨",
     description:
-      "Bloco de How to Train Your Dragon, com atmosfera aberta e montanha-russa forte para a segunda metade do dia.",
+      "Quarta prioridade total do dia e fechamento forte do bloco Epic antes da saída para o outlet.",
     strategy:
-      "Berk entra aqui como continuação natural da maratona, mas já com o relógio começando a pesar por causa do outlet.",
+      "Stardust Racers entra como fechamento porque é prioridade, mas tende a ser mais administrável do que Donkey Kong, Harry Potter e Mario Kart. Aqui o relógio manda.",
     transport: "Caminhada",
-    location: "How to Train Your Dragon — Isle of Berk",
+    location: "Celestial Park — Stardust Racers",
     photoSpot:
-      "Áreas abertas da vila e estrutura mais cinematográfica do mundo.",
+      "Celestial Park, eixos abertos, trilhos da Stardust Racers e atmosfera central do parque.",
     practicalPlan:
-      "Fazer Hiccup’s Wing Gliders e absorver o essencial da área sem deixar o bloco escorrer demais.",
+      "Checar a fila no app. Se estiver até 45 minutos por volta de 14:50 ou 15:00, entrar. Se estiver muito acima disso, avaliar com frieza porque a saída às 16:00 não pode morrer.",
     pitfalls:
-      "Tratar Berk como se ainda fosse manhã e gastar mais tempo do que o dia permite.",
+      "Entrar numa fila longa demais às 15:10 e transformar a saída para o outlet em tragédia anunciada.",
     tips: [
-      "A tarde já precisa começar a pensar na saída.",
-      "Berk continua valendo, mas não pode sequestrar o outlet.",
-      "A missão aqui é aproveitar bem sem perder o senso de prioridade.",
+      "Stardust é prioridade total, mas depende do relógio.",
+      "Se a fila estiver razoável, faz sem pensar.",
+      "Se passar muito de 60 minutos perto das 15:00, o plano fica perigoso.",
+      "Não tente encaixar outra atração antes dela.",
     ],
     hack:
-      "Atração boa à tarde é a que você curte sem esquecer que o relógio ainda tem outra guerra.",
+      "Roteiro bom não é o que força tudo. É o que sabe usar a última bala.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "15:35",
+    title: "Bloco extra somente se o parque permitir 🎯",
+    description:
+      "Janela flexível para uma atração extra, fotos ou saída antecipada, dependendo de como as 4 prioridades performaram.",
+    strategy:
+      "Esse bloco não é promessa. É bônus. Se Donkey Kong, Mario Kart, Harry Potter e Stardust já foram vencidos, aí sim dá para escolher algo leve antes de sair.",
+    transport: "Caminhada",
+    location: "Epic Universe — conforme posição real no parque",
+    photoSpot:
+      "Foto final em Celestial Park ou Portal Chronos, se estiver no caminho e sem travar a saída.",
+    practicalPlan:
+      "Se houver tempo real, considerar Monsters Unchained ou Hiccup’s Wing Gliders apenas com fila muito baixa. Se não houver tempo, fazer banheiro, foto final e caminhar para a saída.",
+    pitfalls:
+      "Confundir bônus com obrigação. O que é extra não pode destruir a saída das 16:00.",
+    tips: [
+      "Monsters Unchained só entra se a fila estiver muito favorável.",
+      "Hiccup’s Wing Gliders também só entra se for encaixe limpo.",
+      "Loja só se for objetiva e no caminho.",
+      "Às 15:45, mentalidade já precisa virar saída.",
+    ],
+    hack:
+      "Extra bom é o que entra sem quebrar o plano. Se precisa forçar, já virou armadilha.",
     restaurant: "",
     lounge: "",
   },
   {
     time: "15:45",
-    title: "Celestial Park + Starfall Racers ✨",
+    title: "Banheiro, água, foto final e retirada 🚪",
     description:
-      "Último grande ataque do parque antes do bloco de fotos e retirada estratégica.",
+      "Fechamento interno do Epic antes da saída obrigatória para o outlet.",
     strategy:
-      "Fechar com Starfall e um pouco de atmosfera de Celestial Park entrega uma sensação forte de parque vencido, mesmo sem tentar esgotar cada canto antes do pós-parque.",
+      "Agora não é hora de abrir nova frente. É hora de sair bonito, inteiro e com o outlet ainda vivo.",
     transport: "Caminhada",
-    location: "Celestial Park — Epic Universe",
+    location: "Epic Universe → saída do parque",
     photoSpot:
-      "Portais, eixos abertos e atmosfera elegante do parque central.",
+      "Foto final no Portal Chronos ou em Celestial Park, se estiver no caminho e sem travar a saída.",
     practicalPlan:
-      "Resolver Starfall Racers e usar os minutos finais para uma passada rápida pelas áreas mais bonitas da região.",
+      "Banheiro, água, conferir pertences, uma foto final rápida e caminhada para o estacionamento.",
     pitfalls:
-      "Tentar esticar o parque até ele começar a roubar o outlet.",
+      "Entrar em loja no fim ou decidir abre aspas só ver uma coisa fecha aspas. Essa frase já destruiu mais roteiro que chuva em Orlando.",
     tips: [
-      "Celestial Park é o bloco mais fácil de ficar bonito e traiçoeiro no tempo.",
-      "Aqui entram as últimas fotos mais limpas do parque.",
-      "O fechamento precisa ser bonito, mas disciplinado.",
+      "A saída oficial é 16:00.",
+      "Não deixe souvenir quebrar o plano.",
+      "O outlet fecha às 19:00.",
+      "O grupo precisa sair junto, sem dispersão.",
     ],
     hack:
-      "Parque gigante bom termina antes de virar arrasto.",
+      "Sair no auge é melhor do que sair arrastado. Parque bom também precisa de ponto final.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "16:30",
-    title: "Saída antecipada do Epic Universe 🚪",
+    time: "16:00",
+    title: "Saída do Epic rumo ao outlet 🚘",
     description:
-      "Encerramento tático do parque para proteger o bloco de compras de domingo que vocês não terão outra chance real de repetir.",
+      "Transição direta para o Orlando International Premium Outlets.",
     strategy:
-      "Hoje sair mais cedo não é perder o Epic; é trocar o grand finale completo do parque por uma decisão mais inteligente para preservar o bloco de compras que não se repete.",
+      "Essa saída é a virada do dia. O parque foi a experiência; o outlet é a missão comercial. Agora é trocar encantamento por eficiência.",
     transport: "BMW X7",
-    location: "Epic Universe → Orlando International Premium Outlets",
+    location:
+      "Universal Epic Universe → Orlando International Premium Outlets",
     photoSpot: "",
     practicalPlan:
-      "Sair direto, sem última volta sentimental, e entrar no carro com mentalidade total de missão tênis, aceitando que a janela ideal já começou ali entre 16:15 e 16:30.",
+      "Entrar no carro, colocar destino direto e não inventar parada. A meta é chegar ao outlet por volta de 16:40.",
     pitfalls:
-      "Ceder à tentação de ficar mais meia hora no parque e depois transformar o outlet em corrida apressada, sem tempo real de execução.",
+      "Ficar enrolando no estacionamento, procurar snack, abastecer ou discutir restaurante antes das compras.",
     tips: [
-      "A JD Sports, a Nike Factory e a adidas Outlet fecham às 19:00 no domingo.",
-      "Hoje o pós-parque vale tanto quanto a última atração.",
-      "Quem sai na hora certa protege o plano inteiro.",
+      "O outlet fecha às 19:00.",
+      "A janela real de compra será curta.",
+      "Chegando lá, nada de passeio aleatório.",
+      "Hoje é JD Sports, Nike, Adidas e o que realmente compensar.",
     ],
     hack:
-      "Disciplina para sair cedo hoje vale mais do que mais uma fila bonita no parque.",
+      "Às 16:00, o Epic acabou. Quem aceita isso aproveita o outlet. Quem não aceita, perde os dois.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "17:00",
+    time: "16:40",
     title: "Missão outlet — JD + Nike + adidas 👟",
     description:
-      "Bloco cirúrgico no Orlando International Premium Outlets, com foco total em tênis e performance.",
+      "Bloco cirúrgico no Orlando International Premium Outlets, com foco total em tênis, performance e oportunidade real até o fechamento das 19:00.",
     strategy:
       "Nada de passear. Entrar com alvo claro, atacar as três lojas certas e sair com o que realmente compensa.",
-    transport: "BMW X7",
+    transport: "BMW X7 / caminhada",
     location:
       "Orlando International Premium Outlets — 4951 International Dr, Orlando, FL 32819",
     photoSpot: "",
@@ -2275,12 +2393,39 @@ export const itinerary = {
     pitfalls:
       "Abrir loja aleatória, perder tempo com vitrine e descobrir às 18:50 que o alvo principal ficou para trás.",
     tips: [
-      "JD Sports destaca Nike, adidas, Jordan, New Balance, ASICS e On.",
-      "Nike Factory e adidas Outlet são as duas complementares mais lógicas para Vomero e Adizero.",
-      "No domingo, essas lojas trabalham até 19:00.",
+      "Prioridade 1: JD Sports.",
+      "Prioridade 2: Nike Factory.",
+      "Prioridade 3: Adidas Outlet.",
+      "Foco em tênis, oportunidade real e item difícil de achar no Brasil.",
+      "Se não compensar muito, não compra. Luxo sem desconto é só passeio caro.",
     ],
     hack:
-      "Hoje outlet é bisturi: JD, Nike, adidas e rua.",
+      "Hoje outlet é bisturi: JD, Nike, adidas e rua. O resto é turismo com sacola.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "18:35",
+    title: "Última varredura antes do fechamento 🛍️",
+    description:
+      "Checagem final objetiva antes do outlet fechar às 19:00.",
+    strategy:
+      "Os últimos 25 minutos não são para descobrir loja nova. São para decidir compra pendente, trocar numeração ou voltar rapidamente na melhor oportunidade encontrada.",
+    transport: "Caminhada",
+    location: "Orlando International Premium Outlets",
+    photoSpot: "",
+    practicalPlan:
+      "Revisar apenas os achados bons. Se algo ficou em dúvida, decidir agora. Às 19:00 o bloco acaba sem drama.",
+    pitfalls:
+      "Abrir uma loja nova às 18:50 e sair frustrado porque não deu tempo de nada.",
+    tips: [
+      "Última meia hora é decisão, não exploração.",
+      "Confirme tamanho, cor, preço final e imposto.",
+      "Não compre por cansaço.",
+      "Se não encantou e não compensou, deixa lá.",
+    ],
+    hack:
+      "A pressa no outlet é uma vendedora safada. Ela convence você a comprar coisa média achando que é oportunidade.",
     restaurant: "",
     lounge: "",
   },

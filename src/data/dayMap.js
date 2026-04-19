@@ -85,20 +85,25 @@ export const dayMap = {
     },
   },
 
-  19: {
+  19:{
     title: "Epic Universe + outlet tático + Celebration",
-    subtitle: "Epic → JD Sports + Nike + adidas → jantar bonito em Celebration",
+    subtitle:
+      "Portaria 09:30 → Donkey Kong → Mario Kart → Harry Potter → Stardust → outlet → Celebration",
     highlights: [
       "Epic Universe! 🎢",
-      "Super Nintendo World 🍄",
-      "JD + Nike + adidas 👟",
-      "Celebration à noite 🌙",
+      "Donkey Kong + Mario Kart 🍄",
+      "Harry Potter + Stardust ✨",
+      "Outlet + Celebration 🌙",
     ],
     attention: {
-      risk: "Tratar o Epic como parque para fechar inteiro e descobrir tarde demais que o outlet de domingo perdeu valor.",
-      priority: "Fazer rope drop forte no Epic, executar os mundos mais quentes cedo e tratar a saída das 16:30 como decisão inteligente, não como derrota.",
-      critical: "Saída do hotel às 07:00 e janela ideal de saída do parque entre 16:15 e 16:30.",
-      flexible: "Fotos finais no parque e o ritmo do passeio em Celebration entram só se a operação do outlet já estiver realmente vencida.",
+      risk:
+        "Entrar no Epic sem ordem clara, perder a janela das 4 atrações prioritárias e ainda comprometer o outlet de domingo, que fecha às 19:00.",
+      priority:
+        "Chegar na portaria às 09:30, entrar às 10:00 direto em Super Nintendo World e fazer Mine-Cart Madness primeiro, antes de foto, loja ou qualquer dispersão.",
+      critical:
+        "Fila normal: Donkey Kong primeiro, Mario Kart em seguida, Harry Potter antes do almoço, Stardust Racers como fechamento forte e saída obrigatória do Epic às 16:00.",
+      flexible:
+        "Monsters Unchained, Hiccup’s Wing Gliders, fotos extras e lojas só entram como bônus se as 4 prioridades forem vencidas sem estourar o relógio.",
     },
   },
 
