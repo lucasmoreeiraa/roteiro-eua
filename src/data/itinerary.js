@@ -2900,344 +2900,437 @@ export const itinerary = {
 
     21: [
   {
-    time: "07:25",
-    title: "Café da manhã no hotel 🍳",
-    description:
-      "Último café tranquilo da fase Orlando antes do dia mais estratégico de compras.",
-    strategy:
-      "Hoje o foco é proteína, praticidade e cabeça fria. O dia não é bonito, é útil.",
-    transport: "",
-    location: "Travelodge by Wyndham Orlando Lake Buena Vista South",
-    photoSpot: "",
-    practicalPlan:
-      "Comer bem, sem enrolar, e sair já com roupa leve, celular carregado e cabeça em modo missão.",
-    pitfalls:
-      "Tratar o começo do dia como passeio e não como operação que decide o resto da viagem.",
-    tips: [
-      "Hoje preço real vale mais do que vitrine bonita.",
-      "O foco são malas, frio e achados fortes.",
-      "A manhã é a parte mais valiosa do dia.",
-    ],
-    hack:
-      "No Dia 21, sair alimentado e decidido vale mais do que sair empolgado.",
-    restaurant: "Café do hotel",
-    lounge: "",
-  },
-  {
-    time: "08:00",
-    title: "Saída para The Loop 🚘",
-    description:
-      "Início do grande dia de compras com foco total em oportunidade real.",
-    strategy:
-      "Hoje o eixo da manhã foi escolhido por paz, loja mais organizada e melhor chance de achado forte.",
-    transport: "BMW X7",
-    location: "Hotel em Kissimmee → The Loop / Kissimmee",
-    photoSpot: "",
-    practicalPlan:
-      "Ir direto ao eixo da manhã e estacionar perto da Ross para começar pela maior prioridade do dia.",
-    pitfalls:
-      "Começar o dia improvisando rota ou cedendo à tentação de shopping bonito antes do que realmente compensa.",
-    tips: [
-      "A manhã é sagrada.",
-      "Hoje o foco é comprar bem, não parecer sofisticado comprando mal.",
-      "The Loop rende justamente porque é menos caótico.",
-    ],
-    hack:
-      "O The Loop costuma render melhor que o eixo hiper turístico da International Drive: menos caos, melhor chance de malas premium e tênis bons ainda organizados.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "08:20",
-    title: "Ross Dress for Less — abertura tática 🧳",
-    description:
-      "Primeiro ataque do dia, com foco em malas e casacos pesados para Washington e NYC.",
-    strategy:
-      "Ross cedo é onde vocês resolvem o grosso antes da loja virar bagunça e o estoque evaporar.",
-    transport: "Caminhada / carro curto",
-    location: "Ross Dress for Less — eixo The Loop / Kissimmee",
-    photoSpot:
-      "Se a missão der certo, o registro com sacolas e mala nova já vale como foto de vitória.",
-    practicalPlan:
-      "Ir direto para malas, casacos, frio e itens de oportunidade forte, sem passear pelos corredores sem propósito.",
-    pitfalls:
-      "Ver a mala certa e deixar para depois. No meio do dia, ela some.",
-    tips: [
-      "Casaco de frio entra como prioridade real hoje.",
-      "Columbia, Calvin Klein e peças de inverno merecem atenção.",
-      "Se a mala ideal aparecer, resolve na hora.",
-    ],
-    hack:
-      "Ross boa cedo costuma decidir metade do dia antes mesmo da segunda loja.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "09:10",
-    title: "TJ Maxx + Marshalls 👕",
-    description:
-      "Miolo premium da manhã com foco em marca boa, frio e peça que parece outlet sem o caos do outlet.",
-    strategy:
-      "Aqui o jogo é qualidade com desconto, não quantidade por impulso.",
-    transport: "Caminhada / carro curtíssimo",
-    location: "TJ Maxx + Marshalls — eixo The Loop / Kissimmee",
-    photoSpot: "",
-    practicalPlan:
-      "Focar em casacos, roupas boas, marcas fortes e oportunidades premium antes de perder tempo em acessório secundário.",
-    pitfalls:
-      "Entrar em corredor sem missão e deixar a manhã escorrer em micro indecisões.",
-    tips: [
-      "Ralph Lauren, Tommy e Calvin costumam aparecer bem aqui.",
-      "Esse é bloco de qualidade, não só de volume.",
-      "Frio para Washington e NYC continua no topo da lista.",
-    ],
-    hack:
-      "Se a Ross resolve o grosso, TJ e Marshalls elevam o nível.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-  time: "10:00",
-  title: "Tommy Hilfiger do The Loop 👔",
+  time: "07:45",
+  title: "Acordar e preparar o dia ⏰",
   description:
-    "Parada rápida e cirúrgica para verificar básicos premium, casacos, polos e peças que podem compensar muito já no próprio eixo da manhã.",
+    "Acordar com calma suficiente para organizar corpo, celular, carteira e sacolas antes do último dia forte de compras em Orlando.",
   strategy:
-    "Como vocês já estarão no The Loop, a Tommy entra como bloco de oportunidade inteligente, sem criar travessia burra nem desorganizar o ritmo.",
-  transport: "Caminhada / carro curtíssimo",
-  location: "Tommy Hilfiger — eixo The Loop / Kissimmee",
+    "Não começar o dia no susto. Hoje a missão é validação do que ficou faltando, então sair organizado vale mais que sair correndo.",
+  transport: "",
+  location: "Travelodge by Wyndham Orlando Lake Buena Vista South",
   photoSpot: "",
   practicalPlan:
-    "Entrar com foco em peças clássicas, casacos, polos, malhas e itens que realmente valham a pena no custo-benefício, sem transformar a loja em passeio longo.",
+    "Levantar, tomar banho, carregar celular, separar cartões, conferir lista mental de compras e deixar o quarto minimamente organizado.",
   pitfalls:
-    "Gastar tempo demais olhando coleção comum e deixar a manhã perder força antes da Nike e da Dillard’s.",
+    "Acordar tarde, descer correndo para o café e começar o dia esquecendo carregador, cartão ou item importante no quarto.",
   tips: [
-    "Tommy funciona bem para básicos duráveis e peças mais arrumadas.",
-    "Se aparecer casaco bom ou peça-chave com desconto forte, resolve na hora.",
-    "Aqui a lógica continua sendo oportunidade real, não compra por impulso.",
+    "Separar cartões e documentos antes do café.",
+    "Deixar o porta-malas pronto para receber compras.",
+    "Hoje é dia de decisão rápida, não de passeio sem rumo.",
   ],
   hack:
-    "Já que a operação da manhã está no The Loop, espremer a Tommy no mesmo eixo é o tipo de decisão que economiza tempo sem perder qualidade.",
+    "Acordar às 07:45 dá tempo para começar direito sem ficar parado esperando loja abrir.",
   restaurant: "",
   lounge: "",
 },
+{
+  time: "08:30",
+  title: "Café da manhã no hotel 🍳",
+  description:
+    "Café rápido no hotel antes de sair para o roteiro de compras do dia.",
+  strategy:
+    "Comer bem, mas sem enrolar. O café hoje é combustível para aguentar Walmart, The Loop, outlets e fechamento de malas.",
+  transport: "",
+  location: "Travelodge by Wyndham Orlando Lake Buena Vista South",
+  photoSpot: "",
+  practicalPlan:
+    "Tomar café no hotel, revisar a rota no celular e já sair com todo mundo alinhado para embarcar na X7.",
+  pitfalls:
+    "Transformar café da manhã em reunião de condomínio e atrasar a saída.",
+  tips: [
+    "Comer algo prático e reforçado.",
+    "Evitar café demorado demais.",
+    "Sair do café já pronto para pegar o carro.",
+  ],
+  hack:
+    "Café bom hoje é café rápido: alimenta, anima e não sequestra o roteiro.",
+  restaurant: "Café do hotel",
+  lounge: "",
+},
   {
-    time: "10:40",
-    title: "Nike do eixo da manhã 👟",
+    time: "08:45",
+    title: "Saída do hotel 🚘",
     description:
-      "Bloco esportivo para fechar bem a manhã sem cair no caos dos grandes outlets.",
+      "Partida mais inteligente, já que a Ross abre às 09:30 e o Walmart será só uma parada relâmpago.",
     strategy:
-      "Resolver esportivo cedo mantém o dia racional e evita deixar tudo para o fim.",
+      "Sair tarde o suficiente para não ficar plantado em porta de loja, mas cedo o bastante para pegar o The Loop abrindo.",
     transport: "BMW X7",
-    location: "Nike — eixo The Loop / Kissimmee",
+    location: "Travelodge by Wyndham → Walmart rápido → The Loop / Kissimmee",
     photoSpot: "",
     practicalPlan:
-      "Entrar já em modo tênis e esportivo, resolver o que realmente compensar e sair sem transformar a Nike em novo parque temático.",
+      "Entrar no carro com rota definida: Walmart primeiro, depois The Loop. Nada de decidir caminho no estacionamento.",
     pitfalls:
-      "Gastar tempo demais aqui e chegar fraco justamente no bloco mais valioso da tarde.",
+      "Sair sem roteiro e começar a manhã rodando em Kissimmee como barata tonta premium.",
     tips: [
-      "Esportivo cedo organiza a cabeça.",
-      "Às vezes a melhor Nike é a que conversa com a rota, não a mais famosa.",
-      "Hoje cada parada precisa ter começo, meio e fim.",
+      "A rota começa no eixo certo: hotel, Walmart e The Loop.",
+      "Evitar zigue-zague cedo protege o dia inteiro.",
+      "A X7 precisa terminar o dia pronta para a madrugada seguinte.",
     ],
     hack:
-      "Resolver esportivo cedo evita bagunça mental no resto do dia.",
+      "Sair às 08:40 encaixa melhor com lojas abrindo às 09:30 e evita perder energia antes da primeira compra boa.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "12:10",
-    title: "Almoço rápido e operacional 🍗",
+    time: "08:50",
+    title: "Walmart relâmpago 🛒",
     description:
-      "Pausa curta antes da segunda metade mais técnica e valiosa do dia.",
+      "Parada de 15 minutos para itens operacionais, sem transformar supermercado em passeio.",
     strategy:
-      "Almoço bom aqui é o que alimenta e devolve vocês rápido para a missão.",
-    transport: "",
+      "Walmart hoje é pit stop, não atração. A missão é pegar o básico e sair antes que o corredor de bugiganga comece a evangelizar vocês.",
+    transport: "BMW X7",
+    location: "Walmart próximo ao hotel / eixo Kissimmee",
+    photoSpot: "",
+    practicalPlan:
+      "Entrar com lista curta: água, lanche, remédio, higiene, item de viagem ou algo realmente necessário para mala e voo.",
+    pitfalls:
+      "Pegar carrinho grande, passear por corredor aleatório e perder justamente a janela boa do The Loop.",
+    tips: [
+      "Sem carrinho grande se não for indispensável.",
+      "Compra operacional precisa caber em 15 minutos.",
+      "O The Loop é a prioridade da manhã, não o Walmart.",
+    ],
+    hack:
+      "Walmart bom hoje é Walmart esquecido rápido: resolveu e sumiu.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "09:20",
+    title: "Chegada ao The Loop + estacionamento 🎯",
+    description:
+      "Chegada com poucos minutos de margem para começar pela Ross assim que a loja abrir.",
+    strategy:
+      "Estacionar bem, alinhar o grupo e começar o bloco pela loja que mais pode resolver pendência prática.",
+    transport: "BMW X7",
+    location: "The Loop — Kissimmee, FL",
+    photoSpot: "",
+    practicalPlan:
+      "Parar perto da Ross/Burlington, definir ponto de encontro e combinar que cada loja terá passada objetiva.",
+    pitfalls:
+      "Chegar e cada um andar para um lado sem tempo máximo definido.",
+    tips: [
+      "The Loop hoje é pente-fino, porque vocês já passaram por lá.",
+      "O foco é validar o que ficou faltando.",
+      "Se a loja não entregar em poucos minutos, troca de loja.",
+    ],
+    hack:
+      "Ponto de encontro combinado evita o clássico sumiço de shopping que custa 20 minutos e ninguém assume.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "09:30",
+    title: "The Loop — Ross + Burlington 🧳",
+    description:
+      "Primeiro bloco forte da manhã para malas, básicos, roupas e achados de oportunidade.",
+    strategy:
+      "Começar pelas lojas de maior chance de garimpo prático antes de partir para marcas específicas.",
+    transport: "Caminhada / carro curtíssimo",
+    location: "Ross Dress for Less + Burlington — The Loop / Kissimmee",
+    photoSpot:
+      "Se aparecer mala ou achado absurdo, foto de vitória com sacolas vale o registro.",
+    practicalPlan:
+      "Na Ross, olhar malas, frio, básicos e oportunidades fortes. Na Burlington, validar especialmente malas, casacos, roupas e itens de viagem.",
+    pitfalls:
+      "Passar tempo demais em produto médio só porque está barato. Barato ruim continua caro.",
+    tips: [
+      "Ross abre a régua do dia.",
+      "Burlington entra porque pode resolver mala e peça útil com preço forte.",
+      "Se achou algo realmente bom, decide na hora.",
+    ],
+    hack:
+      "Garimpo bom não aceita romantismo: viu, testou, decidiu. Depois some.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "10:15",
+    title: "The Loop — TJ Maxx + Marshalls 👕",
+    description:
+      "Validação rápida de marcas, roupas, frio e peças de melhor qualidade sem entrar no caos de outlet cheio.",
+    strategy:
+      "Aqui a lógica é qualidade com desconto, sem ficar pescando peça média por impulso.",
+    transport: "Caminhada / carro curtíssimo",
+    location: "TJ Maxx + Marshalls — The Loop / Kissimmee",
+    photoSpot: "",
+    practicalPlan:
+      "Olhar roupas boas, casacos, marcas úteis, presentes e itens que completem o que ainda falta para Washington e NYC.",
+    pitfalls:
+      "Entrar em cada corredor como se fosse a primeira loja do dia e perder o ritmo.",
+    tips: [
+      "TJ Maxx e Marshalls são validação, não escavação sem fim.",
+      "Se a Ross já resolveu uma categoria, não reabrir a mesma missão.",
+      "Tempo máximo protege o restante do roteiro.",
+    ],
+    hack:
+      "A pergunta certa é: isso resolve uma falta real ou só parece uma boa ideia porque está na mão?",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "10:50",
+    title: "The Loop — Calvin Klein, Tommy, Nike e Adidas 👟",
+    description:
+      "Fechamento do eixo The Loop com passada de olho nas marcas específicas que ainda podem completar o carrinho.",
+    strategy:
+      "Agora é olhar rápido, comparar mentalmente e comprar só se realmente compensar frente ao que ainda virá no dia.",
+    transport: "Caminhada / carro curtíssimo",
+    location: "Calvin Klein + Tommy Hilfiger + Nike + Adidas — The Loop / Kissimmee",
+    photoSpot: "",
+    practicalPlan:
+      "Passar por Calvin Klein, Tommy, Nike e Adidas em ritmo objetivo, priorizando peça faltante, tênis ou oportunidade clara.",
+    pitfalls:
+      "Ficar preso em loja de marca olhando coleção comum e perder o almoço + deslocamento para o Florida Mall.",
+    tips: [
+      "Tommy do The Loop não elimina a Tommy do Orlando International, mas pode reduzir a pressão dela.",
+      "Nike e Adidas aqui são checagem rápida.",
+      "Se a loja não estiver com preço forte, sai sem culpa.",
+    ],
+    hack:
+      "Marca conhecida não é sinônimo de oportunidade. Amanhã quem manda é preço bom com utilidade real.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "11:45",
+    title: "Almoço rápido no The Loop 🍗",
+    description:
+      "Pausa curta para comer sem destruir a segunda metade do dia.",
+    strategy:
+      "Almoço hoje é abastecimento humano. Tem que ser rápido, previsível e perto da rota.",
+    transport: "Caminhada / carro curtíssimo",
     location: "The Loop / Kissimmee",
     photoSpot: "",
     practicalPlan:
-      "Escolher algo rápido, comer sem arrastar e já sair com a cabeça na Dillard’s.",
+      "Escolher uma opção rápida no próprio The Loop ou ao lado, comer sem enrolar e sair em direção ao Florida Mall.",
     pitfalls:
-      "Transformar a pausa em restaurante demorado justamente no dia mais operacional de compras da viagem.",
+      "Sentar em restaurante demorado e transformar almoço em buraco negro de uma hora e meia.",
     tips: [
-      "Hoje almoço precisa ser útil, não memorável.",
-      "Comer rápido protege a tarde.",
-      "Nada de sentar demais no dia 21.",
+      "Chick-fil-A é a opção mais segura para velocidade.",
+      "Nada de almoço pesado antes de garimpo e deslocamento.",
+      "Comer bem e rápido vale mais que experiência gastronômica hoje.",
     ],
     hack:
-      "Almoço certo hoje não aparece na foto, mas aparece no resultado do dia.",
+      "No dia 21, o melhor almoço é aquele que vocês quase esquecem, porque o roteiro continuou redondo.",
     restaurant:
-      "Barato: Chick-fil-A — US$ 30–40/casal • Médio: Panera Bread — US$ 45–55/casal • Premium honesto: Brio Italian Grille — US$ 75–95/casal",
+      "Rápido: Chick-fil-A — prático e previsível • Alternativas: Panera Bread / lanche rápido no eixo The Loop",
     lounge: "",
   },
   {
-    time: "13:05",
-    title: "Dillard’s Clearance Center 💎",
+    time: "12:40",
+    title: "Dillard’s do Florida Mall — validação rápida 🏬",
     description:
-      "Bloco tático da tarde, onde o luxo pode encontrar preço de desova real — mas só vale se o estoque estiver convertendo de verdade.",
+      "Parada curta para comparar Dillard’s normal antes dos blocos de Adidas, Tommy e Rack.",
     strategy:
-      "Aqui não é shopping bonito. É sangue frio, olho clínico e decisão rápida para saber se vale insistir ou seguir adiante.",
+      "A Dillard’s do Florida Mall entra como checagem inteligente, mas não pode virar loja principal do dia.",
     transport: "BMW X7",
-    location: "Dillard’s Clearance Center — West Oaks Mall / Ocoee",
+    location: "Dillard’s — The Florida Mall, Orlando",
     photoSpot: "",
     practicalPlan:
-      "Entrar focado em peça forte, casaco pesado, vestido, marca boa e preço realmente absurdo, sem obrigação emocional de ficar se a loja não estiver entregando.",
+      "Entrar com foco em marcas, calçados, roupa social/casual e qualquer item faltante. Se não aparecer coisa forte em até 40 minutos, sair.",
     pitfalls:
-      "Ficar tempo demais só por orgulho de clearance e deixar o resto do dia pagar a conta. Lugar de caça ao tesouro: gostou de algo forte, separa na hora, porque voltar depois costuma ser tarde demais.",
+      "Confundir loja normal com clearance e ficar tempo demais esperando milagre de preço.",
     tips: [
-      "Esse é um bloco de oportunidade, não de obrigação.",
-      "Casacos pesados e peças premium podem aparecer muito fortes aqui, mas abril também pode trazer sobra fraca de inverno.",
-      "Se a leitura da loja estiver ruim, a decisão inteligente é cortar cedo e proteger Rack, Lake Buena e a logística final.",
+      "Essa Dillard’s serve para validar, não para sequestrar o roteiro.",
+      "A Clearance continua sendo o bloco mais promissor.",
+      "Se o The Loop já tiver resolvido muita coisa, encurtar aqui sem dó.",
     ],
     hack:
-      "Na Dillard’s, quem entra frio decide melhor se vale caçar ou se é hora de abortar sem culpa.",
+      "Dillard’s normal é termômetro; Dillard’s Clearance é caça ao tesouro. Não troca uma pela outra.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "14:40",
-    title: "Nordstrom Rack 👔",
+    time: "13:45",
+    title: "Adidas Outlet Marketplace + conferida rápida 🏷️",
     description:
-      "Segundo grande bloco da tarde para marca boa sem pagar o preço cheio do Millenia.",
+      "Bloco no eixo International Drive para Adidas e olhada objetiva nas lojas próximas do Orlando Outlet Marketplace.",
     strategy:
-      "Depois da Dillard’s, o Rack vira leitura premium inteligente, sem teatro de shopping de luxo.",
+      "Entrar pelo que foi definido: Adidas primeiro, depois só conferida rápida no que estiver realmente na rota.",
     transport: "BMW X7",
-    location: "Nordstrom Rack — Millenia Crossing",
+    location: "Adidas / Orlando Outlet Marketplace — International Drive",
     photoSpot: "",
     practicalPlan:
-      "Focar em roupa boa, calçado, marca premium e oportunidade objetiva, sem cair na armadilha do ambiente bonito.",
+      "Validar tênis, roupa esportiva e preço real na Adidas. Depois conferir rapidamente outras lojas próximas, sem abrir missão paralela.",
     pitfalls:
-      "Confundir loja organizada com sinal para perder tempo.",
+      "Transformar 'conferida rápida' em novo outlet inteiro e atrasar Tommy, Rack e Alo.",
     tips: [
-      "O Rack conversa muito bem com tua regra de comprar só o que compensa de verdade.",
-      "Esse é bloco premium com lógica.",
-      "Marca boa aqui ainda faz sentido financeiro.",
+      "Adidas aqui é comparação forte com a do The Loop.",
+      "Se não tiver preço ou numeração, não força compra.",
+      "Outras lojas só entram se forem literalmente convenientes.",
     ],
     hack:
-      "No Rack, o segredo é manter a cabeça de outlet e não a cabeça de shopping.",
+      "Outlet Marketplace bom é o que entrega rápido. Se começar a pedir tempo demais, corta e segue.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "16:00",
-    title: "Mall at Millenia — passada relâmpago ✨",
+    time: "14:30",
+    title: "Tommy Orlando International Premium Outlets 👔",
     description:
-      "Bloco opcional e curto, apenas para vitrine premium ou oportunidade rara.",
+      "Parada objetiva na Tommy do Orlando International para validar preço, promoção e peças que faltaram no The Loop.",
     strategy:
-      "Millenia hoje não manda no dia. Ele só entra se as lojas anteriores vierem fracas ou se surgir espaço real no relógio.",
+      "Como o eixo International Drive já está na rota, a Tommy entra sem criar desvio inútil.",
     transport: "BMW X7",
-    location: "Mall at Millenia — Orlando, FL",
+    location: "Tommy Hilfiger — Orlando International Premium Outlets",
+    photoSpot: "",
+    practicalPlan:
+      "Ir direto na Tommy, comparar com o que foi visto no The Loop e comprar só se houver vantagem real em preço, tamanho ou variedade.",
+    pitfalls:
+      "Entrar no outlet inteiro por impulso e perder a tarde nas lojas erradas.",
+    tips: [
+      "Tommy aqui é validação final da marca.",
+      "Se o The Loop já resolveu, essa parada pode ser bem curta.",
+      "Não deixar International Drive engolir o dia.",
+    ],
+    hack:
+      "Quando duas Tommy entram no dia, a segunda só existe para confirmar oportunidade, não para começar a compra de novo.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "15:35",
+    title: "Nordstrom Rack + Alo / Mall at Millenia ✨",
+    description:
+      "Bloco premium objetivo para validar Rack, depois Alo no Mall at Millenia sem transformar o shopping em passeio.",
+    strategy:
+      "Rack primeiro porque pode entregar marca boa com preço melhor. Alo depois porque é loja específica e rápida.",
+    transport: "BMW X7",
+    location: "Nordstrom Rack Millenia Crossing → Mall at Millenia / Alo",
     photoSpot:
-      "Claraboias e teto de vidro para um clique rápido, se o humor do dia permitir.",
+      "Mall at Millenia rende foto rápida no ambiente premium, mas só se não atrapalhar o relógio.",
     practicalPlan:
-      "Entrar, ver o que interessa e sair rápido. Luxo a preço normal hoje é observação, não compra padrão.",
+      "No Rack, olhar roupas, calçados e marcas boas. Depois seguir ao Mall at Millenia focando na Alo e, no máximo, uma olhada muito curta em loja relevante.",
     pitfalls:
-      "Deixar o Millenia crescer e roubar o Lake Buena, o Disney Springs e a logística final.",
+      "Deixar o Millenia virar passeio de luxo a preço cheio e roubar a Dillard’s Clearance.",
     tips: [
-      "Esse bloco é opcional de verdade.",
-      "Passou de rápida verificação, já começou a atrapalhar.",
-      "Hoje o bonito não pode derrotar o útil.",
+      "Nordstrom Rack é compra inteligente; Mall at Millenia é validação específica.",
+      "Alo entra como alvo, não como desculpa para rodar o shopping.",
+      "Preço cheio bonito continua sendo preço cheio.",
     ],
     hack:
-      "Millenia bom no Dia 21 é o que quase não existe.",
+      "Luxo a preço normal é museu com maquininha. Olha, entende, compra só se fizer sentido de verdade.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "17:00",
-    title: "Lake Buena Vista Factory Stores — teste rápido 🛍️",
+    time: "17:10",
+    title: "Dillard’s Clearance / Orlando Fashion Square 💎",
     description:
-      "Última chamada útil de compra antes do fechamento da noite.",
+      "Bloco tático mais importante da tarde para caça real de oportunidade.",
     strategy:
-      "Esse bloco entra em modo teste: compensou, compra; não compensou, vai embora sem remorso.",
+      "Aqui o jogo é outro: clearance de verdade, olho clínico e decisão rápida. Pode render muito ou nada — e as duas respostas são aceitáveis.",
     transport: "BMW X7",
-    location:
-      "Lake Buena Vista Factory Stores — 15657 S Apopka Vineland Rd, Orlando, FL 32821",
+    location: "Dillard’s Clearance Center — Orlando Fashion Square",
     photoSpot: "",
     practicalPlan:
-      "Entrar com olhar rápido e cirúrgico, checando só as lojas ou categorias que ainda fazem sentido real para a viagem.",
+      "Focar em roupas, calçados, casacos, vestidos, polos e marcas com preço realmente agressivo. Se a loja estiver fraca, cortar antes do horário cheio.",
     pitfalls:
-      "Tentar reinventar o dia inteiro de compras aqui.",
+      "Ficar por orgulho só porque é clearance e contaminar Vineland, jantar, abastecimento e mala.",
     tips: [
-      "Lake Buena hoje não é missão principal.",
-      "O fechamento dele em dia útil é cedo, então esse bloco não comporta romantismo.",
-      "Compensou, compra. Não compensou, rua.",
+      "Essa é a Dillard’s com maior potencial de oportunidade real.",
+      "Separar item bom na hora, porque voltar depois costuma ser fantasia.",
+      "Se em 20 minutos a leitura estiver ruim, apertar o passo.",
     ],
     hack:
-      "Saber ir embora rápido de loja fraca é habilidade de comprador maduro.",
+      "Na Clearance, maturidade é saber comprar rápido e também saber abandonar rápido.",
     restaurant: "",
     lounge: "",
   },
   {
-    time: "18:20",
-    title: "Disney Springs — passada curta 🌙",
+    time: "19:00",
+    title: "UGG / Vineland Premium Outlets 🥾",
     description:
-      "Fechamento leve da fase Flórida, mas em versão controlada e sem exagero.",
+      "Parada final de outlet com foco único na UGG, sem reabrir o Vineland inteiro.",
     strategy:
-      "Disney Springs entra hoje como passeio curto, jantar rápido e foto noturna. Nada além disso.",
+      "Vineland já foi trabalhado; hoje a ida existe para UGG e nada além do que for muito óbvio no caminho.",
     transport: "BMW X7",
-    location: "Disney Springs — Lake Buena Vista, FL",
-    photoSpot:
-      "Ponte com vista do lago e luzes da noite, sem transformar isso em novo bloco gigante.",
+    location: "UGG — Orlando Vineland Premium Outlets",
+    photoSpot: "",
     practicalPlan:
-      "Estacionar, caminhar um pouco, jantar e registrar o clima da noite sem deixar a operação da madrugada desandar.",
+      "Ir direto na UGG, conferir modelo, tamanho e preço. Comprou ou descartou, segue para jantar.",
     pitfalls:
-      "Achar que ainda existe uma noite inteira disponível e esquecer do tanque e das malas.",
+      "Achar que ainda dá para fazer Vineland completo depois de um dia inteiro de lojas.",
     tips: [
-      "Hoje Disney Springs é epílogo, não capítulo principal.",
-      "A melhor foto é a que cabe no relógio.",
-      "Esse bloco precisa ser leve.",
+      "UGG é foco único.",
+      "Se não tiver tamanho/preço, não inventa substituto ruim.",
+      "Esse bloco precisa ser curto para proteger o fechamento.",
     ],
     hack:
-      "No último grande dia de compras, Disney Springs tem que ser sobremesa — nunca prato principal.",
-    restaurant:
-      "Barato: Blaze Pizza — US$ 35–45/casal • Médio: Chicken Guy! — US$ 40–55/casal • Premium: The Boathouse — US$ 120–160/casal",
+      "Última loja boa do dia não pode virar maratona; tem que virar decisão.",
+    restaurant: "",
+    lounge: "",
+  },
+  {
+    time: "19:45",
+    title: "Jantar rápido no Five Guys 🍔",
+    description:
+      "Fechamento simples, americano e eficiente no lugar de Disney Springs.",
+    strategy:
+      "Hoje não precisa de experiência longa. Precisa de comida boa, rápida e sem estacionamento apocalíptico.",
+    transport: "BMW X7",
+    location: "Five Guys — escolher unidade mais conveniente no caminho Vineland / hotel",
+    photoSpot: "",
+    practicalPlan:
+      "Pedir direto: burger, fries para dividir e bebida. Comer sem alongar demais para ainda abastecer e organizar malas.",
+    pitfalls:
+      "Transformar jantar em nova saída noturna quando o dia seguinte começa de madrugada.",
+    tips: [
+      "Five Guys substitui bem Disney Springs neste dia.",
+      "Comida rápida protege o tanque e as malas.",
+      "Cajun fries para dividir costuma resolver a alegria da mesa.",
+    ],
+    hack:
+      "Depois de outlet, hambúrguer honesto ganha de restaurante bonito que rouba uma hora e meia.",
+    restaurant: "Five Guys",
     lounge: "",
   },
   {
     time: "20:30",
-    title: "Missão tanque cheio ⛽",
+    title: "Wawa — abastecer a BMW X7 ⛽",
     description:
-      "Abastecimento obrigatório da X7 para a devolução de madrugada no dia seguinte.",
+      "Abastecimento obrigatório com gasolina Premium antes da madrugada de devolução do carro.",
     strategy:
-      "Esse bloco é disciplina pura. O carro precisa dormir pronto para sair cedo sem susto.",
+      "Tanque cheio hoje é paz comprada para amanhã. A X7 não merece gasolina errada nem improviso às 03:00.",
     transport: "BMW X7",
-    location: "Posto no eixo Kissimmee / W Irlo Bronson Hwy",
+    location: "Wawa — 7940 W Irlo Bronson Memorial Hwy, Kissimmee, FL",
     photoSpot: "",
     practicalPlan:
-      "Abastecer com calma agora, ainda acordado e em terreno conhecido, sem depender do escuro e da pressa da madrugada.",
+      "Abastecer com Premium / 93 octane, guardar recibo e registrar painel com tanque cheio se quiser reforçar a segurança da devolução.",
     pitfalls:
-      "Deixar o combustível para o dia 22 e transformar a manhã em tensão desnecessária.",
+      "Usar Regular 87 para economizar pouco e alimentar uma BMW X7 como se fosse carrinho de supermercado motorizado.",
     tips: [
-      "Hoje abastecer é obrigatório, não opcional.",
-      "Fazer isso agora protege o voo de amanhã.",
-      "Quanto menos coisa para resolver de madrugada, melhor.",
+      "Para a X7, usar Premium / 93 octane.",
+      "Guardar recibo ajuda se houver qualquer discussão na locadora.",
+      "Abastecer hoje elimina uma tensão grande da madrugada.",
     ],
     hack:
-      "Tanque cheio à noite é uma das decisões mais inteligentes da fase Orlando.",
+      "Economia inteligente é achar Premium mais barata, não colocar combustível errado numa nave alemã.",
     restaurant: "",
     lounge: "",
   },
   {
     time: "21:00",
-    title: "Check-point final das malas 🧳",
+    title: "Hotel + fechamento das malas 🧳",
     description:
-      "Organização definitiva das compras e teste real de capacidade da X7.",
+      "Volta ao hotel para organizar compras, redistribuir peso e deixar a madrugada do dia 22 protegida.",
     strategy:
-      "Hoje vocês precisam descobrir no quarto, não no estacionamento, se tudo cabe na nave.",
-    transport: "",
+      "O dia só termina quando as malas estiverem resolvidas. Amanhã cedo não pode ter teatro de sacola no quarto.",
+    transport: "BMW X7",
     location: "Hotel em Kissimmee",
     photoSpot: "",
     practicalPlan:
-      "Fechar malas, redistribuir compras, testar o que vai na cabine e garantir que nada vai sobrar para a madrugada.",
+      "Subir compras, separar por pessoa, conferir notas, redistribuir peso, deixar roupa e documentos do voo prontos e preparar saída da madrugada.",
     pitfalls:
-      "Dormir com a ilusão de que tudo cabe e descobrir às 05:00 que a conta não fecha.",
+      "Dormir com sacolas abertas e descobrir de madrugada que nada cabe direito.",
     tips: [
-      "Varredura final em sacolas e pequenos itens é obrigatória.",
-      "Organizar o carro mentalmente hoje evita caos amanhã.",
-      "Esse é um dos blocos mais feios e mais valiosos da viagem.",
+      "Separar compras por pessoa facilita muito no aeroporto.",
+      "Mala pronta hoje é sono melhor amanhã.",
+      "O carro precisa sair de madrugada sem suspense.",
     ],
     hack:
-      "Malas resolvidas hoje fazem a madrugada de amanhã parecer muito menos cruel.",
+      "A melhor compra do dia talvez seja invisível: dormir com tudo pronto para sair limpo.",
     restaurant: "",
     lounge: "",
   },

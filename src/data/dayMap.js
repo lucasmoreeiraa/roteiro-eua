@@ -124,20 +124,20 @@ export const dayMap = {
     },
   },
 
-  21: {
+   21: {
     title: "Grand finale de compras",
-    subtitle: "The Loop → Dillard’s → Rack → Millenia relâmpago → Lake Buena → Disney Springs",
+    subtitle: "Walmart → The Loop → Florida Mall → International Dr → Millenia → Fashion Square → Vineland",
     highlights: [
       "The Loop mission 🛍️",
-      "Dillard’s Clearance 💎",
-      "Disney Springs night 🌙",
-      "Missão tanque cheio ⛽",
+      "Dillard’s dupla 💎",
+      "UGG + Five Guys 🍔",
+      "Wawa tanque cheio ⛽",
     ],
     attention: {
-      risk: "Querer acertar tudo no mesmo dia e acabar sacrificando tanque cheio, mala pronta e o fechamento leve da noite.",
-      priority: "Resolver manhã forte no The Loop, tratar Dillard’s como bloco tático e usar Rack, Millenia e Lake Buena em camadas de prioridade real.",
-      critical: "Saída do hotel às 08:00 e abastecimento da X7 às 20:30, com Millenia e Lake Buena claramente condicionados ao tempo restante.",
-      flexible: "Dillard’s, Millenia e Lake Buena só crescem se o dia estiver convertendo de verdade e sem contaminar a logística final.",
+      risk: "Tentar transformar o último dia de Orlando em passeio de shopping e acabar rodando igual barata tonta, atrasando jantar, abastecimento e malas.",
+      priority: "Validar somente o que ficou faltando, respeitando a rota lógica: Kissimmee, Florida Mall, International Drive, Millenia, Fashion Square, Vineland e hotel.",
+      critical: "Saída do hotel às 08:40, Walmart em 15 minutos, The Loop abrindo às 09:30 e Wawa às 20:30 com Premium / 93 octane para a BMW X7.",
+      flexible: "Dillard’s Florida Mall, lojas extras no Outlet Marketplace e tempo no Mall at Millenia podem ser encurtados se o dia começar a atrasar.",
     },
   },
 
