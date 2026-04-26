@@ -209,37 +209,37 @@ export const dayMap = {
     },
   },
 
-  26: {
+    26: {
     title: "Aniversário da Amanda",
-    subtitle: "Grand Central → 5ª Avenida → Katz’s → Bar Pitti → SUMMIT → Peak",
+    subtitle: "Central Park → Katz’s → Bar Pitti → 5ª Avenida → SUMMIT → Peak → Times Square",
     highlights: [
-      "Amanda’s B-day 🎂",
-      "Grand Central 🚉",
-      "Bar Pitti ☕",
+      "Central Park clássico 🌿",
+      "Katz’s + Bar Pitti 🥪☕",
+      "5ª Avenida 📸",
       "SUMMIT + Peak 🥂",
     ],
     attention: {
-      risk: "Esquecer dinheiro vivo para o Bar Pitti ou deixar a tarde crescer e contaminar o SUMMIT e o Peak.",
-      priority: "Hoje o luxo é o significado. Katz’s, SUMMIT e Peak são as âncoras intocáveis do dia.",
-      critical: "15:00 Bar Pitti, 17:00 SUMMIT e 19:30 Peak.",
-      flexible: "Tempo de caminhada entre os blocos da 5ª Avenida e a duração da passada na M&M’s Store.",
+      risk: "Deixar o almoço, o Bar Pitti ou as fotos da 5ª Avenida crescerem demais e chegar cansado ou atrasado no SUMMIT.",
+      priority: "Fazer o aniversário render o máximo com pontos clássicos, fotos objetivas e logística limpa por regiões.",
+      critical: "SUMMIT às 17:00 e Peak às 19:30 são intocáveis. Bar Pitti entra como pausa de meio da tarde, não como refeição longa.",
+      flexible: "Tempo no Central Park, ritmo do Katz’s, passagem pela Washington Square e fotos rápidas na 5ª Avenida.",
     },
   },
 
   27: {
-    title: "Central Park + Intrepid",
-    subtitle: "Belvedere → High Line → Chelsea → Intrepid + Concorde → Hudson sunset",
+    title: "Brooklyn + Intrepid",
+    subtitle: "Charging Bull → Brooklyn Bridge → DUMBO → Intrepid + Concorde → Vessel → Emily",
     highlights: [
-      "Central Park green 🌿",
-      "Belvedere Castle 🏰",
+      "Charging Bull 🐂",
+      "Brooklyn Bridge + DUMBO 🌉",
       "Intrepid + Concorde ⚓",
-      "Hudson sunset 🌅",
+      "Vessel + Emily 🍕",
     ],
     attention: {
-      risk: "Deixar a manhã crescer demais e chegar no Intrepid já sem folga para o Concorde.",
-      priority: "Manhã bonita, mas curta; estar no Pier 86 às 14:15 e proteger o pôr do sol depois do museu.",
-      critical: "Entrada no Intrepid às 14:30 e Tour do Concorde às 15:30.",
-      flexible: "Tempo no Chelsea Market e a duração do jantar de despedida no West Side.",
+      risk: "Começar tarde, gastar tempo demais nas fotos de Brooklyn e chegar no Intrepid sem margem para o Concorde.",
+      priority: "Executar a manhã como operação objetiva, proteger o Intrepid às 14:30 e o Concorde às 15:30.",
+      critical: "Intrepid às 14:30, Concorde Tour às 15:30 e Vessel durante o dia/fim de tarde.",
+      flexible: "Time Out Market e Chelsea Market ficam fora, salvo necessidade prática de banheiro/café. High Line só entra se virar caminho natural, sem obrigação.",
     },
   },
 

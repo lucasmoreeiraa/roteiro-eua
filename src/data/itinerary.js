@@ -5065,805 +5065,1147 @@ export const itinerary = {
   },
 ],
 
-      26: [
-  {
-    time: "07:40",
-    title: "Acordar 🎂",
-    description:
-      "Início do dia mais especial da fase Nova York, com foco em atmosfera, memória e celebração.",
-    strategy:
-      "Hoje o roteiro não é sobre pressa. É sobre viver bem cada bloco sem perder a elegância nem os horários que ancoram o dia.",
-    transport: "",
-    location: "",
-    photoSpot: "",
-    practicalPlan:
-      "Levantar com calma, alinhar look do dia, separar o essencial da bolsa/mochila e sair já com a cabeça em modo celebração.",
-    pitfalls:
-      "Começar o aniversário no modo correria e transformar um dia de memória em planilha com salto alto.",
-    tips: [
-      "Hoje o clima vale tanto quanto a logística.",
-      "O dia precisa parecer leve, mesmo sendo bem desenhado.",
-      "O luxo hoje está no significado.",
-    ],
-    hack:
-      "No aniversário da Amanda, elegância vale mais do que velocidade.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "08:15",
-    title: "Saída do hotel 🚕",
-    description:
-      "Partida de North Bergen rumo a Manhattan para abrir o aniversário já no clima de cinema.",
-    strategy:
-      "O hotel não oferece café, então a manhã começa em deslocamento limpo para resolver isso já no eixo nobre do dia.",
-    transport: "Uber",
-    location: "Wyndham Garden North Bergen → Manhattan",
-    photoSpot: "",
-    practicalPlan:
-      "Sair cedo, entrar em Manhattan com tranquilidade e deixar o café resolvido já perto da Grand Central.",
-    pitfalls:
-      "Perder tempo em New Jersey e deixar Manhattan começar sem ritmo.",
-    tips: [
-      "Hoje a cidade precisa abrir o dia, não o hotel.",
-      "A primeira leitura do aniversário tem que ser Manhattan.",
-      "Entrar cedo na ilha melhora o humor do dia inteiro.",
-    ],
-    hack:
-      "No Dia 26, começar em Manhattan cedo já muda a energia do aniversário.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "08:40",
-    title: "Café da manhã rápido em Manhattan ☕",
-    description:
-      "Primeiro bloco do aniversário, resolvido de forma prática e elegante, sem café de hotel nem brunch demorado.",
-    strategy:
-      "O café aqui precisa ser funcional, gostoso e leve o suficiente para não roubar o protagonismo do resto do dia.",
-    transport: "Caminhada curta",
-    location: "Eixo Grand Central / Midtown East",
-    photoSpot: "",
-    practicalPlan:
-      "Escolher uma opção rápida, tomar café com algo leve e seguir para a Grand Central já no clima certo.",
-    pitfalls:
-      "Transformar o café num bloco grande e atrasar a manhã mais bonita do roteiro.",
-    tips: [
-      "Hoje café é apoio, não atração principal.",
-      "O dia já tem âncoras fortes demais para desperdiçar tempo cedo.",
-      "Entrar leve na Grand Central funciona melhor do que entrar estufado.",
-    ],
-    hack:
-      "Café simples no lugar certo vale mais do que café sofisticado no lugar errado.",
-    restaurant:
-      "Barato: Starbucks / deli local — US$ 25–35/casal • Médio: café bom no eixo Grand Central — US$ 35–50/casal • Alternativa leve: bakery/croissant + café — US$ 30–45/casal",
-    lounge: "",
-  },
-  {
-    time: "09:00",
-    title: "Grand Central Terminal 🚉",
-    description:
-      "Abertura clássica e elegante do aniversário no coração mais cinematográfico de Manhattan.",
-    strategy:
-      "Grand Central entra para dar o tom do dia: classe, escala e atmosfera de filme.",
-    transport: "Caminhada",
-    location: "Grand Central Terminal, Manhattan",
-    photoSpot:
-      "Hall principal, relógio central e enquadramentos abertos com a arquitetura ao fundo.",
-    practicalPlan:
-      "Entrar pelo hall principal, garantir as fotos mais fortes e sentir o espaço sem deixar o bloco virar ensaio infinito.",
-    pitfalls:
-      "Ficar tempo demais tentando a foto perfeita e sacrificar o resto da manhã.",
-    tips: [
-      "Grand Central funciona melhor com enquadramento limpo e postura mais elegante.",
-      "Esse é um dos blocos mais classudos da viagem.",
-      "Aqui o ambiente faz metade do trabalho.",
-    ],
-    hack:
-      "Na Grand Central, menos pose e mais presença costumam render fotos melhores.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "09:45",
-    title: "St. Patrick’s Cathedral ⛪",
-    description:
-      "Pausa de alma e contraste arquitetônico no meio da 5ª Avenida.",
-    strategy:
-      "Esse bloco entra para trazer profundidade e calma entre os ícones mais comerciais do dia.",
-    transport: "Caminhada / Uber curto",
-    location: "St. Patrick’s Cathedral, Fifth Avenue",
-    photoSpot:
-      "Fachada externa e interior com enquadramento mais solene e simétrico.",
-    practicalPlan:
-      "Entrar, respirar o bloco, observar a arquitetura e seguir sem transformar a visita em permanência longa.",
-    pitfalls:
-      "Passar por St. Patrick’s como se fosse só mais uma igreja do caminho.",
-    tips: [
-      "Esse contraste com a 5ª Avenida é parte da beleza do dia.",
-      "O bloco funciona pelo peso e pela pausa.",
-      "Aqui o tom é respeito e contemplação.",
-    ],
-    hack:
-      "No meio de Manhattan, uma pausa de alma muda o ritmo do dia para melhor.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "10:20",
-    title: "Apple Fifth Avenue 🍎",
-    description:
-      "Bloco icônico, rápido e visual na 5ª Avenida, com o cubo de vidro como símbolo da cidade.",
-    strategy:
-      "A Apple entra aqui como experiência limpa e rápida, sem deixar o dia virar fila de loja.",
-    transport: "Caminhada",
-    location: "Apple Fifth Avenue, Manhattan",
-    photoSpot:
-      "Cubo de vidro e eixo externo da entrada.",
-    practicalPlan:
-      "Passar pelo cubo, ver o que interessa e sair sem prolongar demais a parada.",
-    pitfalls:
-      "Deixar uma loja bonita roubar tempo de um dia que já é muito mais forte do que compras de tecnologia.",
-    tips: [
-      "Hoje a Apple é memória e símbolo, não bloco longo.",
-      "A força aqui está na imagem do lugar.",
-      "Resolve rápido e segue.",
-    ],
-    hack:
-      "Loja icônica boa no roteiro é a que rende memória sem sequestrar a agenda.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "11:00",
-    title: "Louis Vuitton Fifth Avenue 👜",
-    description:
-      "Bloco premium de atmosfera, memória e significado no coração da 5ª Avenida.",
-    strategy:
-      "Aqui o luxo precisa servir a lembrança do dia, não virar correria comercial.",
-    transport: "Caminhada",
-    location: "Louis Vuitton Fifth Avenue, Manhattan",
-    photoSpot:
-      "Fachada e entorno da 5ª Avenida com leitura mais sofisticada.",
-    practicalPlan:
-      "Entrar, viver a atmosfera do bloco e manter o ritmo do dia sem transformar a parada em missão exaustiva.",
-    pitfalls:
-      "Fazer o luxo parecer obrigação e não memória.",
-    tips: [
-      "Hoje esse bloco vale mais pela atmosfera do que pelo volume.",
-      "A manhã da 5ª Avenida precisa parecer nobre, não cansativa.",
-      "Luxo aqui é contexto do aniversário.",
-    ],
-    hack:
-      "No Dia 26, o valor do luxo está no significado, não na pressa.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "11:40",
-    title: "M&M’s Store 🌈",
-    description:
-      "Respiro leve e colorido antes do almoço pesado, em um bloco curto e descomplicado.",
-    strategy:
-      "A M&M’s entra como contraste divertido no meio da manhã, mas sem ganhar peso demais no dia.",
-    transport: "Caminhada",
-    location: "M&M’s Store, Midtown Manhattan",
-    photoSpot:
-      "Escadaria colorida e composições mais leves e divertidas.",
-    practicalPlan:
-      "Entrar, ver o básico, fazer o registro rápido e sair sem transformar o bloco em turismo infantil prolongado.",
-    pitfalls:
-      "Deixar esse bloco crescer demais e roubar a elegância do dia.",
-    tips: [
-      "Aqui o tom é leveza.",
-      "Esse é o bloco mais fácil de encurtar se a manhã apertar.",
-      "Resolve rápido e segue.",
-    ],
-    hack:
-      "No aniversário da Amanda, a M&M’s funciona melhor como respiro do que como atração.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "13:00",
-    title: "Almoço travado — Katz’s Delicatessen 🥪",
-    description:
-      "Almoço raiz de Nova York, pesado, clássico e com personalidade real.",
-    strategy:
-      "O Katz’s é uma âncora do dia. Entra como experiência de NYC de verdade, sem substituição.",
-    transport: "Uber / metrô / deslocamento",
-    location: "Katz’s Delicatessen, Lower East Side",
-    photoSpot:
-      "Ambiente clássico, placa e clima autêntico do lugar.",
-    practicalPlan:
-      "Chegar, encarar a fila como parte da experiência e focar no pastrami sem transformar o bloco em pausa longa demais.",
-    pitfalls:
-      "Subestimar o tempo de fila ou sair de lá pesado demais para continuar o dia bem.",
-    tips: [
-      "Hoje o Katz’s é travado e faz sentido.",
-      "A fila é parte da narrativa do lugar.",
-      "É almoço de personalidade, não de delicadeza.",
-    ],
-    hack:
-      "No Katz’s, a experiência começa antes de sentar.",
-    restaurant: "Katz’s Delicatessen — travado",
-    lounge: "",
-  },
-  {
-    time: "15:00",
-    title: "Bar Pitti — vibe Bieber ☕🍷",
-    description:
-      "Bloco curto de atmosfera e people watching no Greenwich Village, com cara de cena espontânea e sofisticada.",
-    strategy:
-      "O Bar Pitti entra como charme de meio de tarde, não como segundo grande almoço.",
-    transport: "Uber / deslocamento",
-    location: "Bar Pitti, Greenwich Village",
-    photoSpot:
-      "Mesas na calçada e clima de rua com cara de foto paparazzi espontânea.",
-    practicalPlan:
-      "Chegar, sentar na calçada, pedir café ou vinho conforme o humor do momento e manter o bloco curto para proteger Tudor City e o SUMMIT.",
-    pitfalls:
-      "Esquecer que o lugar é cash only ou deixar o bloco crescer demais.",
-    tips: [
-      "Cash only precisa estar resolvido antes de sentar.",
-      "Esse é bloco de vibe, não de volume.",
-      "Aqui o que vale é o clima.",
-    ],
-    hack:
-      "No Bar Pitti, o aniversário fica mais cool quando parece improvisado — mesmo estando tudo planejado.",
-    restaurant: "Bar Pitti — cash only",
-    lounge: "",
-  },
-  {
-    time: "16:15",
-    title: "Tudor City — pausa estética 🌆",
-    description:
-      "Bloco visual e elegante de preparação para o clímax do SUMMIT.",
-    strategy:
-      "Tudor City entra como aquecimento perfeito para o fim da tarde: urbano, cinematográfico e sem correria.",
-    transport: "Uber / caminhada curta",
-    location: "Tudor City, Manhattan",
-    photoSpot:
-      "Enquadramentos urbanos com o skyline ao fundo e atmosfera clássica de NYC.",
-    practicalPlan:
-      "Chegar, fazer as fotos principais e usar o bloco como transição calma para a entrada do SUMMIT.",
-    pitfalls:
-      "Tratar Tudor City como simples deslocamento e perder um dos melhores respiros visuais do dia.",
-    tips: [
-      "Esse bloco funciona como aquecimento de clima.",
-      "Tudor City prepara muito bem o SUMMIT.",
-      "Aqui o tom é refinado e urbano.",
-    ],
-    hack:
-      "Antes do SUMMIT, Tudor City faz o dia respirar e ganhar mais classe.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "17:00",
-    title: "SUMMIT One Vanderbilt 💎",
-    description:
-      "Clímax visual do aniversário, com experiência imersiva, skyline e transição para a noite.",
-    strategy:
-      "Esse é o coração do dia. O resto inteiro foi desenhado para vocês chegarem aqui inteiros e no clima certo.",
-    transport: "Caminhada",
-    location: "SUMMIT One Vanderbilt, Manhattan",
-    photoSpot:
-      "Salas espelhadas, skyline e pontos mais limpos da experiência.",
-    practicalPlan:
-      "Entrar no horário, viver a experiência sem pressa neurótica e deixar o SUMMIT cumprir o papel de grande ápice visual do aniversário. Óculos de sol ou lente confortável ajudam bastante: o reflexo interno pode ficar forte e cansar rápido.",
-    pitfalls:
-      "Chegar atrasado ou entrar cansado demais por ter deixado a tarde crescer onde não devia.",
-    tips: [
-      "Esse bloco é intocável.",
-      "Hoje o SUMMIT vale pelo conjunto: sensação, vista e memória.",
-      "Chegar bem aqui é metade da vitória do dia.",
-    ],
-    hack:
-      "No Dia 26, o SUMMIT não é só atração — é capítulo central da história.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "19:30",
-    title: "Jantar no Peak 🥂",
-    description:
-      "Fechamento nobre do aniversário no alto de Manhattan, com vista e atmosfera à altura do dia.",
-    strategy:
-      "O Peak entra como jantar principal absoluto. Aqui a missão é celebrar, não correr.",
-    transport: "Uber / deslocamento",
-    location: "Peak NYC, Hudson Yards",
-    photoSpot:
-      "Vista alta da cidade, mesa e clima sofisticado da noite.",
-    practicalPlan:
-      "Chegar no horário da reserva, sentar com calma e deixar o jantar fechar o dia com o peso emocional certo. O Peak trabalha com Smart Casual, então nada de chegar com visual de parque ou tênis cansado de guerra.",
-    pitfalls:
-      "Deixar a logística da noite invadir a mesa e roubar o sentido da celebração.",
-    tips: [
-      "O Peak é âncora e não pode ser tratado como bloco comum.",
-      "Aqui a cidade vira cenário do aniversário.",
-      "Depois do SUMMIT, esse é o fechamento mais forte possível.",
-    ],
-    hack:
-      "No aniversário da Amanda, o Peak precisa ser vivido como cena final grande.",
-    restaurant: "Peak NYC — travado",
-    lounge: "",
-  },
-  {
-    time: "21:30",
-    title: "Vessel iluminado ✨",
-    description:
-      "Último bloco visual do aniversário, com arquitetura, luz e encerramento elegante.",
-    strategy:
-      "O Vessel entra como epílogo curto, bonito e simbólico. Sem alongar, sem inventar novo capítulo.",
-    transport: "Caminhada curta",
-    location: "Vessel, Hudson Yards",
-    photoSpot:
-      "Estrutura iluminada e enquadramentos noturnos com arquitetura ao fundo.",
-    practicalPlan:
-      "Passar pelo Vessel, garantir as fotos finais e usar o bloco como último suspiro visual da noite.",
-    pitfalls:
-      "Tentar transformar o pós-jantar em novo roteiro completo.",
-    tips: [
-      "Aqui é encerramento, não recomeço.",
-      "Poucos minutos bem vividos resolvem esse bloco.",
-      "A noite já estará no auge.",
-    ],
-    hack:
-      "No fim do aniversário, o Vessel funciona melhor como assinatura do que como atração longa.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "22:25",
-    title: "Retorno ao hotel 🌙",
-    description:
-      "Fechamento limpo do dia mais especial da viagem.",
-    strategy:
-      "Depois de um aniversário bem vivido, a melhor decisão é voltar sem exagero e proteger o Dia 27.",
-    transport: "Uber",
-    location: "Hudson Yards → Wyndham Garden North Bergen",
-    photoSpot: "",
-    practicalPlan:
-      "Voltar direto ao hotel, carregar eletrônicos e encerrar a noite sem reabrir Manhattan na madrugada.",
-    pitfalls:
-      "Achar que ainda cabe mais cidade depois de um dia que já foi tão bem resolvido.",
-    tips: [
-      "Hoje o dia já entregou tudo que precisava entregar.",
-      "O melhor final é o que preserva a memória bonita.",
-      "Fechar cedo também é carinho com o amanhã.",
-    ],
-    hack:
-      "Aniversário grande termina melhor quando a última decisão é simples.",
-    restaurant: "",
-    lounge: "",
-  },
-],
+  26: [
+    {
+      time: "07:20",
+      title: "Despertar tático do aniversário 🎂",
+      description:
+        "Começo do dia especial da Amanda com foco em aproveitar muito, mas sem bagunçar os horários travados.",
+      strategy:
+        "Hoje o roteiro precisa ser bonito, intenso e inteligente. A missão é fazer Central Park, Katz’s, Bar Pitti, 5ª Avenida, SUMMIT, Peak e Times Square sem virar zigue-zague caro.",
+      transport: "",
+      location: "Wyndham Garden North Bergen",
+      photoSpot: "",
+      practicalPlan:
+        "Levantar, carregar celulares, separar power bank, documentos, reserva do SUMMIT, reserva do Peak e dinheiro vivo para o Bar Pitti.",
+      pitfalls:
+        "Começar o dia sem bateria, sem dinheiro vivo ou sem noção clara da ordem dos pontos.",
+      tips: [
+        "Hoje é dia de foto, então celular carregado vale ouro.",
+        "Dinheiro vivo precisa estar resolvido antes do Bar Pitti.",
+        "SUMMIT e Peak são os dois relógios que mandam no dia.",
+      ],
+      hack:
+        "Dia especial bom não começa na rua; começa no quarto, com tudo pronto e zero improviso besta.",
+      restaurant: "",
+      lounge: "",
+    },
 
-   27: [
-  {
-    time: "07:20",
-    title: "Despertar tático 🌅",
-    description:
-      "Última manhã completa da fase NYC, com dia verde no começo e tecnologia militar na segunda metade.",
-    strategy:
-      "Hoje a missão é equilibrar beleza e disciplina. A manhã precisa ser boa, mas não pode roubar o Intrepid.",
-    transport: "",
-    location: "",
-    photoSpot: "",
-    practicalPlan:
-      "Levantar com mochila leve, documentos, celular, power bank e a lógica do dia já pronta para não desperdiçar energia cedo.",
-    pitfalls:
-      "Tratar o último dia como passeio sem relógio e começar a morder o bloco mais importante da tarde.",
-    tips: [
-      "Hoje o Intrepid é a grande âncora real do dia.",
-      "A manhã precisa ser bonita, não infinita.",
-      "O pôr do sol do Hudson só existe se a tarde for bem executada.",
-    ],
-    hack:
-      "No último dia completo, leveza com disciplina vale mais do que tentar abraçar tudo.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "08:10",
-    title: "Saída de North Bergen 🚕",
-    description:
-      "Deslocamento rumo a Manhattan para abrir o dia no verde antes do bloco militar e espacial.",
-    strategy:
-      "Entrar cedo na cidade protege o Central Park e evita deixar a manhã começar já apertada.",
-    transport: "Uber XL",
-    location: "Wyndham Garden North Bergen → Columbus Circle / Central Park",
-    photoSpot: "",
-    practicalPlan:
-      "Sair direto para o lado oeste do parque e começar o dia sem desvio desnecessário.",
-    pitfalls:
-      "Perder tempo saindo de New Jersey e deixar o Central Park começar espremido.",
-    tips: [
-      "Hoje Manhattan precisa abrir cedo.",
-      "A manhã funciona melhor quando entra limpa.",
-      "O parque rende mais quando vocês não chegam já correndo.",
-    ],
-    hack:
-      "Último dia bom em NYC começa antes da cidade ficar mais pesada.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "08:40",
-    title: "Café da manhã em Manhattan ☕",
-    description:
-      "Primeira parada do dia para resolver café cedo, já que o hotel não oferece café da manhã.",
-    strategy:
-      "Hoje o café precisa ser rápido, bom e barato, sem roubar o protagonismo do Central Park.",
-    transport: "Caminhada curta",
-    location: "Columbus Circle / Upper West Side",
-    photoSpot: "",
-    practicalPlan:
-      "Escolher uma opção simples e eficiente perto da entrada do parque, comer e seguir direto para o bloco verde.",
-    pitfalls:
-      "Transformar o café em brunch e comprometer a manhã inteira.",
-    tips: [
-      "Hoje café é apoio, não atração.",
-      "Comer cedo protege a caminhada.",
-      "Menos tempo parado, mais parque bonito.",
-    ],
-    hack:
-      "Café certo na borda do parque rende muito mais do que café bonito fora da rota.",
-    restaurant:
-      "Barato: Starbucks / deli local — US$ 25–35/casal • Médio: bagel shop boa do eixo — US$ 30–45/casal • Alternativa forte: diner rápido do Upper West Side — US$ 35–50/casal",
-    lounge: "",
-  },
-  {
-    time: "09:00",
-    title: "Central Park — entrada estratégica 🌿",
-    description:
-      "Começo do bloco verde de NYC, com foco nos pontos que realmente valem o tempo.",
-    strategy:
-      "Hoje o Central Park entra em versão cirúrgica. O objetivo é sentir o parque sem virar expedição completa.",
-    transport: "Caminhada",
-    location: "Central Park — entrada oeste/sul",
-    photoSpot:
-      "Eixos arborizados, pedras, gramados e enquadramentos mais abertos do parque.",
-    practicalPlan:
-      "Entrar com rota definida, passar pelos pontos principais e manter o ritmo para Belvedere sem abrir mil desvios.",
-    pitfalls:
-      "Se perder no parque e deixar a manhã virar passeio sem fim.",
-    tips: [
-      "Central Park recompensa direção mais do que volume.",
-      "Hoje o parque é bloco bonito, não dia inteiro.",
-      "Vale sentir o verde sem transformar isso em maratona.",
-    ],
-    hack:
-      "No Central Park, poucos pontos certos rendem mais do que muita caminhada sem foco.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "09:25",
-    title: "Bethesda Terrace + Bow Bridge 🌳",
-    description:
-      "Primeiro conjunto forte do parque, com arquitetura clássica e uma das paisagens mais bonitas de Manhattan.",
-    strategy:
-      "Esses dois pontos entram como o miolo mais fotogênico e mais elegante da manhã no parque.",
-    transport: "Caminhada",
-    location: "Bethesda Terrace / Bow Bridge — Central Park",
-    photoSpot:
-      "Terraço, escadaria, arco e ponte com o lago ao fundo.",
-    practicalPlan:
-      "Passar por Bethesda, garantir os cliques principais e seguir para Bow Bridge sem deixar o bloco ficar parado demais.",
-    pitfalls:
-      "Gastar tempo demais em composição perfeita e esticar o parque além do necessário.",
-    tips: [
-      "Bethesda rende muito em enquadramento mais clássico.",
-      "Bow Bridge fecha bem a leitura romântica do parque.",
-      "Esse bloco funciona melhor com fluidez.",
-    ],
-    hack:
-      "No Central Park, arquitetura + água quase sempre entregam as fotos mais fortes.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "10:10",
-    title: "Belvedere Castle 🏰",
-    description:
-      "Apogeu do bloco verde, com o castelo e a vista interna mais charmosa do parque.",
-    strategy:
-      "Belvedere é o grande ápice do Central Park hoje. Ele precisa entrar como ponto alto, não só como mais uma parada.",
-    transport: "Caminhada",
-    location: "Belvedere Castle — Central Park",
-    photoSpot:
-      "Varandas do castelo e vistas abertas para dentro do parque.",
-    practicalPlan:
-      "Chegar, subir, fazer as fotos principais e viver o bloco sem correria, mas sem deixar o parque sequestrar o resto do dia.",
-    pitfalls:
-      "Chegar em Belvedere já cansado ou sem tempo porque o parque anterior foi esticado demais.",
-    tips: [
-      "Esse é o melhor bloco interno do parque para foto.",
-      "O castelo fecha a manhã verde com peso visual.",
-      "Hoje o Belvedere é o centro do Central Park.",
-    ],
-    hack:
-      "No Dia 27, Belvedere vale mais do que tentar provar que vocês andaram o parque inteiro.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "11:20",
-    title: "High Line — bloco curto e objetivo 🌿",
-    description:
-      "Transição do verde clássico para o verde urbano suspenso do West Side.",
-    strategy:
-      "A High Line hoje entra curta, elegante e eficiente. É bloco de atmosfera, não de longa caminhada.",
-    transport: "Uber + caminhada",
-    location: "High Line — Hudson Yards / Chelsea",
-    photoSpot:
-      "Janelas urbanas, jardins suspensos e vistas da 10th Ave.",
-    practicalPlan:
-      "Entrar por um trecho útil, caminhar o suficiente para sentir o bloco e sair no ponto certo para o Chelsea Market.",
-    pitfalls:
-      "Transformar a High Line numa travessia longa e chegar no Intrepid com o relógio apertado.",
-    tips: [
-      "Hoje a High Line é curta por estratégia.",
-      "O valor aqui está na atmosfera urbana suspensa.",
-      "Menos percurso e mais leitura do lugar.",
-    ],
-    hack:
-      "No Dia 27, High Line boa é a que acrescenta clima sem roubar a tarde.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "12:30",
-    title: "Almoço funcional — Chelsea Market 🍜",
-    description:
-      "Pausa objetiva antes do grande bloco técnico do dia.",
-    strategy:
-      "O almoço aqui precisa ser rápido, bom e coerente com o relógio do Intrepid.",
-    transport: "Caminhada",
-    location: "Chelsea Market",
-    photoSpot: "",
-    practicalPlan:
-      "Entrar, escolher a opção certa, comer e sair sem transformar o mercado em atração principal.",
-    pitfalls:
-      "Passear demais no Chelsea Market e perder a margem mais importante do dia: o Intrepid.",
-    tips: [
-      "Hoje o mercado serve o museu, não manda no roteiro.",
-      "Comida boa e rápida vence exploração gastronômica longa.",
-      "Banheiro e rua.",
-    ],
-    hack:
-      "No Dia 27, Chelsea Market bom é o que resolve o almoço sem parecer missão paralela.",
-    restaurant:
-      "Barato: Very Fresh Noodles — US$ 35–45/casal • Médio: Friedman’s — US$ 55–75/casal • Alternativa rápida: Los Tacos No. 1 / similar — US$ 30–45/casal",
-    lounge: "",
-  },
-  {
-    time: "14:15",
-    title: "Chegada ao Pier 86 ⚓",
-    description:
-      "Posicionamento para o Intrepid com margem antes da entrada oficial e do Concorde.",
-    strategy:
-      "Hoje o museu precisa começar com calma. A margem aqui protege o bloco mais técnico e mais fácil de dar ruim.",
-    transport: "Uber / caminhada",
-    location: "Pier 86 — Intrepid Museum",
-    photoSpot:
-      "Vista externa do porta-aviões e skyline ao redor do Hudson.",
-    practicalPlan:
-      "Chegar cedo, confirmar entrada e entrar já com a ordem de ataque do museu bem clara.",
-    pitfalls:
-      "Chegar em cima e começar o museu já em modo recuperação.",
-    tips: [
-      "Hoje 14:15 é parte da estratégia.",
-      "Concorde às 15:30 não perdoa atraso.",
-      "Museu técnico bom começa antes do QR Code.",
-    ],
-    hack:
-      "No Intrepid, folga de 15 minutos vale muito mais do que pressa elegante.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "14:30",
-    title: "Entrada no Intrepid Museum ⚓",
-    description:
-      "Início da missão técnica e militar do dia no porta-aviões mais famoso de Nova York.",
-    strategy:
-      "O Intrepid precisa ser feito como parque: ordem clara, prioridades fortes e zero dispersão.",
-    transport: "Caminhada",
-    location: "Intrepid Museum — Pier 86",
-    photoSpot:
-      "Convés externo, aeronaves e a escala do navio com Manhattan ao fundo.",
-    practicalPlan:
-      "Entrar e subir direto para as áreas prioritárias, sem começar pelo que é menos raro.",
-    pitfalls:
-      "Andar sem ordem e descobrir depois que o Concorde atropelou metade do plano.",
-    tips: [
-      "Hoje o museu é bloco principal, não complemento.",
-      "A missão é zerar o que realmente importa.",
-      "Menos aleatoriedade, mais ataque por prioridade.",
-    ],
-    hack:
-      "Museu técnico bom se faz igual parque: resolve primeiro o que ninguém quer perder.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "14:35",
-    title: "Missão 1 — Space Shuttle Enterprise 🚀",
-    description:
-      "Primeiro grande ataque do museu, com o vaivém espacial como peça mais impactante do começo da visita.",
-    strategy:
-      "O Enterprise entra primeiro porque é uma das maiores joias do museu e ajuda a ancorar a visita no topo.",
-    transport: "Caminhada",
-    location: "Space Shuttle Pavilion — Intrepid Museum",
-    photoSpot:
-      "Ao lado da asa do shuttle e enquadramentos de escala da estrutura.",
-    practicalPlan:
-      "Subir direto para o pavillion, ver o Enterprise com calma curta e garantir as fotos principais antes do Concorde apertar o relógio.",
-    pitfalls:
-      "Demorar demais aqui e começar a comprimir os outros blocos técnicos.",
-    tips: [
-      "O Enterprise é uma das imagens mais fortes do museu.",
-      "Escala aqui importa muito nas fotos.",
-      "Resolve com qualidade, mas sem exagero de tempo.",
-    ],
-    hack:
-      "No Intrepid, começar pelo Enterprise coloca o museu no patamar certo logo de cara.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "15:00",
-    title: "Missão 2 — Flight Deck ✈️",
-    description:
-      "Bloco dos jatos no convés, com algumas das aeronaves mais icônicas da visita.",
-    strategy:
-      "Aqui a missão é ver as estrelas do deck sem perder a linha do tempo para o Concorde.",
-    transport: "Caminhada",
-    location: "Flight Deck — Intrepid Museum",
-    photoSpot:
-      "A-12 Blackbird, F-14 Tomcat, Harrier e grupo entre os aviões com skyline ao fundo.",
-    practicalPlan:
-      "Passar primeiro pelos jatos mais emblemáticos e evitar gastar tempo demais em aeronaves secundárias antes do tour travado.",
-    pitfalls:
-      "Se encantar com o deck inteiro e chegar no Concorde correndo.",
-    tips: [
-      "A-12, F-14 e Harrier são prioridades claras.",
-      "O deck tem leitura muito forte com Manhattan ao fundo.",
-      "Esse bloco é rápido por necessidade, não por falta de valor.",
-    ],
-    hack:
-      "No Flight Deck, saber o que ver primeiro é o que separa visita boa de visita apertada.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "15:30",
-    title: "Missão 3 — Concorde Tour 🛫",
-    description:
-      "A joia da coroa do Intrepid: o tour guiado dentro do jato supersônico.",
-    strategy:
-      "Esse é o bloco mais travado do museu. Nada pode comprometer esse horário.",
-    transport: "Caminhada",
-    location: "Concorde G-BOAD — Intrepid Museum",
-    photoSpot:
-      "Fuselagem externa e interior vintage com assentos e painéis clássicos.",
-    practicalPlan:
-      "Estar no ponto do tour com antecedência curta, entrar no fluxo guiado e viver o Concorde como experiência central da visita.",
-    pitfalls:
-      "Chegar atrasado e perder o bloco mais exclusivo do museu.",
-    tips: [
-      "Esse tour é a joia da coroa do dia técnico.",
-      "O interior rende uma estética muito própria dos anos 70/80.",
-      "Aqui a pontualidade vale mais do que qualquer outro bloco do museu.",
-    ],
-    hack:
-      "No Dia 27, o Concorde é o tipo de bloco que precisa ser tratado como ingresso de parque.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "16:10",
-    title: "Missão 4 — USS Growler + Hangar Deck 🔱",
-    description:
-      "Fechamento técnico do museu com a experiência do submarino e o interior do navio.",
-    strategy:
-      "Depois do Concorde, o Growler entra se a fila estiver saudável; o restante fecha o museu sem esticar demais a visita.",
-    transport: "Caminhada",
-    location: "USS Growler / Hangar Deck — Intrepid Museum",
-    photoSpot:
-      "Interior do submarino e áreas internas do navio com clima de Guerra Fria.",
-    practicalPlan:
-      "Checar a fila do Growler, entrar se estiver razoável e usar o Hangar Deck como bloco de fechamento do Intrepid.",
-    pitfalls:
-      "Forçar tudo até o limite e sair do museu já destruído para o pôr do sol.",
-    tips: [
-      "O Growler vale muito se a fila colaborar.",
-      "O Hangar Deck fecha bem a visita sem exagero.",
-      "Hoje o museu precisa terminar alto, não arrastado.",
-    ],
-    hack:
-      "Saber quando fechar o Intrepid é o que salva o Hudson depois.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "18:20",
-    title: "Pôr do sol no Hudson 🌅",
-    description:
-      "Despedida visual de Manhattan à beira-rio, com a luz fechando o último dia completo em NYC.",
-    strategy:
-      "Esse bloco é prêmio. O Intrepid precisa servir o pôr do sol, não destruí-lo.",
-    transport: "Caminhada",
-    location: "Hudson River / West Side waterfront",
-    photoSpot:
-      "Margem do rio, luz dourada e skyline do West Side no fim da tarde.",
-    practicalPlan:
-      "Sair do museu e pegar um ponto bom do rio para viver alguns minutos de respiro e despedida visual da cidade.",
-    pitfalls:
-      "Deixar o museu crescer demais e transformar o pôr do sol em bloco corrido ou inexistente.",
-    tips: [
-      "Hoje o Hudson fecha a estética do dia.",
-      "Esse é o respiro final de Manhattan antes da noite prática.",
-      "Pouco tempo bem vivido aqui vale muito.",
-    ],
-    hack:
-      "No último dia completo, um bom pôr do sol vale mais do que tentar encaixar mais um bloco urbano.",
-    restaurant: "",
-    lounge: "",
-  },
-  {
-    time: "19:15",
-    title: "Jantar de despedida — bom, marcante e barato 🍔",
-    description:
-      "Última refeição forte em NYC, com cara conhecida, gostosa e sem teatro.",
-    strategy:
-      "O jantar hoje precisa ser barato, marcante e bem executado. Nada de restaurante querendo aparecer mais do que a cidade.",
-    transport: "Caminhada / Uber curto",
-    location: "West Side / Hudson Yards / Hell’s Kitchen",
-    photoSpot: "",
-    practicalPlan:
-      "Escolher uma opção clássica, matar a fome com honestidade e seguir para o hotel ainda com dignidade para arrumar tudo.",
-    pitfalls:
-      "Inventar jantar sofisticado demais e chegar morto na mala da noite.",
-    tips: [
-      "Hoje o jantar precisa ser conhecido e certeiro.",
-      "A despedida boa é a que fecha forte sem complicar.",
-      "Comida marcante e preço honesto vencem pose nesse bloco.",
-    ],
-    hack:
-      "No Dia 27, hambúrguer clássico bom vale mais do que jantar bonito e lento.",
-    restaurant:
-      "Barato/clássico: Shake Shack Hudson Yards — US$ 35–45/casal • Médio confortável: Tavola — US$ 75–90/casal • Marcante: Whitmans — US$ 90–110/casal",
-    lounge: "",
-  },
-  {
-    time: "20:30",
-    title: "Operação mala pronta 🧳",
-    description:
-      "Retorno ao hotel para fechar a viagem em modo cirúrgico e proteger a saída brutal da madrugada.",
-    strategy:
-      "Hoje a noite precisa terminar com tudo resolvido. Acordar cedo amanhã com mala aberta seria erro imperdoável.",
-    transport: "Uber",
-    location: "Manhattan → Wyndham Garden North Bergen",
-    photoSpot: "",
-    practicalPlan:
-      "Voltar ao hotel, fechar malas, alinhar itens de cabine e deixar tudo pronto para a saída de 03:20.",
-    pitfalls:
-      "Chegar no hotel tarde, cansado e ainda começar a discutir mala no improviso.",
-    tips: [
-      "A missão de hoje termina no quarto, não no jantar.",
-      "Malas prontas hoje compram uma madrugada muito menos feia amanhã.",
-      "Esse é um dos blocos mais valiosos do dia.",
-    ],
-    hack:
-      "No último dia, arrumar a mala cedo é tão estratégico quanto qualquer ingresso.",
-    restaurant: "",
-    lounge: "",
-  },
-],
+    {
+      time: "08:00",
+      title: "Saída de North Bergen para Manhattan 🚕",
+      description:
+        "Entrada cedo em Manhattan para abrir o dia no Central Park antes da cidade ficar pesada.",
+      strategy:
+        "Sair cedo protege o bloco mais bonito da manhã e evita gastar Uber caro no pior horário.",
+      transport: "Uber até Manhattan + caminhada/metrô conforme trânsito",
+      location: "Wyndham Garden North Bergen → Central Park",
+      photoSpot: "",
+      practicalPlan:
+        "Ir direto para a região de Bethesda Terrace / Bow Bridge, sem parar no caminho. A manhã precisa começar no parque, não em deslocamento aleatório.",
+      pitfalls:
+        "Deixar o trânsito de New Jersey engolir a manhã e começar o aniversário já correndo.",
+      tips: [
+        "Se o trânsito estiver pesado, combinar Uber até uma entrada eficiente e caminhar.",
+        "Central Park cedo rende foto melhor e menos multidão.",
+        "Hoje não tem espaço para deslocamento sem propósito.",
+      ],
+      hack:
+        "Entrar cedo em Manhattan compra tempo, foto boa e menos stress. É o triplo combo.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "09:10",
+      title: "Bethesda Terrace — foto clássica do Central Park 🌿",
+      description:
+        "Primeiro ponto forte do dia, com arquitetura elegante, fonte, escadarias e atmosfera clássica de Nova York.",
+      strategy:
+        "Começar por Bethesda porque ela entrega foto bonita rápido, sem exigir caminhada longa nem caça ao ângulo perfeito.",
+      transport: "Caminhada",
+      location: "Bethesda Terrace, Central Park",
+      photoSpot:
+        "Foto 1: Bethesda Terrace Arcade, no centro da passagem coberta, pegando o teto decorado e os arcos. Foto 2: em frente à Bethesda Fountain, com a fonte e o lago ao fundo.",
+      practicalPlan:
+        "Chegar direto na arcada, fazer a foto simétrica principal, depois descer para a fonte e resolver mais uma foto aberta com o lago.",
+      pitfalls:
+        "Ficar tentando a foto perfeita enquanto o parque inteiro começa a encher.",
+      tips: [
+        "A arcada é o ponto mais elegante, não pule.",
+        "Na fonte, use enquadramento aberto para aparecer a paisagem.",
+        "Aqui é foto forte e rápida, não ensaio de casamento.",
+      ],
+      hack:
+        "Bethesda entrega cara de filme antigo de NYC sem precisar andar meio parque procurando cenário.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "09:40",
+      title: "Bow Bridge — foto romântica objetiva 🌉",
+      description:
+        "Um dos pontos mais fotogênicos do Central Park, com lago, ponte e prédios ao fundo.",
+      strategy:
+        "A Bow Bridge entra logo depois de Bethesda porque fica próxima e fecha o bloco romântico do parque sem perda de logística.",
+      transport: "Caminhada",
+      location: "Bow Bridge, Central Park",
+      photoSpot:
+        "Melhor ponto: na entrada da ponte, antes de atravessar, pegando a curva da ponte, o lago e os prédios ao fundo. Segunda foto: no meio da ponte, com o lago atrás.",
+      practicalPlan:
+        "Fazer duas fotos principais e seguir. Não atravessar várias vezes procurando ângulo, porque o melhor ponto já é a entrada da ponte.",
+      pitfalls:
+        "Perder 30 minutos esperando a ponte ficar vazia. Em NYC, ponte vazia é milagre, não estratégia.",
+      tips: [
+        "Use a lateral da ponte para fugir da multidão.",
+        "Foto vertical funciona muito bem aqui.",
+        "Amanda e Rafa ficam melhores com o lago atrás, não coladas na grade.",
+      ],
+      hack:
+        "Na Bow Bridge, o segredo é aceitar movimento e usar a ponte como moldura, não esperar o parque virar estúdio.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "10:10",
+      title: "Belvedere Castle — Castelo do Central Park 🏰",
+      description:
+        "Ponto visual forte do parque, com arquitetura diferente e vista bonita para fechar o bloco verde.",
+      strategy:
+        "O Belvedere entra como fechamento do Central Park. Bonito, rápido e com cara de lugar especial.",
+      transport: "Caminhada",
+      location: "Belvedere Castle, Central Park",
+      photoSpot:
+        "Melhor foto: do lado de fora, na área do Turtle Pond, pegando o castelo inteiro de frente/lateral. Segunda foto: na escadaria ou entrada do castelo, se estiver livre.",
+      practicalPlan:
+        "Fazer a foto externa principal primeiro. Só entrar se estiver rápido e sem fila, porque o objetivo aqui é imagem forte, não visita longa.",
+      pitfalls:
+        "Entrar e gastar tempo demais dentro do castelo, onde a foto nem sempre é melhor.",
+      tips: [
+        "A foto de fora é mais importante que a de dentro.",
+        "O Turtle Pond ajuda a pegar o castelo inteiro.",
+        "Se estiver cheio, resolva a foto lateral e siga.",
+      ],
+      hack:
+        "No Belvedere, quem fotografa de fora ganha a melhor lembrança e economiza tempo.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "11:15",
+      title: "Deslocamento para Katz’s Delicatessen 🚇",
+      description:
+        "Saída do Central Park para o Lower East Side, usando metrô para economizar Uber e tempo.",
+      strategy:
+        "Agora é sair do parque e descer Manhattan de forma prática. Katz’s entra como almoço principal do dia.",
+      transport: "Metrô / caminhada curta",
+      location: "Central Park → Katz’s Delicatessen",
+      photoSpot: "",
+      practicalPlan:
+        "Usar metrô para descer até a região do Lower East Side. Evitar Uber longo atravessando Manhattan no meio do dia.",
+      pitfalls:
+        "Tentar fazer tudo de Uber e perder tempo parado no trânsito de Manhattan.",
+      tips: [
+        "Metrô aqui é aliado, não downgrade.",
+        "Já deixar o destino aberto no Maps antes de sair do parque.",
+        "Katz’s pode ter fila; chegar antes do pico ajuda.",
+      ],
+      hack:
+        "Em Manhattan, metrô bem usado é dinheiro salvo e tempo comprado.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "12:00",
+      title: "Almoço no Katz’s Delicatessen 🥪",
+      description:
+        "Almoço raiz de Nova York, clássico, histórico e obrigatório para sentir a cidade de verdade.",
+      strategy:
+        "O Katz’s entra como experiência gastronômica principal do dia, mas com execução objetiva para não contaminar a tarde.",
+      transport: "Caminhada",
+      location: "Katz’s Delicatessen, 205 E Houston St, Lower East Side",
+      photoSpot:
+        "Foto externa com a fachada do Katz’s. Dentro, foto no salão com os letreiros e balcão ao fundo. Se der, foto do sanduíche de pastrami cortado ao meio.",
+      practicalPlan:
+        "Pedir pastrami sandwich para dividir, picles e bebida. Comer bem, registrar o clássico e sair sem transformar almoço em longa permanência.",
+      pitfalls:
+        "Sair pesado demais ou gastar tempo demais em fila/mesa e atrasar Bar Pitti + 5ª Avenida.",
+      tips: [
+        "O pastrami é a estrela. Não complique.",
+        "Guarde o ticket/comanda que entregam na entrada.",
+        "É lugar cheio e raiz; faz parte da experiência.",
+      ],
+      hack:
+        "Katz’s não é almoço delicado, é pancada clássica de NYC. Vai sem frescura e aproveita.",
+      restaurant: "Katz’s Delicatessen — almoço principal",
+      lounge: "",
+    },
+
+    {
+      time: "13:20",
+      title: "Washington Square Park — arco clássico rápido 🏛️",
+      description:
+        "Passagem estratégica perto do Bar Pitti para incluir mais um ícone de NYC sem desviar demais.",
+      strategy:
+        "Esse bloco entra porque fica bem conectado com Greenwich Village e entrega uma foto forte em poucos minutos.",
+      transport: "Metrô / caminhada curta",
+      location: "Washington Square Park, Greenwich Village",
+      photoSpot:
+        "Foto principal: de frente para o Washington Square Arch, centralizado, pegando o arco inteiro. Segunda foto: sob o arco, olhando para a 5ª Avenida.",
+      practicalPlan:
+        "Chegar, fazer a foto do arco e seguir para o Bar Pitti. Não transformar o parque em passeio longo.",
+      pitfalls:
+        "Sentar, relaxar demais e deixar o relógio escapar antes da parte mais importante do dia.",
+      tips: [
+        "O arco é a foto. O resto é bônus.",
+        "Boa parada para vídeo rápido de NYC.",
+        "Se estiver muito cheio, use enquadramento mais fechado no arco.",
+      ],
+      hack:
+        "Washington Square Park é o tipo de ponto que vale muito quando entra como passagem, não como missão longa.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "14:00",
+      title: "Bar Pitti — pausa da Rafa no meio da tarde ☕",
+      description:
+        "Parada charmosa no Greenwich Village, com clima de rua, foto e experiência leve antes de subir para Midtown.",
+      strategy:
+        "O Bar Pitti entra como pedido da Rafa e como pausa de meio da tarde, não como almoço pesado.",
+      transport: "Caminhada curta",
+      location: "Bar Pitti, 268 6th Ave, Greenwich Village",
+      photoSpot:
+        "Foto principal: fachada externa e mesas na calçada, com clima espontâneo de rua. Segunda foto: Amanda/Rafa na calçada, pegando o movimento do Village ao fundo.",
+      practicalPlan:
+        "Chegar, tentar mesa rápida ou fazer pausa curta para café/bebida. Se a espera estiver absurda, fazer foto externa, tomar algo próximo e seguir.",
+      pitfalls:
+        "Esquecer dinheiro vivo ou deixar o Bar Pitti crescer a ponto de ameaçar SUMMIT e Peak.",
+      tips: [
+        "Entrou como pausa charmosa, não como refeição longa.",
+        "Foto externa resolve boa parte da memória do lugar.",
+        "Se tiver fila grande, não morre abraçado na calçada.",
+      ],
+      hack:
+        "Bar Pitti bom é aquele que parece espontâneo, mas não sequestra a tarde. Estilo sem bagunça.",
+      restaurant: "Bar Pitti — pausa/café rápido",
+      lounge: "",
+    },
+
+    {
+      time: "14:50",
+      title: "Subida para a 5ª Avenida 🚇",
+      description:
+        "Deslocamento do Village para Midtown para fazer as fotos rápidas de St. Patrick’s, Apple e Louis Vuitton.",
+      strategy:
+        "Agora é subir de metrô e concentrar tudo em uma área só, sem Uber longo e sem zigue-zague.",
+      transport: "Metrô / caminhada",
+      location: "Greenwich Village → Fifth Avenue / Midtown",
+      photoSpot: "",
+      practicalPlan:
+        "Usar metrô até Midtown e executar a 5ª Avenida como bloco de fotos rápidas, não como tarde de compras.",
+      pitfalls:
+        "Transformar lojas e fachadas em passeio longo e apertar o SUMMIT.",
+      tips: [
+        "Fotos primeiro, compras só se for muito objetivo.",
+        "O relógio do SUMMIT já começa a mandar aqui.",
+        "Toda parada precisa ter propósito claro.",
+      ],
+      hack:
+        "Na 5ª Avenida, quem sabe o ponto da foto não precisa ficar caçando ângulo igual turista perdido.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "15:25",
+      title: "St. Patrick’s Cathedral — foto solene ⛪",
+      description:
+        "Parada rápida na catedral mais icônica da 5ª Avenida, com contraste forte entre fé, arquitetura e cidade.",
+      strategy:
+        "St. Patrick’s entra como foto e pausa de respeito no meio da área mais comercial de Manhattan.",
+      transport: "Caminhada",
+      location: "St. Patrick’s Cathedral, Fifth Avenue",
+      photoSpot:
+        "Foto principal: do outro lado da rua, na calçada em frente ao Saks Fifth Avenue, pegando a fachada inteira. Foto interna: corredor central, com enquadramento simétrico para o altar.",
+      practicalPlan:
+        "Fazer primeiro a foto externa atravessada, depois entrar rapidamente se estiver tranquilo.",
+      pitfalls:
+        "Ficar disputando ângulo na porta e esquecer que a melhor foto da fachada é do outro lado da rua.",
+      tips: [
+        "A fachada inteira só aparece bem de longe.",
+        "Dentro, postura respeitosa e foto rápida.",
+        "Esse bloco precisa ser bonito e curto.",
+      ],
+      hack:
+        "A foto da St. Patrick’s não é grudado na porta; é do outro lado da rua. Simples e certeiro.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "15:45",
+      title: "Louis Vuitton Fifth Avenue — foto premium 👜",
+      description:
+        "Registro rápido da fachada e da atmosfera de luxo no coração da 5ª Avenida.",
+      strategy:
+        "A LV entra pelo valor simbólico e visual, sem virar bloco de compra demorado.",
+      transport: "Caminhada",
+      location: "Louis Vuitton Fifth Avenue",
+      photoSpot:
+        "Foto principal: na diagonal da esquina, pegando fachada, vitrine e movimento da 5ª Avenida. Segunda foto: close da vitrine ou logo, sem precisar entrar se estiver cheio.",
+      practicalPlan:
+        "Fazer fachada, olhar rápido e seguir para Apple. Entrar só se estiver fluido.",
+      pitfalls:
+        "Entrar sem objetivo e perder tempo em atendimento/lotação.",
+      tips: [
+        "Fachada e vitrine já resolvem a memória visual.",
+        "Se entrar, entra com tempo contado.",
+        "O dia é da Amanda, não da fila da boutique.",
+      ],
+      hack:
+        "Luxo no roteiro precisa servir a memória, não mandar no relógio.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "16:00",
+      title: "Apple Fifth Avenue — cubo de vidro 🍎",
+      description:
+        "Ícone moderno da 5ª Avenida, rápido, limpo e visual.",
+      strategy:
+        "A Apple entra como foto simbólica, não como visita técnica.",
+      transport: "Caminhada",
+      location: "Apple Fifth Avenue",
+      photoSpot:
+        "Foto principal: afastado do cubo de vidro, pegando o cubo inteiro. Segunda foto: de baixo para cima, com o cubo e prédios no fundo.",
+      practicalPlan:
+        "Resolver as fotos externas. Entrar só se for muito rápido, porque Tudor City e SUMMIT vêm logo depois.",
+      pitfalls:
+        "Descer na loja e sumir no subsolo olhando produto como se fosse Apple Store de shopping.",
+      tips: [
+        "A foto é no cubo, não no balcão.",
+        "Quanto mais afastado, melhor aparece a estrutura.",
+        "Bloco de 10 minutos, no máximo 15.",
+      ],
+      hack:
+        "Apple Fifth Avenue é foto de arquitetura e símbolo. Compra fica para outro dia ou outro planeta.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "16:20",
+      title: "Tudor City Overpass — foto cinematográfica 🌆",
+      description:
+        "Ponto rápido e forte antes do SUMMIT, com cara de cena clássica de Manhattan.",
+      strategy:
+        "Tudor City entra porque fica perto do SUMMIT e entrega foto muito boa em pouco tempo.",
+      transport: "Metrô curto / caminhada / Uber curto se necessário",
+      location: "Tudor City Overpass, East 42nd Street",
+      photoSpot:
+        "Ponto exato: Tudor City Overpass na East 42nd Street, olhando para oeste. Foto com a rua comprimida, prédios ao fundo e clima cinematográfico de NYC.",
+      practicalPlan:
+        "Chegar, fazer a foto principal em até 10 minutos e seguir direto para o SUMMIT.",
+      pitfalls:
+        "Gastar tempo demais tentando variação. Aqui é uma foto objetiva e pronto.",
+      tips: [
+        "Olhe para oeste para pegar o eixo mais bonito.",
+        "Foto vertical funciona muito bem.",
+        "Se estiver apertado, corte esse bloco e proteja o SUMMIT.",
+      ],
+      hack:
+        "Tudor City é foto de precisão: chegou, enquadrou, disparou, foi embora.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "16:40",
+      title: "Chegada na região do SUMMIT ⏱️",
+      description:
+        "Margem de segurança antes da entrada no SUMMIT One Vanderbilt.",
+      strategy:
+        "Ingresso com horário não aceita aventura. Chegar antes é parte do plano.",
+      transport: "Caminhada",
+      location: "SUMMIT One Vanderbilt",
+      photoSpot:
+        "Foto externa rápida do One Vanderbilt, se houver tempo e sem atrapalhar a entrada.",
+      practicalPlan:
+        "Ir direto para a entrada, organizar ingressos e evitar qualquer desvio nessa janela.",
+      pitfalls:
+        "Chegar 16:59 e transformar um momento especial em correria.",
+      tips: [
+        "Esse é o bloco de proteção do dia.",
+        "Banheiro e ingresso resolvidos antes de subir.",
+        "Nada de comprar café nessa janela.",
+      ],
+      hack:
+        "Chegar cedo no ingresso travado não é exagero; é maturidade turística.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "17:00",
+      title: "SUMMIT One Vanderbilt 💎",
+      description:
+        "Clímax visual do aniversário, com salas espelhadas, skyline e experiência imersiva.",
+      strategy:
+        "Esse é o coração do dia. Tudo antes existe para vocês chegarem inteiros, bonitos e sem pressa.",
+      transport: "Caminhada",
+      location: "SUMMIT One Vanderbilt",
+      photoSpot:
+        "Foto 1: sala espelhada com skyline ao fundo. Foto 2: reflexos no chão/teto com o grupo. Foto 3: janela com Manhattan atrás. Foto 4: close da Amanda com a cidade ao fundo.",
+      practicalPlan:
+        "Entrar no horário, fazer as salas com calma controlada e priorizar fotos limpas. Óculos de sol ajudam se o reflexo estiver forte.",
+      pitfalls:
+        "Entrar cansado demais ou ficar preso em uma única sala e perder o conjunto da experiência.",
+      tips: [
+        "Reflexo forte pede roupa bem ajustada e atenção à pose.",
+        "Foto de baixo para cima pode deformar; melhor usar ângulo na altura do peito.",
+        "Procure cantos menos cheios para fotos mais limpas.",
+      ],
+      hack:
+        "No SUMMIT, foto boa é jogo de paciência curta: espera abrir 10 segundos e resolve.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "18:45",
+      title: "Deslocamento para o Peak 🥂",
+      description:
+        "Transição do SUMMIT para Hudson Yards, protegendo a reserva das 19:30.",
+      strategy:
+        "Sair do SUMMIT com margem e ir para o Peak sem inventar parada no caminho.",
+      transport: "Metrô linha 7 / Uber curto conforme preço e cansaço",
+      location: "SUMMIT One Vanderbilt → Peak NYC, Hudson Yards",
+      photoSpot: "",
+      practicalPlan:
+        "Se todos estiverem bem, usar linha 7 até Hudson Yards. Se Amanda estiver cansada ou o grupo estiver no limite, pegar Uber curto.",
+      pitfalls:
+        "Sair do SUMMIT e achar que ainda dá tempo de encaixar outra coisa antes do jantar.",
+      tips: [
+        "O Peak é reserva travada, não opção.",
+        "Chegar alguns minutos antes evita stress na recepção.",
+        "Smart casual: nada de visual de parque cansado.",
+      ],
+      hack:
+        "Depois do SUMMIT, a melhor decisão é simples: ir direto para o jantar.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "19:30",
+      title: "Jantar no Peak — celebração da Amanda 🥂",
+      description:
+        "Jantar nobre no alto de Manhattan, com vista e atmosfera para fechar o aniversário em grande estilo.",
+      strategy:
+        "O Peak é a grande cena final gastronômica do aniversário. Aqui a missão é celebrar, não correr.",
+      transport: "Caminhada / elevador do complexo",
+      location: "Peak NYC, Hudson Yards",
+      photoSpot:
+        "Foto 1: mesa com vista ao fundo. Foto 2: Amanda com skyline atrás. Foto 3: taças/brinde com a cidade desfocada. Foto 4: entrada ou corredor elegante do Peak, se estiver bonito.",
+      practicalPlan:
+        "Chegar no horário, sentar com calma e deixar o jantar respirar. Evitar falar de logística durante a refeição.",
+      pitfalls:
+        "Ficar preso no celular resolvendo próximo passo e roubar a experiência principal da noite.",
+      tips: [
+        "Esse é o momento de celebração, não de checklist.",
+        "Foto do brinde precisa acontecer cedo, antes da mesa bagunçar.",
+        "Vista boa se aproveita com calma.",
+      ],
+      hack:
+        "No Peak, a melhor foto é metade vista, metade emoção. Sem emoção vira só janela cara.",
+      restaurant: "Peak NYC — reserva 19:30",
+      lounge: "",
+    },
+
+    {
+      time: "21:45",
+      title: "Times Square — fotos noturnas finais 🌃",
+      description:
+        "Fechamento visual do aniversário com luzes, energia e caos bonito de Nova York.",
+      strategy:
+        "Times Square entra depois do Peak porque à noite entrega o que tem de melhor: luz, movimento e impacto. Aqui o objetivo é foto e vídeo, não compra.",
+      transport: "Metrô linha 7 / Uber curto",
+      location: "Peak NYC → Times Square",
+      photoSpot:
+        "Foto 1: TKTS Red Steps / Father Duffy Square, com telões atrás. Foto 2: 7th Avenue com 46th Street, no miolo das luzes. Foto 3: vídeo vertical girando lentamente com os painéis. Foto 4: Amanda olhando para os telões, sem posar demais. Foto 5: casal no meio das luzes, mas encostado na lateral para não atrapalhar o fluxo.",
+      practicalPlan:
+        "Sair do Peak e ir direto para Times Square. Fazer primeiro as fotos nos pontos certos, sem ficar andando sem rumo. Resolver fotos e vídeos em 20 a 25 minutos, depois seguir para Steve Madden.",
+      pitfalls:
+        "Entrar no modo multidão infinita e sair de lá esgotado sem foto realmente boa.",
+      tips: [
+        "Times Square é melhor em vídeo do que em foto parada.",
+        "Cuidado com personagens fantasiados querendo dinheiro por foto.",
+        "Não pare no meio do fluxo; encoste nas laterais para fotografar.",
+        "Foto boa aqui é rápida, com luz ao fundo e expressão natural."
+      ],
+      hack:
+        "Times Square boa é rápida: luz, vídeo, foto e fuga. Quem fica demais começa a pagar penitência.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "22:15",
+      title: "Steve Madden Times Square — compras da Amanda 👠",
+      description:
+        "Parada objetiva para Amanda olhar sapatos, bolsas e oportunidades na região de Times Square.",
+      strategy:
+        "A Steve Madden entra como missão de compra, não como ponto turístico. O objetivo é olhar modelos, tamanho e preço com foco.",
+      transport: "Caminhada",
+      location: "Steve Madden, Times Square",
+      photoSpot: "",
+      practicalPlan:
+        "Entrar com alvo claro: sapatos, bolsas ou algum modelo específico. Amanda olha o que interessa, testa tamanho se necessário e decide rápido. Se não tiver preço/modelo bom, sair sem dó.",
+      pitfalls:
+        "Transformar uma loja rápida em garimpo infinito depois de um dia longo.",
+      tips: [
+        "Definir antes de entrar o que vale a pena procurar.",
+        "Se o modelo não agradar nos primeiros minutos, seguir.",
+        "Comparar preço mentalmente com Brasil, mas sem travar a noite.",
+        "Compra boa é a que resolve rápido e deixa todo mundo vivo."
+      ],
+      hack:
+        "Steve Madden no fim do dia é ataque cirúrgico: entrou, viu, decidiu, saiu.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "22:45",
+      title: "Macy’s Herald Square — compra objetiva final 🛍️",
+      description:
+        "Passagem pela Macy’s para compras da Amanda, com foco em setores específicos e sem rodar a loja inteira.",
+      strategy:
+        "A Macy’s é enorme e pode engolir tempo. Aqui ela entra como compra final objetiva, não como passeio turístico.",
+      transport: "Metrô curto / caminhada / Uber curto conforme cansaço",
+      location: "Macy’s Herald Square",
+      photoSpot: "",
+      practicalPlan:
+        "Antes de entrar, Amanda define prioridade: sapato, bolsa, roupa, perfume, cosmético ou promoção. Ir direto ao setor escolhido e evitar circular sem direção. Se estiver muito cansativo ou perto do fechamento, priorizar só o que realmente importa.",
+      pitfalls:
+        "Entrar sem alvo e deixar a Macy’s virar buraco negro de tempo, energia e cartão.",
+      tips: [
+        "A Macy’s é grande demais para explorar inteira nesse horário.",
+        "Escolham no máximo 1 ou 2 setores.",
+        "Se houver pouco tempo, priorizar o que Amanda realmente quer comprar.",
+        "Lucas controla o relógio e a rota de saída, sem virar fiscal chato, mas também sem abandonar o comando."
+      ],
+      hack:
+        "Macy’s no fim da noite não é para passear; é para comprar com mira. Sem mira, vira labirinto com etiqueta.",
+      restaurant: "",
+      lounge: "",
+    },
+
+    {
+      time: "23:00",
+      title: "Retorno ao hotel 🌙",
+      description:
+        "Fechamento do aniversário e preparação para o último dia forte em NYC.",
+      strategy:
+        "Depois de um dia grande, voltar direto protege a energia da segunda, que será operação militar de verdade.",
+      transport: "Uber / metrô + Uber conforme preço",
+      location: "Times Square → Wyndham Garden North Bergen",
+      photoSpot: "",
+      practicalPlan:
+        "Voltar, colocar celulares para carregar, separar roupa confortável para segunda e deixar mochila pronta.",
+      pitfalls:
+        "Achar que ainda cabe mais cidade e destruir a manhã seguinte.",
+      tips: [
+        "Segunda começa cedo e exige energia.",
+        "Deixar mochila pronta economiza stress.",
+        "O dia da Amanda termina melhor sem exagero final.",
+      ],
+      hack:
+        "Última decisão boa do domingo: dormir com segunda já montada.",
+      restaurant: "",
+      lounge: "",
+    },
+  ],
+
+       27: [
+    {
+      time: "06:30",
+      title: "Despertar da operação final em NYC ⚔️",
+      description:
+        "Último dia completo em Nova York, com manhã de fotos fortes, tarde militar no Intrepid e noite de despedida na Emily.",
+      strategy:
+        "Hoje é operação militar. A manhã precisa ser objetiva para proteger Intrepid às 14:30 e Concorde às 15:30.",
+      transport: "",
+      location: "Wyndham Garden North Bergen",
+      photoSpot: "",
+      practicalPlan:
+        "Levantar cedo, sair com mochila leve, celular carregado, power bank, ingressos do Intrepid/Concorde e casaco confortável.",
+      pitfalls:
+        "Começar tarde e tentar compensar correndo em Brooklyn. Isso mata o dia.",
+      tips: [
+        "Hoje cada bloco tem função.",
+        "Foto boa sim, enrolação não.",
+        "Intrepid e Concorde são intocáveis.",
+      ],
+      hack:
+        "O último dia em NYC não perdoa improviso. É mira curta, passo firme e zero passeio perdido.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "07:00",
+      title: "Saída de North Bergen para Lower Manhattan 🚕",
+      description:
+        "Deslocamento cedo para começar pelo Charging Bull e encaixar Brooklyn antes do Intrepid.",
+      strategy:
+        "Entrar por Lower Manhattan permite fazer Charging Bull, Brooklyn Bridge e DUMBO em sequência lógica.",
+      transport: "Uber até Lower Manhattan / metrô se estiver muito mais vantajoso",
+      location: "Wyndham Garden North Bergen → Charging Bull",
+      photoSpot: "",
+      practicalPlan:
+        "Ir direto ao Charging Bull. Não parar para café longo antes. Se precisar, comprar algo rápido no caminho.",
+      pitfalls:
+        "Gastar a primeira hora procurando café bonito e perder a janela mais limpa das fotos.",
+      tips: [
+        "Café hoje é funcional.",
+        "Quanto mais cedo chegar no Bull, menos fila.",
+        "A manhã é externa e precisa andar.",
+      ],
+      hack:
+        "Lower Manhattan cedo é a diferença entre foto possível e multidão brigando pelo mesmo metro quadrado.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "08:00",
+      title: "Charging Bull — foto rápida e clássica 🐂",
+      description:
+        "Ícone financeiro de Wall Street, ótimo para registro rápido antes da travessia para Brooklyn.",
+      strategy:
+        "O Bull entra como ponto clássico, mas não pode virar espera longa.",
+      transport: "Caminhada",
+      location: "Charging Bull, Bowling Green",
+      photoSpot:
+        "Foto principal: na frente do touro, levemente de lado, pegando rosto e chifres. Foto alternativa: lateral do touro, se a frente estiver impossível.",
+      practicalPlan:
+        "Chegar, fazer a foto principal e sair. Se a fila estiver absurda, fazer foto lateral e seguir para a ponte.",
+      pitfalls:
+        "Perder 40 minutos esperando uma foto perfeita com o touro sozinho. Isso não existe em NYC.",
+      tips: [
+        "Foto lateral salva tempo e fica boa.",
+        "Cuidado com bolsa e celular na multidão.",
+        "Aqui é registro, não permanência.",
+      ],
+      hack:
+        "Charging Bull é igual pedágio turístico: paga com 10 minutos e segue viagem.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "08:25",
+      title: "Caminhada até a Brooklyn Bridge 🚶‍♂️",
+      description:
+        "Transição curta para iniciar uma das caminhadas mais icônicas de Nova York.",
+      strategy:
+        "Sair do Bull e ir direto para a ponte mantém o fluxo natural de Lower Manhattan para Brooklyn.",
+      transport: "Caminhada",
+      location: "Charging Bull → entrada da Brooklyn Bridge em Manhattan",
+      photoSpot:
+        "Foto rápida no caminho se aparecer enquadramento bom do Financial District, mas sem parar demais.",
+      practicalPlan:
+        "Abrir o Maps para entrada de pedestres da Brooklyn Bridge e seguir direto.",
+      pitfalls:
+        "Entrar pelo ponto errado ou ficar rodando no entorno procurando a passarela.",
+      tips: [
+        "A entrada correta economiza muito tempo.",
+        "Não siga carros; procure acesso de pedestres.",
+        "Água na mochila ajuda na travessia.",
+      ],
+      hack:
+        "Ponte boa começa antes da ponte: entrar certo evita meia hora de confusão besta.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "08:45",
+      title: "Brooklyn Bridge — travessia fotográfica 🌉",
+      description:
+        "Travessia clássica sentido Brooklyn, com cabos, arcos, skyline e uma das imagens mais fortes da cidade.",
+      strategy:
+        "Caminhar sentido Brooklyn para sair já conectado com DUMBO, Jane’s Carousel e Brooklyn Bridge Park.",
+      transport: "Caminhada",
+      location: "Brooklyn Bridge Pedestrian Walkway",
+      photoSpot:
+        "Foto principal: eixo central da passarela, perto do primeiro grande arco/torre, com os cabos formando linhas atrás. Segunda foto: olhando para Manhattan, com skyline ao fundo.",
+      practicalPlan:
+        "Andar em ritmo constante, parar nos pontos fortes e evitar travar o fluxo da ponte.",
+      pitfalls:
+        "Ficar tentando foto sem gente. A ponte sempre tem gente. Use movimento como parte da foto.",
+      tips: [
+        "A melhor foto é perto do arco, não logo no começo.",
+        "Cuidado com a faixa de bikes.",
+        "Foto vertical com cabos fica muito forte.",
+      ],
+      hack:
+        "Na Brooklyn Bridge, a multidão não some; você aprende a usar o enquadramento e vence.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "09:45",
+      title: "DUMBO — foto clássica da Manhattan Bridge 📸",
+      description:
+        "Um dos pontos mais famosos de foto em Brooklyn, com a Manhattan Bridge enquadrada entre prédios.",
+      strategy:
+        "DUMBO entra logo após a ponte porque está colado e entrega a foto mais reconhecível da região.",
+      transport: "Caminhada",
+      location: "Washington Street, DUMBO",
+      photoSpot:
+        "Ponto exato: Washington Street entre Water Street e Front Street. Foto olhando para a Manhattan Bridge entre os prédios, com o Empire State aparecendo no vão se o ângulo estiver limpo.",
+      practicalPlan:
+        "Ir direto ao ponto exato, fazer foto vertical e horizontal, e seguir para Jane’s Carousel.",
+      pitfalls:
+        "Ficar andando em DUMBO procurando o lugar. O lugar é Washington Street entre Water e Front.",
+      tips: [
+        "Fique na lateral da rua para não atrapalhar carros.",
+        "Foto vertical costuma funcionar melhor.",
+        "Se estiver cheio, espere pequenas aberturas de 10 segundos.",
+      ],
+      hack:
+        "DUMBO não é caça ao tesouro: é um endereço exato. Chegou nele, resolveu.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "10:10",
+      title: "Jane’s Carousel — foto leve no vidro 🎠",
+      description:
+        "Carrossel histórico em estrutura de vidro, com ponte e skyline criando um cenário bonito e rápido.",
+      strategy:
+        "Jane’s Carousel entra como foto charmosa e curta, sem obrigação de passeio longo.",
+      transport: "Caminhada",
+      location: "Jane’s Carousel, Brooklyn Bridge Park",
+      photoSpot:
+        "Foto principal: do lado de fora do vidro, pegando o carrossel e a Brooklyn Bridge/skyline ao fundo. Segunda foto: lateral do carrossel, com Amanda/Rafa posicionadas de lado para evitar reflexo forte.",
+      practicalPlan:
+        "Fazer as fotos externas primeiro. Só entrar se estiver fácil e rápido.",
+      pitfalls:
+        "Gastar tempo tentando controlar reflexo do vidro ou esperando o carrossel ficar vazio.",
+      tips: [
+        "Reflexo melhora se fotografar levemente na diagonal.",
+        "Foto externa normalmente é melhor que interna.",
+        "Esse bloco é curto e bonito.",
+      ],
+      hack:
+        "Jane’s Carousel é foto de 10 minutos. Passou disso, virou passeio infantil sem necessidade.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "10:30",
+      title: "Brooklyn Bridge Park — skyline de Manhattan 🏙️",
+      description:
+        "Vista aberta para Manhattan, pontes e rio, fechando o bloco de Brooklyn com foto forte.",
+      strategy:
+        "Esse é o respiro visual da manhã antes de voltar para Manhattan.",
+      transport: "Caminhada",
+      location: "Pebble Beach / Main Street Park, Brooklyn Bridge Park",
+      photoSpot:
+        "Ponto exato: Pebble Beach / Main Street Park. Foto com Manhattan ao fundo, água na frente e pontes laterais. Segunda foto: grupo de costas olhando para o skyline.",
+      practicalPlan:
+        "Ir direto para a área da Pebble Beach, fazer fotos e sair sem alongar para outros piers.",
+      pitfalls:
+        "Tentar explorar o parque inteiro e matar o tempo do Intrepid.",
+      tips: [
+        "Esse é o melhor ponto para skyline limpo.",
+        "Foto de costas olhando Manhattan funciona muito bem.",
+        "Não precisa caminhar o parque inteiro.",
+      ],
+      hack:
+        "Brooklyn Bridge Park é enorme, mas vocês só precisam do ponto certo. O resto é luxo de quem tem tempo sobrando.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "11:05",
+      title: "Retorno para Manhattan 🚇",
+      description:
+        "Saída de Brooklyn em direção ao West Side para almoço prático e Intrepid.",
+      strategy:
+        "A manhã externa termina aqui. Agora a missão é voltar para Manhattan sem atrasar a tarde travada.",
+      transport: "Metrô / Uber se o tempo apertar",
+      location: "DUMBO/Brooklyn Bridge Park → Pier 86 / Hell’s Kitchen",
+      photoSpot: "",
+      practicalPlan:
+        "Usar metrô se a rota estiver limpa. Se atrasar, pegar Uber direto para perto do Intrepid.",
+      pitfalls:
+        "Inventar Time Out Market ou Chelsea Market sem propósito e perder a margem da tarde.",
+      tips: [
+        "Time Out Market fica fora, salvo banheiro/café muito rápido.",
+        "Chelsea Market fica fora.",
+        "High Line só entra se virar caminho natural, não como obrigação.",
+      ],
+      hack:
+        "A decisão adulta aqui é cortar mercado sem função. Entrar para ficar perdido é cilada turística.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "12:15",
+      title: "Almoço próximo ao Intrepid 🍔",
+      description:
+        "Refeição prática para proteger a entrada das 14:30 e o Concorde às 15:30.",
+      strategy:
+        "Hoje almoço não é luxo. É abastecimento de guerra para o Intrepid.",
+      transport: "Caminhada / metrô",
+      location: "Pier 86 / Hell’s Kitchen / Hudson Yards",
+      photoSpot: "",
+      practicalPlan:
+        "Prioridade 1: Aviator Grill no próprio Intrepid, se já estiverem na área. Alternativa 2: Gotham West Market, se quiserem variedade rápida. Evitar restaurante demorado.",
+      pitfalls:
+        "Escolher restaurante bonito, esperar mesa e entrar no Intrepid já correndo.",
+      tips: [
+        "Aviator Grill ganha por logística.",
+        "Gotham West Market é bom se o grupo quiser opções diferentes.",
+        "Comer perto do Intrepid vale mais que comer melhor longe.",
+      ],
+      hack:
+        "Segunda não é dia de almoço memorável. É dia de chegar no Concorde sem infartar.",
+      restaurant:
+        "Escolha prática: Aviator Grill no Intrepid • Alternativa rápida: Gotham West Market • Evitar almoço demorado longe do Pier 86",
+      lounge: "",
+    },
+    {
+      time: "14:10",
+      title: "Chegada antecipada ao Intrepid ⏱️",
+      description:
+        "Margem de segurança para entrada no museu e organização da operação técnica.",
+      strategy:
+        "Chegar antes é obrigatório. O Concorde às 15:30 não perdoa atraso.",
+      transport: "Caminhada",
+      location: "Intrepid Museum, Pier 86",
+      photoSpot:
+        "Foto externa rápida do porta-aviões e do pier antes de entrar, se estiver com margem.",
+      practicalPlan:
+        "Banheiro, ingresso, segurança e alinhamento da ordem: Flight Deck, Enterprise, Concorde, Hangar/Growler se der.",
+      pitfalls:
+        "Chegar 14:29 e começar o museu no modo desespero.",
+      tips: [
+        "14:10 é o horário certo, não exagero.",
+        "Concorde manda na tarde.",
+        "Museu técnico bom começa com ordem clara.",
+      ],
+      hack:
+        "No Intrepid, 20 minutos de margem valem mais que qualquer foto extra em Brooklyn.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "14:30",
+      title: "Intrepid — Bloco 1: Flight Deck / Convés de voo ✈️",
+      description:
+        "Primeiro ataque do museu: o convés do porta-aviões, com aeronaves, escala militar e skyline do Hudson.",
+      strategy:
+        "Começar pelo convés porque é visual, impactante e ajuda a entender a escala real do porta-aviões.",
+      transport: "Caminhada dentro do museu",
+      location: "Flight Deck, Intrepid Museum",
+      photoSpot:
+        "Foto 1: grupo no convés com aeronaves atrás. Foto 2: lateral pegando a extensão do porta-aviões. Foto 3: Manhattan/Hudson ao fundo. Foto 4: estilo Top Gun andando no convés.",
+      practicalPlan:
+        "Subir direto para o convés, priorizar aeronaves mais icônicas e não parar em cada placa. Tempo alvo: 25 a 30 minutos.",
+      pitfalls:
+        "Se encantar com tudo no deck e atrasar o Concorde.",
+      tips: [
+        "Procure A-12 Blackbird, F-14 Tomcat e Harrier se estiverem acessíveis.",
+        "Use o skyline como fundo, não só os aviões.",
+        "Foto no convés precisa mostrar escala.",
+      ],
+      hack:
+        "Flight Deck bom é feito com prioridade: jatos principais, skyline e movimento. O resto é bônus.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "15:00",
+      title: "Intrepid — Bloco 2: Space Shuttle Enterprise 🚀",
+      description:
+        "Bloco espacial do museu, com o ônibus espacial Enterprise como uma das peças mais impressionantes da visita.",
+      strategy:
+        "O Enterprise entra antes do Concorde porque é raro, grande e rende foto de impacto rápido.",
+      transport: "Caminhada dentro do museu",
+      location: "Space Shuttle Pavilion, Intrepid Museum",
+      photoSpot:
+        "Foto 1: grupo com a Enterprise inteira ao fundo. Foto 2: lateral/baixo da nave para mostrar escala. Foto 3: close da asa ou cauda com perspectiva de tamanho.",
+      practicalPlan:
+        "Ver a Enterprise, fazer fotos de escala e sair com tempo para se posicionar no Concorde. Tempo alvo: 20 a 25 minutos.",
+      pitfalls:
+        "Ficar lendo todos os painéis e chegar apertado no tour das 15:30.",
+      tips: [
+        "A Enterprise não foi ao espaço em missão orbital, mas foi essencial para testes do programa Shuttle.",
+        "A força da foto aqui é escala.",
+        "Não deixe esse bloco roubar o Concorde.",
+      ],
+      hack:
+        "Enterprise é impacto visual. Veja, fotografe, entenda o básico e avance.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "15:25",
+      title: "Posicionamento para o Concorde Tour 🛫",
+      description:
+        "Movimento curto e obrigatório para chegar no tour antes do horário.",
+      strategy:
+        "Esse bloco existe para proteger a experiência mais exclusiva do museu.",
+      transport: "Caminhada dentro do museu",
+      location: "Área do Concorde, Intrepid Museum",
+      photoSpot:
+        "Foto externa rápida do Concorde de lado, pegando o bico, se a posição permitir antes do tour.",
+      practicalPlan:
+        "Estar no ponto do tour antes das 15:30. Não inventar banheiro ou loja nessa janela.",
+      pitfalls:
+        "Achar que cinco minutos dá para tudo. Não dá.",
+      tips: [
+        "Chegue antes do guia chamar.",
+        "Deixe celular pronto para fotos internas.",
+        "Ouça as instruções do tour para saber onde pode fotografar.",
+      ],
+      hack:
+        "Concorde é horário de embarque. Chegou tarde, perdeu o ouro.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "15:30",
+      title: "Intrepid — Bloco 3: Concorde Tour 🛫",
+      description:
+        "Tour guiado no avião comercial supersônico mais famoso da história.",
+      strategy:
+        "Esse é o bloco premium técnico do dia. Pontualidade absoluta.",
+      transport: "Tour guiado",
+      location: "Concorde G-BOAD, Intrepid Museum",
+      photoSpot:
+        "Foto 1: exterior lateral do Concorde pegando o bico. Foto 2: entrada/escada, se permitido. Foto 3: corredor e assentos internos. Foto 4: cockpit ou frente interna, se o guia permitir.",
+      practicalPlan:
+        "Entrar no fluxo do guia, observar cabine, janelas pequenas, assentos, corredor estreito e formato aerodinâmico.",
+      pitfalls:
+        "Entrar filmando tudo e deixar de prestar atenção nas informações do guia.",
+      tips: [
+        "O Concorde era transporte, status e engenharia juntos.",
+        "As janelas pequenas e cabine estreita chamam atenção.",
+        "Use vídeo curto interno para registrar a sensação.",
+      ],
+      hack:
+        "Frase boa para vídeo: esse era o tempo em que cruzar o Atlântico não era só transporte, era status, engenharia e coragem.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "16:00",
+      title: "Intrepid — Bloco 4: Hangar Deck / história do navio ⚓",
+      description:
+        "Parte interna do porta-aviões, com contexto histórico, guerra, bastidores e vida a bordo.",
+      strategy:
+        "Depois do Concorde, o Hangar Deck fecha a compreensão do Intrepid como navio real, não só museu de aviões.",
+      transport: "Caminhada dentro do museu",
+      location: "Hangar Deck, Intrepid Museum",
+      photoSpot:
+        "Foto 1: corredor interno com estrutura metálica. Foto 2: painel histórico forte. Foto 3: área que mostre a vida a bordo e a escala do navio.",
+      practicalPlan:
+        "Percorrer o Hangar Deck com foco no essencial: história do porta-aviões, missões e vida dos tripulantes.",
+      pitfalls:
+        "Apressar tanto que o Intrepid vira só cenário, sem história.",
+      tips: [
+        "O USS Intrepid foi comissionado em 1943.",
+        "Serviu na Segunda Guerra, Guerra Fria, Vietnã e também em missões ligadas à NASA.",
+        "Esse navio carregou guerra, disciplina, medo e coragem real.",
+      ],
+      hack:
+        "Aqui vale falar baixo e prestar atenção: não é cenografia, é história pisada por gente de verdade.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "16:30",
+      title: "Intrepid — Bloco 5 opcional: USS Growler 🔱",
+      description:
+        "Submarino da Guerra Fria, experiência apertada, diferente e muito forte se a fila colaborar.",
+      strategy:
+        "O Growler entra como bônus de alto valor. Se a fila estiver grande, corta sem culpa para proteger o Vessel.",
+      transport: "Caminhada dentro do museu",
+      location: "USS Growler, Intrepid Museum",
+      photoSpot:
+        "Foto 1: exterior do submarino. Foto 2: entrada/escotilha. Foto 3: interior estreito, se permitido e sem travar o fluxo.",
+      practicalPlan:
+        "Checar fila. Se estiver fluida, entrar. Se estiver pesada, fotografar por fora e seguir para Hudson Yards.",
+      pitfalls:
+        "Forçar submarino com fila grande e sacrificar Vessel/Emily.",
+      tips: [
+        "Submarino é interessante, mas não é mais importante que o cronograma.",
+        "Ambiente interno pode ser apertado.",
+        "Se o grupo estiver cansado, corte.",
+      ],
+      hack:
+        "Operação militar também sabe recuar. Forçar bônus e perder o principal é burrice com crachá.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "17:00",
+      title: "Saída do Intrepid para Hudson Yards 🚶‍♂️",
+      description:
+        "Transição curta para fazer o Vessel durante o dia/fim de tarde.",
+      strategy:
+        "O Vessel entra depois do Intrepid porque está relativamente perto e fica melhor com luz natural.",
+      transport: "Caminhada / Uber curto se estiverem cansados",
+      location: "Intrepid Museum → Hudson Yards / Vessel",
+      photoSpot:
+        "No caminho, se passar por Hudson River Park com boa luz, foto rápida com o rio. Sem desviar.",
+      practicalPlan:
+        "Sair do museu e seguir direto para Hudson Yards. Nada de High Line como obrigação, só se virar caminho natural e houver energia.",
+      pitfalls:
+        "Inventar caminhada extra porque 'parece perto' e chegar moído na Emily.",
+      tips: [
+        "Vessel de dia é melhor para rosto, roupa e arquitetura.",
+        "High Line não é prioridade hoje.",
+        "A caminhada precisa servir o roteiro, não virar castigo.",
+      ],
+      hack:
+        "Depois do Intrepid, o corpo começa a cobrar boleto. Seja esperto com cada passo.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "17:25",
+      title: "Vessel / Hudson Yards — foto de dia ✨",
+      description:
+        "Arquitetura marcante de Hudson Yards, melhor fotografada com luz natural ou fim de tarde.",
+      strategy:
+        "Vessel durante o dia entrega foto muito melhor que à noite para vocês, principalmente rosto, look e detalhes da estrutura.",
+      transport: "Caminhada",
+      location: "Vessel, Hudson Yards",
+      photoSpot:
+        "Foto 1: base central do Vessel olhando para cima, pegando o efeito colmeia. Foto 2: escadaria/área frontal de Hudson Yards com o Vessel ao fundo. Foto 3: lateral pegando o bronze da estrutura e os prédios.",
+      practicalPlan:
+        "Fazer fotos na base e no entorno. Não precisa transformar Hudson Yards em shopping longo.",
+      pitfalls:
+        "Entrar em loja ou shopping e perder a luz boa.",
+      tips: [
+        "Foto de baixo para cima valoriza a estrutura.",
+        "Foto afastada mostra melhor o Vessel inteiro.",
+        "Fim de tarde dá luz mais elegante.",
+      ],
+      hack:
+        "Vessel à noite é luz bonita. Vessel de dia é gente bonita + arquitetura bonita. Para vocês, dia ganha.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "18:15",
+      title: "Fechamento leve em Hudson Yards / margem do Hudson 🌅",
+      description:
+        "Respiro final antes do jantar, com vista urbana e clima de despedida de NYC.",
+      strategy:
+        "Esse bloco substitui o antigo pôr do sol no Hudson de forma mais prática e conectada.",
+      transport: "Caminhada",
+      location: "Hudson Yards / Hudson River Park",
+      photoSpot:
+        "Foto de costas olhando para o Hudson ou skyline do West Side. Se a luz estiver boa, vídeo curto de despedida da cidade.",
+      practicalPlan:
+        "Ficar pouco tempo, respirar, fazer a foto final do lado oeste e seguir para Emily.",
+      pitfalls:
+        "Esticar demais e chegar tarde/cansado no jantar.",
+      tips: [
+        "Esse é o respiro, não outro passeio longo.",
+        "A melhor foto aqui é natural, sem pose demais.",
+        "Se estiver frio ou ventando, encurte.",
+      ],
+      hack:
+        "Despedida boa é sentida, não espremida em 200 fotos iguais.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "18:45",
+      title: "Deslocamento para Pizza Loves Emily 🍕",
+      description:
+        "Saída de Hudson Yards para o jantar final planejado na Emily.",
+      strategy:
+        "Emily entra como fechamento gastronômico da segunda, com clima mais leve depois da operação Intrepid.",
+      transport: "Metrô / Uber curto conforme cansaço e preço",
+      location: "Hudson Yards → Emily West Village",
+      photoSpot: "",
+      practicalPlan:
+        "Se o grupo estiver inteiro, metrô. Se Amanda/Rafa estiverem cansadas, Uber curto e resolvido.",
+      pitfalls:
+        "Economizar demais no momento errado e chegar no jantar destruído.",
+      tips: [
+        "Depois de Intrepid + Vessel, conforto pode valer mais que economia mínima.",
+        "Confirmar unidade correta: Emily West Village.",
+        "Chegar com margem evita espera desnecessária.",
+      ],
+      hack:
+        "Economia inteligente não é sofrer sempre. Às vezes Uber curto salva a noite.",
+      restaurant: "",
+      lounge: "",
+    },
+    {
+      time: "19:30",
+      title: "Pizza Loves Emily — jantar final em NYC 🍕",
+      description:
+        "Fechamento da noite com uma das pizzas/burgers mais desejadas do roteiro.",
+      strategy:
+        "Depois de um dia pesado, a Emily fecha com comida forte, clima casual e sensação de missão cumprida.",
+      transport: "Caminhada",
+      location: "Emily West Village, 35 Downing St",
+      photoSpot:
+        "Foto 1: fachada/entrada da Emily. Foto 2: pizza na mesa vista de cima. Foto 3: burger cortado ao meio se pedirem. Foto 4: grupo brindando/mesa cheia.",
+      practicalPlan:
+        "Pedir de forma objetiva: uma pizza forte para dividir e o burger famoso se ainda houver fome. Não exagerar a ponto de atrapalhar a volta e as malas.",
+      pitfalls:
+        "Chegar morto e pedir demais. Comida boa também exige estratégia.",
+      tips: [
+        "Emily é fechamento, não competição de quem aguenta comer mais.",
+        "Foto da pizza precisa ser feita assim que chegar.",
+        "Se forem pedir burger, dividir é mais inteligente.",
+      ],
+      hack:
+        "Final bom em NYC é comida marcante, mesa feliz e ninguém passando mal no Uber depois.",
+      restaurant: "Pizza Loves Emily — jantar final",
+      lounge: "",
+    },
+    {
+      time: "20:45",
+      title: "Retorno ao hotel + operação mala pronta 🧳",
+      description:
+        "Volta para North Bergen para fechar malas e proteger a saída do dia seguinte.",
+      strategy:
+        "A missão de segunda não termina no jantar. Termina com mala pronta, celular carregado e madrugada protegida.",
+      transport: "Uber / metrô + Uber conforme preço e energia",
+      location: "Emily West Village → Wyndham Garden North Bergen",
+      photoSpot: "",
+      practicalPlan:
+        "Voltar direto, carregar celulares, separar roupa do voo, conferir passaportes, cartões, malas e itens de mão.",
+      pitfalls:
+        "Chegar tarde, cansado e ainda começar a mala do zero.",
+      tips: [
+        "Mala pronta hoje salva a madrugada.",
+        "Documento separado antes de dormir.",
+        "Carregadores e power bank na mochila, não perdidos na mala.",
+      ],
+      hack:
+        "Última noite de viagem não é para heroísmo. É para arrumar tudo e dormir com dignidade.",
+      restaurant: "",
+      lounge: "",
+    },
+  ],
 
    28: [
   {
@@ -5871,7 +6213,7 @@ export const itinerary = {
     title: "Acordar 🌙",
     description:
       "Última madrugada operacional da fase Nova York, agora com voo direto por Newark e leitura muito mais limpa para a volta a Miami.",
-    strategy:
+    strategy:   
       "Hoje ainda é madrugada, mas não é mais aquela paulada de conexão. A missão é sair do hotel organizado, cruzar para Newark sem drama e pousar em Miami já com cabeça de Mustang.",
     transport: "",
     location: "",
